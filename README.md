@@ -6,6 +6,7 @@
 * [Web специфика](readme-web.md)
 * [Разработка](readme-dev.md)
 * [Повышение квалификации](readme-hr.md)
+* [Вопросы работодателю](readme-questions.md)
 * [PHP](readme-php.md)
 * [PHP-tasks](readme-php-tasks.md)
 * [Mysql](readme-mysql.md)
