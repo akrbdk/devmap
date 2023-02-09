@@ -1,0 +1,10 @@
+bin/
+pkg/
+
+*.bat
+
+# Log
+*.log
+
+# Mac crap
+.DS_Store
