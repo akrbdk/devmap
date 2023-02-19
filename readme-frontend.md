@@ -20,3 +20,7 @@
 Замыкания.
 Регулярные выражения
 Vue
+
+Long Poling
+Short Poling
+Sent event
