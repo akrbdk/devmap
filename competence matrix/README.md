@@ -75,245 +75,245 @@
 ### Internet [&uarr;](#Содержание)
 
 
-- [Как работает интернет](/include/readme-Internet.md#Как-работает-интернет-)
-- [HTTP](/include/readme-Internet.md#HTTP-)
-- [Принцип работы браузера](/include/readme-Internet.md#Принцип-работы-браузера-)
-- [Хостинг](/include/readme-Internet.md#Хостинг-)
-- [Домен](/include/readme-Internet.md#Домен-)
-- [DNS](/include/readme-Internet.md#DNS-)
+- [Как работает интернет](include/readme-Internet.md#Как-работает-интернет-)
+- [HTTP](include/readme-Internet.md#HTTP-)
+- [Принцип работы браузера](include/readme-Internet.md#Принцип-работы-браузера-)
+- [Хостинг](include/readme-Internet.md#Хостинг-)
+- [Домен](include/readme-Internet.md#Домен-)
+- [DNS](include/readme-Internet.md#DNS-)
 
 
 ### OS and General Knowledge [&uarr;](#Содержание)
 
 
-- [Как работает ОС](/include/readme-OS-and-General-Knowledge.md#Как-работает-ОС-)
-- [Терминал](/include/readme-OS-and-General-Knowledge.md#Терминал-)
-- [Управление процессами](/include/readme-OS-and-General-Knowledge.md#Управление-процессами-)
-- [Потоки и парралелизм](/include/readme-OS-and-General-Knowledge.md#Потоки-и-парралелизм-)
-- [Управление памятью](/include/readme-OS-and-General-Knowledge.md#Управление-памятью-)
-- [Межпроцессорное взаимодействие](/include/readme-OS-and-General-Knowledge.md#Межпроцессорное-взаимодействие-)
-- [Управление I/O](/include/readme-OS-and-General-Knowledge.md#Управление-I/O-)
-- [Основы POSIX](/include/readme-OS-and-General-Knowledge.md#Основы-POSIX-)
-- [Концепция построения сети](/include/readme-OS-and-General-Knowledge.md#Концепция-построения-сети-)
+- [Как работает ОС](include/readme-OS-and-General-Knowledge.md#Как-работает-ОС-)
+- [Терминал](include/readme-OS-and-General-Knowledge.md#Терминал-)
+- [Управление процессами](include/readme-OS-and-General-Knowledge.md#Управление-процессами-)
+- [Потоки и парралелизм](include/readme-OS-and-General-Knowledge.md#Потоки-и-парралелизм-)
+- [Управление памятью](include/readme-OS-and-General-Knowledge.md#Управление-памятью-)
+- [Межпроцессорное взаимодействие](include/readme-OS-and-General-Knowledge.md#Межпроцессорное-взаимодействие-)
+- [Управление I/O](include/readme-OS-and-General-Knowledge.md#Управление-I/O-)
+- [Основы POSIX](include/readme-OS-and-General-Knowledge.md#Основы-POSIX-)
+- [Концепция построения сети](include/readme-OS-and-General-Knowledge.md#Концепция-построения-сети-)
 
 
 ### Learn a Language [&uarr;](#Содержание)
 
 
-- [Go](/include/readme-Learn-a-Language-Go.md)
-- [Rust](/include/readme-Learn-a-Language-Rust.md)
-- [Ruby](/include/readme-Learn-a-Language-Ruby.md)
-- [Python](/include/readme-Learn-a-Language-Python.md)
-- [JavaScript](/include/readme-Learn-a-Language-JavaScript.md)
-- [PHP](/include/readme-Learn-a-Language-PHP.md)
+- [Go](include/readme-Learn-a-Language-Go.md)
+- [Rust](include/readme-Learn-a-Language-Rust.md)
+- [Ruby](include/readme-Learn-a-Language-Ruby.md)
+- [Python](include/readme-Learn-a-Language-Python.md)
+- [JavaScript](include/readme-Learn-a-Language-JavaScript.md)
+- [PHP](include/readme-Learn-a-Language-PHP.md)
 
 
 ### Frameworks [&uarr;](#Содержание)
 
 
-- [ ] [Laravel](/include/readme-Frameworks-Laravel.md)
-- [ ] [Bitrix](/include/readme-Frameworks-Bitrix.md)
+- [ ] [Laravel](include/readme-Frameworks-Laravel.md)
+- [ ] [Bitrix](include/readme-Frameworks-Bitrix.md)
 
 
 ### Algoritms [&uarr;](#Содержание)
 
 
-- [ ] [Algoritms](/include/readme-Algoritms.md)
+- [ ] [Algoritms](include/readme-Algoritms.md)
 
 
 ### Version Control Systems [&uarr;](#Содержание)
 
 
-- [ ] [Git](/include/readme-Version-Control-Systems.md#Git-)
+- [ ] [Git](include/readme-Version-Control-Systems.md#Git-)
 - [ ] Repo Hosting Services:
-  - [ ] [GitHub](/include/readme-Version-Control-Systems.md#GitHub-)
-  - [ ] [GitLab](/include/readme-Version-Control-Systems.md#GitLab-)
-  - [ ] [Bitbucket](/include/readme-Version-Control-Systems.md#Bitbucket-)
+  - [ ] [GitHub](include/readme-Version-Control-Systems.md#GitHub-)
+  - [ ] [GitLab](include/readme-Version-Control-Systems.md#GitLab-)
+  - [ ] [Bitbucket](include/readme-Version-Control-Systems.md#Bitbucket-)
 
 
 ### Базы дынных [&uarr;](#Содержание)
 
 
 - [ ] More about databases:
-  - [ ] [ORM](/include/readme-Databases.md#ORM-)
-  - [ ] [ACID](/include/readme-Databases.md#ACID-)
-  - [ ] [Транзакции](/include/readme-Databases.md#Транзакции-)
-  - [ ] [Проблема N+1](/include/readme-Databases.md#Проблема-N+1-)
-  - [ ] [Нормализация](/include/readme-Databases.md#Нормализация-)
-  - [ ] [Failure Modes](/include/readme-Databases.md#Failure-Modes-)
-  - [ ] [Профилирование](/include/readme-Databases.md#Профилирование-)
+  - [ ] [ORM](include/readme-Databases.md#ORM-)
+  - [ ] [ACID](include/readme-Databases.md#ACID-)
+  - [ ] [Транзакции](include/readme-Databases.md#Транзакции-)
+  - [ ] [Проблема N+1](include/readme-Databases.md#Проблема-N+1-)
+  - [ ] [Нормализация](include/readme-Databases.md#Нормализация-)
+  - [ ] [Failure Modes](include/readme-Databases.md#Failure-Modes-)
+  - [ ] [Профилирование](include/readme-Databases.md#Профилирование-)
 
 
 - [ ] Scaling Databases:
-  - [ ] [Индексы](/include/readme-Databases.md#Индексы-)
-  - [ ] [Репликация](/include/readme-Databases.md#Репликация-)
-  - [ ] [Шардирование](/include/readme-Databases.md#Шардирование-)
-  - [ ] [Теорема CAP](/include/readme-Databases.md#Теорема-CAP-)
+  - [ ] [Индексы](include/readme-Databases.md#Индексы-)
+  - [ ] [Репликация](include/readme-Databases.md#Репликация-)
+  - [ ] [Шардирование](include/readme-Databases.md#Шардирование-)
+  - [ ] [Теорема CAP](include/readme-Databases.md#Теорема-CAP-)
 
 
 - [ ] NoSQL Databases:
   - [ ] Document DBs:
-    - [ ] [MongoDB](/include/readme-Databases.md#MongoDB-)
-    - [ ] [CouchDB](/include/readme-Databases.md#CouchDB-)
+    - [ ] [MongoDB](include/readme-Databases.md#MongoDB-)
+    - [ ] [CouchDB](include/readme-Databases.md#CouchDB-)
   - [ ] Time Series:
-    - [ ] [InfluxDB](/include/readme-Databases.md#InfluxDB-)
-    - [ ] [TimeScale](/include/readme-Databases.md#TimeScale-)
+    - [ ] [InfluxDB](include/readme-Databases.md#InfluxDB-)
+    - [ ] [TimeScale](include/readme-Databases.md#TimeScale-)
   - [ ] Realtime:
-    - [ ] [Firebase](/include/readme-Databases.md#Firebase-)
-    - [ ] [RethinkDB](/include/readme-Databases.md#RethinkDB-)
+    - [ ] [Firebase](include/readme-Databases.md#Firebase-)
+    - [ ] [RethinkDB](include/readme-Databases.md#RethinkDB-)
   - [ ] Column DB:
-    - [ ] [Cassandra](/include/readme-Databases.md#Cassandra-)
-    - [ ] [HBase](/include/readme-Databases.md#HBase-)
+    - [ ] [Cassandra](include/readme-Databases.md#Cassandra-)
+    - [ ] [HBase](include/readme-Databases.md#HBase-)
   - [ ] Key-Value:
-    - [ ] [Redis](/include/readme-Databases.md#Redis-)
-    - [ ] [DynamoDB](/include/readme-Databases.md#DynamoDB-)
+    - [ ] [Redis](include/readme-Databases.md#Redis-)
+    - [ ] [DynamoDB](include/readme-Databases.md#DynamoDB-)
   - [ ] Graph DBs:
-    - [ ] [Neo4i](/include/readme-Databases.md#Neo4i-)
+    - [ ] [Neo4i](include/readme-Databases.md#Neo4i-)
 
 
 - [ ] Relational Databases:
-  - [ ] [PostgreSQL](/include/readme-Databases.md#PostgreSQL-)
-  - [ ] [MySQL](/include/readme-Databases.md#MySQL-)
-  - [ ] [MariaDB](/include/readme-Databases.md#MariaDB-)
-  - [ ] [MS SQL](/include/readme-Databases.md#MS-SQL-)
-  - [ ] [Oracle](/include/readme-Databases.md#Oracle-)
+  - [ ] [PostgreSQL](include/readme-Databases.md#PostgreSQL-)
+  - [ ] [MySQL](include/readme-Databases.md#MySQL-)
+  - [ ] [MariaDB](include/readme-Databases.md#MariaDB-)
+  - [ ] [MS SQL](include/readme-Databases.md#MS-SQL-)
+  - [ ] [Oracle](include/readme-Databases.md#Oracle-)
 
 
 ### Learn about APIs [&uarr;](#Содержание)
 
-- [ ] [REST](/include/readme-Learn-about-APIs.md#REST-)
-- [ ] [JSON APIs](/include/readme-Learn-about-APIs.md#JSON-APIs-)
-- [ ] [SOAP](/include/readme-Learn-about-APIs.md#SOAP-)
-- [ ] [gRPC](/include/readme-Learn-about-APIs.md#gRPC-)
+- [ ] [REST](include/readme-Learn-about-APIs.md#REST-)
+- [ ] [JSON APIs](include/readme-Learn-about-APIs.md#JSON-APIs-)
+- [ ] [SOAP](include/readme-Learn-about-APIs.md#SOAP-)
+- [ ] [gRPC](include/readme-Learn-about-APIs.md#gRPC-)
 
 
 - [ ] GraphQL:
-  - [ ] [Apollo](/include/readme-Learn-about-APIs.md#Apollo-)
-  - [ ] [Relay Modern](/include/readme-Learn-about-APIs.md#Relay-Modern-)
+  - [ ] [Apollo](include/readme-Learn-about-APIs.md#Apollo-)
+  - [ ] [Relay Modern](include/readme-Learn-about-APIs.md#Relay-Modern-)
 
 
 - [ ] Authentification:
-  - [ ] [Cookie Based](/include/readme-Learn-about-APIs.md#Cookie-Based-)
-  - [ ] [QAuth](/include/readme-Learn-about-APIs.md#QAuth-)
-  - [ ] [Basic Auth](/include/readme-Learn-about-APIs.md#Basic-Auth-)
-  - [ ] [Token Auth](/include/readme-Learn-about-APIs.md#Token-Auth-)
-  - [ ] [JWT](/include/readme-Learn-about-APIs.md#JWT-)
-  - [ ] [OpenID](/include/readme-Learn-about-APIs.md#OpenID-)
-  - [ ] [SAML](/include/readme-Learn-about-APIs.md#SAML-)
+  - [ ] [Cookie Based](include/readme-Learn-about-APIs.md#Cookie-Based-)
+  - [ ] [QAuth](include/readme-Learn-about-APIs.md#QAuth-)
+  - [ ] [Basic Auth](include/readme-Learn-about-APIs.md#Basic-Auth-)
+  - [ ] [Token Auth](include/readme-Learn-about-APIs.md#Token-Auth-)
+  - [ ] [JWT](include/readme-Learn-about-APIs.md#JWT-)
+  - [ ] [OpenID](include/readme-Learn-about-APIs.md#OpenID-)
+  - [ ] [SAML](include/readme-Learn-about-APIs.md#SAML-)
 
 
-- [ ] [HATEOAS](/include/readme-Learn-about-APIs.md#HATEOAS-)
-- [ ] [Open API Specs](/include/readme-Learn-about-APIs.md#Open-API-Specs-)
+- [ ] [HATEOAS](include/readme-Learn-about-APIs.md#HATEOAS-)
+- [ ] [Open API Specs](include/readme-Learn-about-APIs.md#Open-API-Specs-)
 
 
 ### Caching [&uarr;](#Содержание)
 
 
-- [ ] [Client side](/include/readme-Caching.md#Client-side-)
-- [ ] [CDN](/include/readme-Caching.md#CDN-)
+- [ ] [Client side](include/readme-Caching.md#Client-side-)
+- [ ] [CDN](include/readme-Caching.md#CDN-)
 
 
 - [ ] Сторона сервера:
-  - [ ] [Redis](/include/readme-Caching.md#Redis-)
-  - [ ] [Memcached](/include/readme-Caching.md#Memcached-)
+  - [ ] [Redis](include/readme-Caching.md#Redis-)
+  - [ ] [Memcached](include/readme-Caching.md#Memcached-)
 
 
 ### Web Security Knowledge [&uarr;](#Содержание)
 
 
-- [ ] [HTTPS](/include/readme-Web-Security-Knowledge.md#HTTPS-)
-- [ ] [OWASP Security Risks](/include/readme-Web-Security-Knowledge.md#OWASP-Security-Risks-)
-- [ ] [CORS](/include/readme-Web-Security-Knowledge.md#CORS-)
-- [ ] [SSL/TLS](/include/readme-Web-Security-Knowledge.md#SSL/TLS-)
-- [ ] [Content Security Policy (CSP)](/include/readme-Web-Security-Knowledge.md#Content-Security-Policy-(CSP)-)
-- [ ] [Server Security](/include/readme-Web-Security-Knowledge.md#Server-Security-)
+- [ ] [HTTPS](include/readme-Web-Security-Knowledge.md#HTTPS-)
+- [ ] [OWASP Security Risks](include/readme-Web-Security-Knowledge.md#OWASP-Security-Risks-)
+- [ ] [CORS](include/readme-Web-Security-Knowledge.md#CORS-)
+- [ ] [SSL/TLS](include/readme-Web-Security-Knowledge.md#SSL/TLS-)
+- [ ] [Content Security Policy (CSP)](include/readme-Web-Security-Knowledge.md#Content-Security-Policy-(CSP)-)
+- [ ] [Server Security](include/readme-Web-Security-Knowledge.md#Server-Security-)
 
 
 - [ ] Хэш-алгоритмы:
-  - [ ] [MD 5](/include/readme-Web-Security-Knowledge.md#MD-5-)
+  - [ ] [MD 5](include/readme-Web-Security-Knowledge.md#MD-5-)
   - [ ] Семейство SHA:
-    - [ ] [scrypt](/include/readme-Web-Security-Knowledge.md#scrypt-)
-    - [ ] [bcrypt](/include/readme-Web-Security-Knowledge.md#bcrypt-)
+    - [ ] [scrypt](include/readme-Web-Security-Knowledge.md#scrypt-)
+    - [ ] [bcrypt](include/readme-Web-Security-Knowledge.md#bcrypt-)
 
 
 ### Тестирование [&uarr;](#Содержание)
 
 
-- [ ] [Integration Testing](/include/readme-Тестирование.md#Integration-Testing-)
-- [ ] [Unit Testing](/include/readme-Тестирование.md#Unit-Testing-)
-- [ ] [Functional Testing](/include/readme-Тестирование.md#Functional-Testing-)
+- [ ] [Integration Testing](include/readme-Тестирование.md#Integration-Testing-)
+- [ ] [Unit Testing](include/readme-Тестирование.md#Unit-Testing-)
+- [ ] [Functional Testing](include/readme-Тестирование.md#Functional-Testing-)
 
 
 ### CI/CD [&uarr;](#Содержание)
 
 
-- [ ] [Деплой](/include/readme-CI-CD.md)
+- [ ] [Деплой](include/readme-CI-CD.md)
 
 
 ### Software Design & Architecture [&uarr;](#Содержание)
 
 
-- [ ] [Architecture](/include/readme-Software-Design-and-Architecture.md)
+- [ ] [Architecture](include/readme-Software-Design-and-Architecture.md)
 
 
 ### Design and Development Principles [&uarr;](#Содержание)
 
-- [ ] [GOF Design Patterns](/include/readme-Design-and-Development-Principles.md#GOF-Design-Patterns-)
-- [ ] [Domain Driven Design](/include/readme-Design-and-Development-Principles.md#Domain-Driven-Design-)
-- [ ] [Test Driven Development](/include/readme-Design-and-Development-Principles.md#Test-Driven-Development-)
-- [ ] [CQRS](/include/readme-Design-and-Development-Principles.md#CQRS-)
-- [ ] [Event Sourcing](/include/readme-Design-and-Development-Principles.md#Event-Sourcing-)
+- [ ] [GOF Design Patterns](include/readme-Design-and-Development-Principles.md#GOF-Design-Patterns-)
+- [ ] [Domain Driven Design](include/readme-Design-and-Development-Principles.md#Domain-Driven-Design-)
+- [ ] [Test Driven Development](include/readme-Design-and-Development-Principles.md#Test-Driven-Development-)
+- [ ] [CQRS](include/readme-Design-and-Development-Principles.md#CQRS-)
+- [ ] [Event Sourcing](include/readme-Design-and-Development-Principles.md#Event-Sourcing-)
 
 ### Architectural Patterns [&uarr;](#Содержание)
 
-- [ ] [Monolithic Apps](/include/readme-Architectural-Patterns.md#Monolithic-Apps-)
-- [ ] [Microservices](/include/readme-Architectural-Patterns.md#Microservices-)
-- [ ] [SOA](/include/readme-Architectural-Patterns.md#SOA-)
-- [ ] [Serverless](/include/readme-Architectural-Patterns.md#Serverless-)
-- [ ] [Service Mesh](/include/readme-Architectural-Patterns.md#Service-Mesh-)
-- [ ] [Twelve Factor Apps](/include/readme-Architectural-Patterns.md#Twelve-Factor-Apps-)
+- [ ] [Monolithic Apps](include/readme-Architectural-Patterns.md#Monolithic-Apps-)
+- [ ] [Microservices](include/readme-Architectural-Patterns.md#Microservices-)
+- [ ] [SOA](include/readme-Architectural-Patterns.md#SOA-)
+- [ ] [Serverless](include/readme-Architectural-Patterns.md#Serverless-)
+- [ ] [Service Mesh](include/readme-Architectural-Patterns.md#Service-Mesh-)
+- [ ] [Twelve Factor Apps](include/readme-Architectural-Patterns.md#Twelve-Factor-Apps-)
 
 ### Search Engines [&uarr;](#Содержание)
 
-- [ ] [Elasticsearch](/include/readme-Search-Engines.md#Elasticsearch-)
-- [ ] [Solr](/include/readme-Search-Engines.md#Solr-)
+- [ ] [Elasticsearch](include/readme-Search-Engines.md#Elasticsearch-)
+- [ ] [Solr](include/readme-Search-Engines.md#Solr-)
 
 ### Message Brokers [&uarr;](#Содержание)
 
-- [ ] [RabbitMQ](/include/readme-Message-Brokers.md#RabbitMQ-)
-- [ ] [Kafka](/include/readme-Message-Brokers.md#Kafka-)
+- [ ] [RabbitMQ](include/readme-Message-Brokers.md#RabbitMQ-)
+- [ ] [Kafka](include/readme-Message-Brokers.md#Kafka-)
 
 ### Containerization vs Virtualization [&uarr;](#Содержание)
 
-- [ ] [Docker](/include/readme-Containerization-vs-Virtualization.md#Docker-)
-- [ ] [Kubernetes](/include/readme-Containerization-vs-Virtualization.md#Kubernetes-)
-- [ ] [LXC](/include/readme-Containerization-vs-Virtualization.md#LXC-)
+- [ ] [Docker](include/readme-Containerization-vs-Virtualization.md#Docker-)
+- [ ] [Kubernetes](include/readme-Containerization-vs-Virtualization.md#Kubernetes-)
+- [ ] [LXC](include/readme-Containerization-vs-Virtualization.md#LXC-)
 
 ### WebSockets [&uarr;](#Содержание)
 
-- [ ] [WebSockets](/include/readme-WebSockets.md)
+- [ ] [WebSockets](include/readme-WebSockets.md)
 
 ### Server Sent Events [&uarr;](#Содержание)
 
-- [ ] [Server Sent Events](/include/readme-Server-Sent-Events.md)
+- [ ] [Server Sent Events](include/readme-Server-Sent-Events.md)
 
 ### Web Servers [&uarr;](#Содержание)
 
-- [ ] [Nginx](/include/readme-Web-Servers.md#Nginx-)
-- [ ] [Apache](/include/readme-Web-Servers.md#Apache-)
-- [ ] [Caddy](/include/readme-Web-Servers.md#Caddy-)
-- [ ] [MS IIS](/include/readme-Web-Servers.md#MS-IIS-)
+- [ ] [Nginx](include/readme-Web-Servers.md#Nginx-)
+- [ ] [Apache](include/readme-Web-Servers.md#Apache-)
+- [ ] [Caddy](include/readme-Web-Servers.md#Caddy-)
+- [ ] [MS IIS](include/readme-Web-Servers.md#MS-IIS-)
 
 ### Building for Scale [&uarr;](#Содержание)
 
-- [ ] [Building for Scale](/include/readme-Building-for-Scale.md)
+- [ ] [Building for Scale](include/readme-Building-for-Scale.md)
 
 ### Tasks [&uarr;](#Содержание)
 
-- [ ] [PHP](/include/readme-Tasks-PHP.md)
-- [ ] [SQL](/include/readme-Tasks-SQL.md)
-- [ ] [Algoritms](/include/readme-Tasks-Algoritms.md)
-- [ ] [JavaScript](/include/readme-Tasks-JavaScript.md)
+- [ ] [PHP](include/readme-Tasks-PHP.md)
+- [ ] [SQL](include/readme-Tasks-SQL.md)
+- [ ] [Algoritms](include/readme-Tasks-Algoritms.md)
+- [ ] [JavaScript](include/readme-Tasks-JavaScript.md)
 
 
 
