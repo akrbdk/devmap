@@ -1,5 +1,13 @@
 # Readme
 
+#### Список ссылок
+
+- [Асинхронный веб, или Что такое веб-сокеты](https://tproger.ru/translations/what-are-web-sockets/)
+- [Работа с Веб-сокетами на PHP](https://habr.com/ru/post/709448/)
+- [HTTP запросы и AJAX: short-polling, long-polling, websockets и все-все-все](https://vk.com/@social_it-http-zaprosy-i-ajax-short-polling-long-polling-websockets-i)
+
+
+
 ### short-polling, long-polling, websockets и Sent event [&uarr;](#Other-tasks)
 
 Очень часто встречается вопрос о том, как же работают уведомления/чаты в ВК или других высоконагруженных проектах?

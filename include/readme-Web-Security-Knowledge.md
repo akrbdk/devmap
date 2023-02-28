@@ -1,5 +1,10 @@
 # Readme
 
+#### Список ссылок
+
+- [SSL-сертификаты](https://doka.guide/tools/ssl-certificates/)
+- [Безопасное хеширование паролей](https://www.php.net/manual/ru/faq.passwords.php)
+
 
 ### HTTPS [&uarr;](#Readme)
 

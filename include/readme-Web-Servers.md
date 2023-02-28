@@ -1,5 +1,12 @@
 # Readme
 
+#### Список ссылок
+
+- [Веб-сервер](https://doka.guide/tools/web-server/)
+- [Веб-сервер Apache](https://doka.guide/tools/apache-web-server/)
+- [Веб-сервер Nginx](https://doka.guide/tools/nginx-web-server/)
+- [Apache vs Nginx: практический взгляд](https://habr.com/ru/post/267721/)
+
 
 ### Серверное ПО [&uarr;](#devmap)
 

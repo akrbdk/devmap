@@ -1,5 +1,17 @@
 # Readme
 
+#### Список ссылок
+
+- [Jenkins - The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.](https://www.jenkins.io/)
+- [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
+- [Что-то вроде GitHub Actions, но для GitLab. Настраиваем сборку проекта](https://doka.guide/tools/gitlab-ci-cd/)
+- [Что такое CI (Continuous Integration)](https://habr.com/ru/post/508216/)
+- [Делаем Jenkins Pipeline: шаг за шагом](https://habr.com/ru/post/654483/)
+- [Бурлаки деплоя. Или автоматизация проверок финтех-систем](https://habr.com/ru/company/oleg-bunin/blog/572406/)
+- [Github Actions. Простой пример для уверенного знакомства](https://habr.com/ru/post/711278/)
+- [Quickstart for GitHub Actions](https://docs.github.com/ru/actions/quickstart#creating-your-first-workflow)
+
+
 ### `CI` (`Continuous Integration`) [&uarr;](#devmap)
 
 CI/CD означает «Continuous Integration/Continuous Delivery» — то есть «непрерывная интеграция/непрерывная доставка». Это

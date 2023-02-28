@@ -1,5 +1,16 @@
 # Readme
 
+#### Список ссылок
+
+- [Статический анализ кода](https://doka.guide/tools/static-analysis/)
+- [Что такое код-ревью](https://doka.guide/tools/code-review/)
+- [Comments that are easy to grok and grep](https://conventionalcomments.org/)
+- [Что такое технический долг](https://doka.guide/js/technical-debt/)
+- [PSR Стандарты](https://habr.com/ru/post/458484/)
+- [PSR-1: Basic Coding Standard](https://www.php-fig.org/psr/psr-1/)
+- [PSR-4: Autoloader](https://www.php-fig.org/psr/psr-4/)
+- [PSR-12: Extended Coding Style](https://www.php-fig.org/psr/psr-12/)
+
 
 ### Composer [&uarr;](#Readme)
 

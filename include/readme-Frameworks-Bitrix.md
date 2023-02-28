@@ -1,5 +1,13 @@
 ###BITRIX
 
+#### Список ссылок
+
+- [Всё о кешировании в Битрикс: D7, тегированный кеш, кеш в компонентах](https://r-morozov.ru/bitrix/vsjo-o-keshirovanii-v-bitriks-d7-tegirovannyj-kesh-kesh-v-komponentah/)
+- [Миграции Phinx в Битрикс](https://varnote.ru/posts/php/bitrix-phinx/)
+- [Интеграция Битрикс24 с сайтом - все способы](https://bit-24.ru/blog/integratsii-bitriks24/bitrix24-integration-with-the-site-all-the-ways/)
+
+###BITRIX
+
 * [ ] [Структура проекта - какие папки, откуда init.php, папка local](#Структура-проекта---какие-папки,-откуда-init.php,-папка-local)
 * [ ] [Mvc в Bitrix, в других cms](#Mvc-в-Bitrix,-в-других-cms)
 * [ ] [Свой модуль, свой компонент](#Свой-модуль,-свой-компонент)

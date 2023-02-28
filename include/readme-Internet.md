@@ -1,5 +1,21 @@
 # Readme
 
+#### Список ссылок
+
+- [Работа с сетью](https://doka.guide/tools/network/)
+- [URL](https://doka.guide/tools/url/)
+- [Протокол HTTP](https://doka.guide/tools/http-protocol/)
+- [Протоколы TCP и UDP](https://doka.guide/tools/tcp-udp-protocols/)
+- [Что такое протокол электронной почты](https://emailsoldiers.ru/glossary/email-protocol)
+- [ORM (Object-Relation Mapping)](https://ru.hexlet.io/courses/php-orm-eloquent/lessons/concepts/theory_unit)
+- [Doctrine](https://ru.wikipedia.org/wiki/Doctrine)
+- [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/ru/latest/README.html)
+- [ActiveRecord](https://ru.wikipedia.org/wiki/ActiveRecord)
+- [Doctrine ResultSetMapping на примерах](https://habr.com/ru/post/496166/)
+- [Подготовленные запросы и хранимые процедуры](https://www.php.net/manual/ru/pdo.prepared-statements.php)
+- [Как работать с PDO? Полное руководство](https://phpfaq.ru/pdo)
+
+
 
 ### Как-работает-интернет [&uarr;](#Readme)
 

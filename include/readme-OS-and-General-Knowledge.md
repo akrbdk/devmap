@@ -1,5 +1,11 @@
 # Readme
 
+#### Список ссылок
+
+- [Что такое Linux? Статья-шпаргалка](https://habr.com/ru/company/timeweb/blog/668344/)
+- [Что такое /dev/null в Linux?](https://ravesli.com/dev-null-in-linux/)
+- [Искусство командной строки](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
+
 
 ### Как работает ОС [&uarr;](#Readme)
 

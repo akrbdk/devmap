@@ -1,5 +1,9 @@
 # Readme
 
+#### Список ссылок
+
+- [Подделка невозможна: как устроен токен и какие задачи можно решить с помощью JWT-авторизации](https://highload.today/blogs/jwt-avtorizatsiya/)
+
 
 ### REST [&uarr;](#Readme)
 

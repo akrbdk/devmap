@@ -1,5 +1,50 @@
 #PHP
 
+#### Список ссылок
+
+- [Справочник языка ¶](https://www.php.net/manual/ru/langref.php)
+- [История PHP](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_PHP)
+- [Вышел PHP 8.2: разбираем главные изменения](https://habr.com/ru/company/hexlet/blog/705194/)
+- [История версий PHP](https://zinvapel.github.io/it/prog/2020/01/31/php-change-log/)
+- [PHP Reflection API](https://php.zone/oop-v-php-prodvinutyj-kurs/php-reflection-api-uchimsya-primenyat)
+- [Лекция-дайджест по PHP SPL](https://devenergy.ru/archives/288)
+- [Структуры данных(на примере PHP SPL)](https://medium.com/@alexawesome/%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B5-php-spl-9a98bc08b6c0)
+- [Структуры данных](https://www.php.net/manual/ru/spl.datastructures.php)
+- [Обработка исключений и ошибок в PHP](https://maxsite.org/page/exception-in-php)
+- [Анонимные функции](https://www.php.net/manual/ru/functions.anonymous.php)
+- [Псевдотипы и переменные, используемые в этой документации](http://php.adamharvey.name/manual/ru/language.pseudo-types.php)
+- [Асинхронность, конкурентность, параллельность, многопоточность — разбираемся «по понятиям» :)](https://habr.com/ru/post/667590/)
+- [Как использовать AJAX в PHP и jQuery](https://code.tutsplus.com/ru/tutorials/how-to-use-ajax-in-php-and-jquery--cms-32494)
+- [Синтаксис генераторов](https://www.php.net/manual/ru/language.generators.syntax.php)
+- [Реальные примеры использования генераторов в PHP](https://badtry.net/primiery-ispolzovaniia-ghienieratorov-v-php/)
+- [Event-driven архитектура (она же событийно-ориентированная)](https://habr.com/ru/post/699492/)
+- [Всё, что вы хотели узнать об интерфейсах, совместимости сигнатур](https://habr.com/ru/post/328890/)
+- [Принципы объектно-ориентированного программирования](https://habr.com/ru/company/otus/blog/525336/)
+- [ООП в PHP](https://maxsite.org/page/php-oop)
+- [Область видимости переменной](https://www.php.net/manual/ru/language.variables.scope.php)
+- [Область видимости свойства, метода или константы](https://www.php.net/manual/ru/language.oop5.visibility.php)
+- [PHP: Интерфейсы vs Абстрактные классы](https://www.dev-notes.ru/articles/interfaces-vs-abstract-classes-in-php/)
+- [Перегрузка](https://www.php.net/manual/ru/language.oop5.overloading.php)
+- [Конструкторы и деструкторы](https://www.php.net/manual/ru/language.oop5.decon.php)
+- [Трейты](https://www.php.net/manual/ru/language.oop5.traits.php)
+- [PHP: ключевое слово «static»](https://habr.com/ru/post/259627/)
+- [Анонимные классы](http://micmap.org/php-by-example/manual/ru/language.oop5.anonymous.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ###OTHER
 

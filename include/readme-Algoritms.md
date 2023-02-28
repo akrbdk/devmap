@@ -1,11 +1,13 @@
 ###ALGORITMS
 
+#### Список ссылок
 
-* [ ] [Алгоритмы. Какие использовал?](#Алгоритмы.-Какие-использовал?)
-* [ ] [Сравнение алгоритмов сортировки](#Сравнение-алгоритмов-сортировки-)
+- [Сравнение алгоритмов сортировки](https://habr.com/ru/post/274017/)
+- [Описание алгоритмов сортировки и сравнение их производительности](https://habr.com/ru/post/335920/)
+- [Сортировка массивов](https://ru.hexlet.io/courses/php-arrays/lessons/sorting/theory_unit)
+- [Bubble Sort Visualization](https://zenozeng.github.io/bubble-sort-visualization/)
+- [Comparison Sorting Algorithms](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
 
-
-###ALGORITMS
 
 ### Алгоритмы. Какие использовал?  [&uarr;](#PHP)
 
