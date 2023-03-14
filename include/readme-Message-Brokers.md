@@ -1,5 +1,10 @@
 # Readme
 
+#### Список ссылок
+
+- [Apache Kafka и RabbitMQ: в чем разница](https://habr.com/ru/company/southbridge/blog/666326/)
+- [RabbitMQ: терминология и базовые сущности](https://habr.com/ru/company/southbridge/blog/703060/)
+
 
 ### RabbitMQ [&uarr;](#Readme)
 

@@ -33,6 +33,7 @@
   - [ ] [Server Sent Events](#Server-Sent-Events-)
   - [ ] [Web Servers](#Web-Servers-)
   - [ ] [Building for Scale](#Building-for-Scale-)
+  - [ ] [Регулярные выражения](#Регулярные-выражения-)
   - [ ] [Tasks](#Tasks-)
 
 - [**Карта развития Front-end разработчика:**](#Карта-развития-front-end-разработчика-)
@@ -91,25 +92,22 @@
 ### OS and General Knowledge [&uarr;](#Содержание)
 
 
-- [ ] [Как работает ОС](include/readme-OS-and-General-Knowledge.md#Как-работает-ОС-)
+- [x] [Как работает ОС](include/readme-OS-and-General-Knowledge.md#Как-работает-ОС-)
 - [x] [Терминал](include/readme-OS-and-General-Knowledge.md#Терминал-)
-- [ ] [Управление процессами](include/readme-OS-and-General-Knowledge.md#Управление-процессами-)
+- [x] [Управление процессами](include/readme-OS-and-General-Knowledge.md#Управление-процессами-)
 - [ ] [Потоки и парралелизм](include/readme-OS-and-General-Knowledge.md#Потоки-и-парралелизм-)
 - [ ] [Управление памятью](include/readme-OS-and-General-Knowledge.md#Управление-памятью-)
 - [ ] [Межпроцессорное взаимодействие](include/readme-OS-and-General-Knowledge.md#Межпроцессорное-взаимодействие-)
 - [ ] [Управление I/O](include/readme-OS-and-General-Knowledge.md#Управление-I/O-)
 - [ ] [Основы POSIX](include/readme-OS-and-General-Knowledge.md#Основы-POSIX-)
-- [ ] [Концепция построения сети](include/readme-OS-and-General-Knowledge.md#Концепция-построения-сети-)
+- [x] [Концепция построения сети](include/readme-OS-and-General-Knowledge.md#Концепция-построения-сети-)
 
 
 ### Learn a Language [&uarr;](#Содержание)
 
 
-- [ ] [Go](include/readme-Learn-a-Language-Go.md)
-- [ ] [Rust](include/readme-Learn-a-Language-Rust.md)
-- [ ] [Ruby](include/readme-Learn-a-Language-Ruby.md)
-- [ ] [Python](include/readme-Learn-a-Language-Python.md)
-- [ ] [JavaScript](include/readme-Learn-a-Language-JavaScript.md)
+- [x] [Go](include/readme-Learn-a-Language-Go.md)
+- [x] [Python](include/readme-Learn-a-Language-Python.md)
 - [x] [PHP](include/readme-Learn-a-Language-PHP.md)
 
 
@@ -184,28 +182,27 @@
 
 - [x] [REST](include/readme-Learn-about-APIs.md#REST-)
 - [x] [REST и SOAP](include/readme-Learn-about-APIs.md#REST-и-SOAP-)
-- [ ] [SOAP](include/readme-Learn-about-APIs.md#SOAP-)
-- [ ] [JSON APIs](include/readme-Learn-about-APIs.md#JSON-APIs-)
-- [ ] [gRPC](include/readme-Learn-about-APIs.md#gRPC-)
+- [x] [SOAP](include/readme-Learn-about-APIs.md#SOAP-)
+- [x] [JSON APIs](include/readme-Learn-about-APIs.md#JSON-APIs-)
+- [x] [gRPC](include/readme-Learn-about-APIs.md#gRPC-)
 
 
-- GraphQL:
-  - [ ] [Apollo](include/readme-Learn-about-APIs.md#Apollo-)
-  - [ ] [Relay Modern](include/readme-Learn-about-APIs.md#Relay-Modern-)
+- [x] [Swagger](include/readme-Learn-about-APIs.md#Swagger-)
+- [x] [GraphQL](include/readme-Learn-about-APIs.md#GraphQL-)
 
 
 - Authentification:
-  - [ ] [Cookie Based](include/readme-Learn-about-APIs.md#Cookie-Based-)
-  - [ ] [QAuth](include/readme-Learn-about-APIs.md#QAuth-)
-  - [ ] [Basic Auth](include/readme-Learn-about-APIs.md#Basic-Auth-)
-  - [ ] [Token Auth](include/readme-Learn-about-APIs.md#Token-Auth-)
+  - [x] [Cookie Based](include/readme-Learn-about-APIs.md#Cookie-Based-)
+  - [x] [QAuth](include/readme-Learn-about-APIs.md#QAuth-)
+  - [x] [Basic Auth](include/readme-Learn-about-APIs.md#Basic-Auth-)
+  - [x] [Token Auth](include/readme-Learn-about-APIs.md#Token-Auth-)
   - [x] [JWT](include/readme-Learn-about-APIs.md#JWT-)
-  - [ ] [OpenID](include/readme-Learn-about-APIs.md#OpenID-)
-  - [ ] [SAML](include/readme-Learn-about-APIs.md#SAML-)
+  - [x] [OpenID](include/readme-Learn-about-APIs.md#OpenID-)
+  - [x] [SAML](include/readme-Learn-about-APIs.md#SAML-)
 
 
 - [x] [HATEOAS](include/readme-Learn-about-APIs.md#HATEOAS-)
-- [ ] [Open API Specs](include/readme-Learn-about-APIs.md#Open-API-Specs-)
+- [x] [Open API Specs](include/readme-Learn-about-APIs.md#Open-API-Specs-)
 
 
 ### Caching [&uarr;](#Содержание)
@@ -226,11 +223,11 @@
 
 
 - [x] [HTTPS](include/readme-Web-Security-Knowledge.md#HTTPS-)
-- [ ] [OWASP Security Risks](include/readme-Web-Security-Knowledge.md#OWASP-Security-Risks-)
-- [ ] [CORS](include/readme-Web-Security-Knowledge.md#CORS-)
-- [ ] [SSL/TLS](include/readme-Web-Security-Knowledge.md#SSL/TLS-)
-- [ ] [Content Security Policy (CSP)](include/readme-Web-Security-Knowledge.md#Content-Security-Policy-(CSP)-)
-- [ ] [Server Security](include/readme-Web-Security-Knowledge.md#Server-Security-)
+- [x] [OWASP Security Risks](include/readme-Web-Security-Knowledge.md#OWASP-Security-Risks-)
+- [x] [CORS](include/readme-Web-Security-Knowledge.md#CORS-)
+- [x] [SSL/TLS](include/readme-Web-Security-Knowledge.md#SSL/TLS-)
+- [x] [Content Security Policy (CSP)](include/readme-Web-Security-Knowledge.md#Content-Security-Policy-(CSP)-)
+- [x] [Server Security](include/readme-Web-Security-Knowledge.md#Server-Security-)
 - [x] [Хэш-алгоритмы](include/readme-Web-Security-Knowledge.md#Хэш-алгоритмы-)
 
 ### Тестирование [&uarr;](#Содержание)
@@ -287,8 +284,8 @@
 ### Containerization vs Virtualization [&uarr;](#Содержание)
 
 - [x] [Docker](include/readme-Containerization-vs-Virtualization.md#Docker-)
-- [ ] [Kubernetes](include/readme-Containerization-vs-Virtualization.md#Kubernetes-)
-- [ ] [LXC](include/readme-Containerization-vs-Virtualization.md#LXC-)
+- [x] [Kubernetes](include/readme-Containerization-vs-Virtualization.md#Kubernetes-)
+- [x] [LXC](include/readme-Containerization-vs-Virtualization.md#LXC-)
 
 ### WebSockets [&uarr;](#Содержание)
 
