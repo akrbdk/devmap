@@ -233,9 +233,9 @@
 ### Тестирование [&uarr;](#Содержание)
 
 
-- [ ] [Integration Testing](include/readme-Тестирование.md#Integration-Testing-)
-- [ ] [Unit Testing](include/readme-Тестирование.md#Unit-Testing-)
-- [ ] [Functional Testing](include/readme-Тестирование.md#Functional-Testing-)
+- [x] [Integration Testing](include/readme-Тестирование.md#Integration-Testing-)
+- [x] [Unit Testing](include/readme-Тестирование.md#Unit-Testing-)
+- [x] [Functional Testing](include/readme-Тестирование.md#Functional-Testing-)
 
 
 ### CI/CD [&uarr;](#Содержание)
@@ -247,7 +247,7 @@
 ### Software Design & Architecture [&uarr;](#Содержание)
 
 
-- [ ] [Architecture](include/readme-Software-Design-and-Architecture.md)
+- [x] [Architecture](include/readme-Software-Design-and-Architecture.md)
 
 
 ### Design and Development Principles [&uarr;](#Содержание)

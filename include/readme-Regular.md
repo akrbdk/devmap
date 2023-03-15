@@ -7,6 +7,17 @@
 - [Regular expression tester with syntax highlighting, explanation, cheat sheet](https://regex101.com/)
 
 
+
+
+//todo дописать
+Усвоить понятия:
+
+- Квантификация
+- Жадность
+- Группировка
+
+
+
 ### Регулярные выражения [&uarr;](#Other-tasks)
 
 ![](images/php-regexp-1.v3.png)
