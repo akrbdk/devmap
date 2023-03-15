@@ -273,7 +273,8 @@
 
 - [x] [Elasticsearch](include/readme-Search-Engines.md#Elasticsearch-)
 - [x] [SPINX](include/readme-Search-Engines.md#SPINX-)
-- [ ] [Solr](include/readme-Search-Engines.md#Solr-)
+- [x] [Manticore](include/readme-Search-Engines.md#Manticore-)
+- [x] [Solr](include/readme-Search-Engines.md#Solr-)
 
 ### Message Brokers [&uarr;](#Содержание)
 
@@ -304,7 +305,11 @@
 
 ### Building for Scale [&uarr;](#Содержание)
 
-- [ ] [Building for Scale](include/readme-Building-for-Scale.md)
+- [x] [Building for Scale](include/readme-Building-for-Scale.md)
+- [x] [Instrumentation](include/readme-Building-for-Scale.md#Instrumentation-)
+- [x] [Backend monitoring](include/readme-Building-for-Scale.md#Backend-monitoring-)
+- [x] [Front-End monitoring](include/readme-Building-for-Scale.md#Front-End-monitoring-)
+- [x] [Telemetry](include/readme-Building-for-Scale.md#Telemetry-)
 
 ### Регулярные выражения [&uarr;](#Содержание)
 
