@@ -261,13 +261,12 @@
 
 ### Architectural Patterns [&uarr;](#Содержание)
 
-- [ ] [Monolithic Apps](include/readme-Architectural-Patterns.md#Monolithic-Apps-)
-- [ ] [Microservices](include/readme-Architectural-Patterns.md#Microservices-)
+- [x] [Monolithic-Apps && Microservices](include/readme-Architectural-Patterns.md#Monolithic-Apps-&&-Microservices-)
 - [x] [Гексагональная архитектура](include/readme-Architectural-Patterns.md#Гексагональная-архитектура-)
-- [ ] [SOA](include/readme-Architectural-Patterns.md#SOA-)
-- [ ] [Serverless](include/readme-Architectural-Patterns.md#Serverless-)
-- [ ] [Service Mesh](include/readme-Architectural-Patterns.md#Service-Mesh-)
-- [ ] [Twelve Factor Apps](include/readme-Architectural-Patterns.md#Twelve-Factor-Apps-)
+- [x] [SOA](include/readme-Architectural-Patterns.md#SOA-)
+- [x] [Serverless](include/readme-Architectural-Patterns.md#Serverless-)
+- [x] [Service Mesh](include/readme-Architectural-Patterns.md#Service-Mesh-)
+- [x] [Twelve Factor Apps](include/readme-Architectural-Patterns.md#Twelve-Factor-Apps-)
 
 ### Search Engines [&uarr;](#Содержание)
 
@@ -310,6 +309,16 @@
 - [x] [Backend monitoring](include/readme-Building-for-Scale.md#Backend-monitoring-)
 - [x] [Front-End monitoring](include/readme-Building-for-Scale.md#Front-End-monitoring-)
 - [x] [Telemetry](include/readme-Building-for-Scale.md#Telemetry-)
+- [x] [Mitigation Strategies (Стратегии смягчения последствий)](include/readme-Building-for-Scale.md#Mitigation-Strategies-)
+  - [x] [Graceful Degradation](include/readme-Building-for-Scale.md#Graceful-Degradation-)
+  - [x] [Throttling](include/readme-Building-for-Scale.md#Throttling-)
+  - [x] [Backpressure](include/readme-Building-for-Scale.md#Backpressure-)
+  - [x] [Load Shifting](include/readme-Building-for-Scale.md#Load-Shifting-)
+  - [x] [Circuit Breaker](include/readme-Building-for-Scale.md#Circuit-Breaker-)
+- [x] [Migration Strategies](include/readme-Building-for-Scale.md#Migration-Strategies-)
+- [x] [Horizontal/Vertical Scaling](include/readme-Building-for-Scale.md#Horizontal/Vertical-Scaling-)
+- [x] [Observability (Наблюдаемость)](include/readme-Building-for-Scale.md#Observability-)
+- [x] [Технологии повышения производительности PHP](#Технологии-повышения-производительности-PHP-)
 
 ### Регулярные выражения [&uarr;](#Содержание)
 

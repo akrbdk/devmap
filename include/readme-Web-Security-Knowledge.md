@@ -4,6 +4,7 @@
 
 - [SSL-сертификаты](https://doka.guide/tools/ssl-certificates/)
 - [Безопасное хеширование паролей](https://www.php.net/manual/ru/faq.passwords.php)
+- [CORS: история возникновения, как устроен и оптимальные методы работы](https://habr.com/ru/company/macloud/blog/553826/)
 
 
 ### HTTPS [&uarr;](#Readme)
