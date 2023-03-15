@@ -253,11 +253,12 @@
 ### Design and Development Principles [&uarr;](#Содержание)
 
 - [x] [KISS, DRY, YAGNI, BDUF, SOLID, APO и бритва Оккама](include/readme-Design-and-Development-Principles.md#KISS,-DRY,-YAGNI,-BDUF,-SOLID,-APO-и-бритва-Оккама-)
-- [ ] [GOF Design Patterns](include/readme-Design-and-Development-Principles.md#GOF-Design-Patterns-)
-- [ ] [Domain Driven Design](include/readme-Design-and-Development-Principles.md#Domain-Driven-Design-)
-- [ ] [Test Driven Development](include/readme-Design-and-Development-Principles.md#Test-Driven-Development-)
-- [ ] [CQRS](include/readme-Design-and-Development-Principles.md#CQRS-)
-- [ ] [Event Sourcing](include/readme-Design-and-Development-Principles.md#Event-Sourcing-)
+- [x] [Паттерны, антипаттерны](include/readme-Design-and-Development-Principles.md#Паттерны,-антипаттерны-)
+- [x] [Шаблоны проектирования](include/readme-Design-and-Development-Principles.md#Шаблоны-проектирования-)
+- [x] [Domain Driven Design](include/readme-Design-and-Development-Principles.md#Domain-Driven-Design-)
+- [x] [Test Driven Development](include/readme-Design-and-Development-Principles.md#Test-Driven-Development-)
+- [x] [CQRS](include/readme-Design-and-Development-Principles.md#CQRS-)
+- [x] [Event Sourcing](include/readme-Design-and-Development-Principles.md#Event-Sourcing-)
 
 ### Architectural Patterns [&uarr;](#Содержание)
 
