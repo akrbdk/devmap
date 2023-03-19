@@ -7,15 +7,7 @@
 - [Regular expression tester with syntax highlighting, explanation, cheat sheet](https://regex101.com/)
 
 
-
-
-//todo дописать
-Усвоить понятия:
-
-- Квантификация
-- Жадность
-- Группировка
-
+- [Жадные и ленивые квантификаторы](https://learn.javascript.ru/regexp-greedy-and-lazy)
 
 
 ### Регулярные выражения [&uarr;](#Other-tasks)

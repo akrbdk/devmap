@@ -134,48 +134,52 @@
 - More about databases:
   - ORM:
     - [x] [Doctrine](include/readme-Databases.md#Doctrine-)
-  - [ ] [ACID](include/readme-Databases.md#ACID-)
+  - [x] [ACID](include/readme-Databases.md#ACID-)
   - [x] [Raise Condition](include/readme-Databases.md#Raise-Condition-)
-  - [ ] [Транзакции](include/readme-Databases.md#Транзакции-)
-  - [ ] [Проблема N+1](include/readme-Databases.md#Проблема-N+1-)
-  - [ ] [Нормализация](include/readme-Databases.md#Нормализация-)
-  - [ ] [Failure Modes](include/readme-Databases.md#Failure-Modes-)
-  - [ ] [Профилирование](include/readme-Databases.md#Профилирование-)
+  - [x] [Транзакции](include/readme-Databases.md#Транзакции-)
+  - [x] [Проблема N+1](include/readme-Databases.md#Проблема-N+1-)
+  - [x] [Нормализация](include/readme-Databases.md#Нормализация-)
+  - [x] [Нормализация](include/readme-Databases.md#Нормализация-)
+  - [x] [Failure Modes](include/readme-Databases.md#Failure-Modes-)
+  - [x] [Профилирование](include/readme-Databases.md#Профилирование-)
 
 
 - Scaling Databases:
-  - [ ] [Индексы](include/readme-Databases.md#Индексы-)
-  - [ ] [Репликация](include/readme-Databases.md#Репликация-)
-  - [ ] [Шардирование](include/readme-Databases.md#Шардирование-)
-  - [ ] [Теорема CAP](include/readme-Databases.md#Теорема-CAP-)
+  - [x] [Индексы](include/readme-Databases.md#Индексы-)
+  - [x] [Репликация](include/readme-Databases.md#Репликация-)
+  - [x] [Партиционирование](include/readme-Databases.md#Партиционирование-)
+  - [x] [Шардирование](include/readme-Databases.md#Шардирование-)
+  - [x] [Теорема CAP](include/readme-Databases.md#Теорема-CAP-)
 
 
 - NoSQL Databases:
   - Document DBs:
-    - [ ] [MongoDB](include/readme-Databases.md#MongoDB-)
-    - [ ] [CouchDB](include/readme-Databases.md#CouchDB-)
+    - [x] [MongoDB](include/readme-Databases.md#MongoDB-)
+    - [x] [CouchDB](include/readme-Databases.md#CouchDB-)
   - Time Series:
-    - [ ] [InfluxDB](include/readme-Databases.md#InfluxDB-)
-    - [ ] [TimeScale](include/readme-Databases.md#TimeScale-)
+    - [x] [InfluxDB](include/readme-Databases.md#InfluxDB-)
+    - [x] [TimeScale](include/readme-Databases.md#TimeScale-)
   - Realtime:
-    - [ ] [Firebase](include/readme-Databases.md#Firebase-)
-    - [ ] [RethinkDB](include/readme-Databases.md#RethinkDB-)
+    - [x] [Firebase](include/readme-Databases.md#Firebase-)
   - Column DB:
-    - [ ] [Cassandra](include/readme-Databases.md#Cassandra-)
-    - [ ] [HBase](include/readme-Databases.md#HBase-)
+    - [x] [Cassandra](include/readme-Databases.md#Cassandra-)
+    - [x] [HBase](include/readme-Databases.md#HBase-)
   - Key-Value:
-    - [ ] [Redis](include/readme-Databases.md#Redis-)
-    - [ ] [DynamoDB](include/readme-Databases.md#DynamoDB-)
+    - [x] [Redis](include/readme-Databases.md#Redis-)
+    - [x] [DynamoDB](include/readme-Databases.md#DynamoDB-)
   - Graph DBs:
-    - [ ] [Neo4i](include/readme-Databases.md#Neo4i-)
+    - [x] [JanusGraph](include/readme-Databases.md#JanusGraph-)
+    - [x] [Neo4i](include/readme-Databases.md#Neo4i-)
+    - [x] [DGraph](include/readme-Databases.md#DGraph-)
+    - [x] [DataStax Enterprise Graph](include/readme-Databases.md#DataStax-Enterprise-Graph-)
 
 
 - Relational Databases:
-  - [ ] [PostgreSQL](include/readme-Databases.md#PostgreSQL-)
-  - [ ] [MySQL](include/readme-Databases.md#MySQL-)
-  - [ ] [MariaDB](include/readme-Databases.md#MariaDB-)
-  - [ ] [MS SQL](include/readme-Databases.md#MS-SQL-)
-  - [ ] [Oracle](include/readme-Databases.md#Oracle-)
+  - [x] [PostgreSQL](include/readme-Databases.md#PostgreSQL-)
+  - [x] [MySQL](include/readme-Databases.md#MySQL-)
+  - [x] [MariaDB](include/readme-Databases.md#MariaDB-)
+  - [x] [MS SQL](include/readme-Databases.md#MS-SQL-)
+  - [x] [Oracle](include/readme-Databases.md#Oracle-)
 
 
 ### Learn about APIs [&uarr;](#Содержание)
@@ -222,6 +226,7 @@
 ### Web Security Knowledge [&uarr;](#Содержание)
 
 
+- [x] [Уязвимости](include/readme-Web-Security-Knowledge.md#Уязвимости-)
 - [x] [HTTPS](include/readme-Web-Security-Knowledge.md#HTTPS-)
 - [x] [OWASP Security Risks](include/readme-Web-Security-Knowledge.md#OWASP-Security-Risks-)
 - [x] [CORS](include/readme-Web-Security-Knowledge.md#CORS-)
@@ -332,6 +337,7 @@
 - [ ] [SQL](include/readme-Tasks-SQL.md)
 - [ ] [Algoritms](include/readme-Tasks-Algoritms.md)
 - [ ] [Other](include/readme-Tasks-Other.md)
+- [ ] [Ideas](include/README-ideas.md)
 
 ### Прочее [&uarr;](#Содержание)
 

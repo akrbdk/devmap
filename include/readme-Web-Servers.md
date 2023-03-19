@@ -8,14 +8,7 @@
 - [Apache vs Nginx: практический взгляд](https://habr.com/ru/post/267721/)
 
 
-
-//todo дописать
-Усвоить понятия:
-- Треды
-- Worker
-- CGI
-- FastCGI
-- event Loop
+- [Треды, процессы, модули](http://algolist.ru/web/servers.php)
 
 
 ### Серверное ПО [&uarr;](#devmap)
