@@ -58,7 +58,7 @@
 * [ ] [What do you do when your team member refuses to, or just can’t complete their part of the work? Give me an example.](What-do-you-do-when-your-team-member-refuses-to,-or-just-can’t-complete-their-part-of-the-work?-Give-me-an-example.-)
 * [ ] [Clients can be difficult to work with sometimes. Can you describe a situation when a client was wrong and you had to correct them?](Clients-can-be-difficult-to-work-with-sometimes.-Can-you-describe-a-situation-when-a-client-was-wrong-and-you-had-to-correct-them?-)
 
-### <span style="color:green">Tell me about yourself</span> [&uarr;](#Articles)
+### Tell me about yourself [&uarr;](#Articles)
 
 Sure, so, my name is Alexander, and I am 31 years old.
 
@@ -100,7 +100,7 @@ in this city.
 
 ---
 
-### <span style="color:green">Tell me more about yourself</span> [&uarr;](#Articles)
+### Tell me more about yourself [&uarr;](#Articles)
 
 Well, I’ve always been interested in tech.
 
@@ -130,7 +130,7 @@ As for my hobbies, they are bicycling and swimming.
 
 ---
 
-### <span style="color:green">What are your biggest strengths and weaknesses?</span> [&uarr;](#Articles)
+### What are your biggest strengths and weaknesses? [&uarr;](#Articles)
 
 I’ve always considered myself an organized and result-driven person. I make sure that the tools and approaches we choose
 are right for the project and will result in a product that satisfies the customer’s needs.
@@ -152,7 +152,7 @@ making progress.
 
 ---
 
-### <span style="color:green">Why Should We Hire You?</span> [&uarr;](#Articles)
+### Why Should We Hire You? [&uarr;](#Articles)
 
 I believe that my experience with technology, specifically in the programming space, makes me the best match for this
 position. In my previous job, I was responsible for maintaining and updating our company website. This required keeping
@@ -162,7 +162,7 @@ new and more challenging role.
 
 ---
 
-### <span style="color:green">Which skills would you say are critical for working with a team?</span> [&uarr;](#Articles)
+### Which skills would you say are critical for working with a team? [&uarr;](#Articles)
 
 For me, three critical skills when working with a team are time management, communication, and conflict resolution.
 
@@ -172,18 +172,24 @@ highly value these skills in the workplace.
 Conflict resolution is also essential—it’s a behavioral soft skill that can enhance team members’ ability to get along
 with others and therefore also affects productivity.
 
-### <span style="color:green">What is your task prioritization process?</span> [&uarr;](#Articles)
+---
+
+### What is your task prioritization process? [&uarr;](#Articles)
 
 I tend to use a to-do list to break down each project into easier tasks, then order all tasks by priority, and work my
 way through the list by completing the most urgent or critical tasks first.
 
-### <span style="color:green">What is your approach to handling project delays?</span> [&uarr;](#Articles)
+---
+
+### What is your approach to handling project delays? [&uarr;](#Articles)
 
 To handle project delays, I hold frequent meetings until the project is completed and re-prioritize tasks as needed. If
 it becomes apparent that further delays might occur, I’d encourage communication, attempt to minimize delays by
 reassigning specific tasks, and ask for help from other teams or colleagues.
 
-### <span style="color:green">How do you make sure you’re constantly improving your skills?</span> [&uarr;](#Articles)
+---
+
+### How do you make sure you’re constantly improving your skills? [&uarr;](#Articles)
 
 One of my goals is to learn about new technology. My approach involves studying and using self-learning behavioral
 approaches to keep up-to-date. I put my technological knowledge into practice by implementing new skills at work.
@@ -191,19 +197,25 @@ approaches to keep up-to-date. I put my technological knowledge into practice by
 For example, I enhanced the UX of my organization’s website with the knowledge I had gained through a self-study course
 in the best practices of UX design.
 
-### <span style="color:green">How would you describe your communication skills?</span> [&uarr;](#Articles)
+---
+
+### How would you describe your communication skills? [&uarr;](#Articles)
 
 I believe that listening is a critical part of communication and I’d say that I’m a discerning listener. I’d go as far
 as to say that listening should be a priority during communication. Once you have all the necessary information, you can
 then break it down into smaller parts to explain it to other team members.
 
-### <span style="color:green">How do you respond to negative feedback or bad reviews? What is your process?</span> [&uarr;](#Articles)
+---
+
+### How do you respond to negative feedback or bad reviews? What is your process? [&uarr;](#Articles)
 
 For me, empathy is an essential behavioral soft skill that can help when responding to negative feedback or reviews. I
 always express my sympathy when a service or product doesn’t meet a customer’s expectations, ask questions to clarify
 the reasons for this, and try to better understand their feedback and get to the core of the problem.
 
-### <span style="color:green">Has there been a time that you gave negative feedback to an employee?</span> [&uarr;](#Articles)
+---
+
+### Has there been a time that you gave negative feedback to an employee? [&uarr;](#Articles)
 
 When giving negative feedback, I balance it with positive feedback, and I also use tact and respect.
 
@@ -211,13 +223,17 @@ For instance, once I noticed one of our copywriters did not fact-check a statist
 quality of the writing was good. I relayed both sides of my feedback to encourage them and point out ways that they
 could improve.
 
-### <span style="color:green">How do you interact with co-workers who approach tasks differently?</span> [&uarr;](#Articles)
+---
+
+### How do you interact with co-workers who approach tasks differently? [&uarr;](#Articles)
 
 I think using discretion and building trust with co-workers is essential when collaborating with them. Even if they used
 different approaches, I’d try to recognize their working style and acknowledge the strengths of their approach. I’d
 communicate with them regularly and try to use the skills we have in common to approach the task.
 
-### <span style="color:green">How do you motivate other team members?</span> [&uarr;](#Articles)
+---
+
+### How do you motivate other team members? [&uarr;](#Articles)
 
 I use three fundamental approaches to motivate team members and help them achieve goals.
 
@@ -227,19 +243,25 @@ in their code, I would advise them on the specific debugging tool to use in thei
 
 Finally, I would check with them frequently to see how they are progressing with the goal.
 
-### <span style="color:green">What is your approach to providing accurate estimates for the time you need to complete a task?</span> [&uarr;](#Articles)
+---
+
+### What is your approach to providing accurate estimates for the time you need to complete a task? [&uarr;](#Articles)
 
 As a programmer, I often time myself when writing programs for different clients. This way, I have a good idea of how
 long certain projects will take. However, if it’s a big project, I break it down into further smaller tasks, then
 estimate the time I need for each task.
 
-### <span style="color:green">Which steps do you take to plan your tasks?</span> [&uarr;](#Articles)
+---
+
+### Which steps do you take to plan your tasks? [&uarr;](#Articles)
 
 As I’m always aiming to be meticulous and precise, I plan tasks thoroughly. A part of my approach to planning involves
 looking at the bigger picture and the end goal, dividing the project into several sections, and setting deadlines to
 achieve each goal.
 
-### <span style="color:green">You receive unclear instructions for a task. What steps do you take to handle it?</span> [&uarr;](#Articles)
+---
+
+### You receive unclear instructions for a task. What steps do you take to handle it? [&uarr;](#Articles)
 
 Before I proceed with a task, I always make sure I understand the instructions and do the necessary research to figure
 out what I need to do to complete it.
@@ -247,13 +269,17 @@ out what I need to do to complete it.
 If I still don’t understand everything, I approach the team lead or project manager and ask questions to clarify the
 requirements. I always ask what the result should be and, if unclear, ask for an example.
 
-### <span style="color:green">Have you ever failed to accomplish a task?</span> [&uarr;](#Articles)
+---
+
+### Have you ever failed to accomplish a task? [&uarr;](#Articles)
 
 In my previous software engineering role, I was unable to fix a bug in my code. As a result, I was not on time for the
 release, so I was unable to meet the deadline. I have since learned several bug-fixing techniques to improve my
 efficiency and output. Additionally, I always aim to develop knowledge of areas in which I’m not as confident.
 
-### <span style="color:green">Which skills do you believe are essential for leadership?</span> [&uarr;](#Articles)
+---
+
+### Which skills do you believe are essential for leadership? [&uarr;](#Articles)
 
 I think soft skills are critical for leadership positions. Empathy and understanding non-verbal cues are key to
 assisting a team. I also challenge myself to be a good role model and use active listening during team collaboration.
@@ -261,13 +287,17 @@ assisting a team. I also challenge myself to be a good role model and use active
 For instance, during discussions about problems we’re facing, I set an example and encourage others to listen to other
 team members.
 
-### <span style="color:green">Is meeting deadlines or producing quality work more important to you?</span> [&uarr;](#Articles)
+---
+
+### Is meeting deadlines or producing quality work more important to you? [&uarr;](#Articles)
 
 As a software engineer, I know that quality is essential. Though I always try to meet deadlines, rigorous testing is
 critical and I consider this the priority. I knew the deadline was approaching in a previous project, but testing had
 revealed a few errors. I prioritized fixing the errors because quality was more important for the team.
 
-### <span style="color:green">Tell me about a time you had to acquire new skills within a short period. How did you achieve this?</span> [&uarr;](#Articles)
+---
+
+### Tell me about a time you had to acquire new skills within a short period. How did you achieve this? [&uarr;](#Articles)
 
 When I was about to begin a new role as a middle software engineer, I had to refresh my knowledge of a programming
 language that I hadn’t used in a while.
@@ -275,13 +305,17 @@ language that I hadn’t used in a while.
 I quickly took a look at a few open-source projects I had produced. I refreshed my memory and played around with the
 code and practiced my skills . When I began the role, I felt more confident.
 
-### <span style="color:green">What is your biggest challenge when starting a new role?</span> [&uarr;](#Articles)
+---
+
+### What is your biggest challenge when starting a new role? [&uarr;](#Articles)
 
 For me, adapting to the company culture is the biggest challenge. But I’m open-minded, I embrace change, and I’m
 adaptable. I always learn as much as possible about the company before starting and try to embrace the core values and
 principles of the business.
 
-### <span style="color:green">What is your approach when starting a new task?</span> [&uarr;](#Articles)
+---
+
+### What is your approach when starting a new task? [&uarr;](#Articles)
 
 When starting to work on a new task, I like to be prepared.
 
@@ -289,13 +323,17 @@ I use verbal communication and active listening skills to clarify what needs to 
 skills to divide the task into easier sub-tasks. And finally, I make a plan to tackle each sub-task methodically. I
 welcome feedback to improve and implement any changes that are needed.
 
-### <span style="color:green">What Are Your Career Goals</span> [&uarr;](#Articles)
+---
+
+### What Are Your Career Goals [&uarr;](#Articles)
 
 I know that it’s become more and more helpful to know Python in the context of finance, so I plan on learning it this
 year. It will come in handy when solving portfolio optimization problems.
 As far as long-term goals, I would like to become a fullstack-developer.
 
-### <span style="color:green">Why did you leave your last job? / Why are you leaving your current position / Why do you want to work here?</span> [&uarr;](#Articles)
+---
+
+### Why did you leave your last job? / Why are you leaving your current position / Why do you want to work here? [&uarr;](#Articles)
 
 While I’m grateful to my previous employer for giving me the opportunity to learn and grow in my career, I feel like, at
 this point, I’m not fully satisfied with the work I’m doing. I would love to do something more meaningful and useful and
@@ -303,7 +341,9 @@ get more involved into working on a diverse range of projects where I can collab
 new approaches and technologies. I would love to work at a cutting-edge company that tries to make a positive impact in
 the world.
 
-### <span style="color:green">Tell me about the biggest challenge you’ve ever had</span> [&uarr;](#Articles)
+---
+
+### Tell me about the biggest challenge you’ve ever had [&uarr;](#Articles)
 
 It’s hard to point it out off the top of my head. Well, there was this one time, when we had to work with a client who
 did not provide clear requirements which caused a lot of confusion. Once he asked to add a certain feature three weeks
@@ -315,7 +355,9 @@ Because the process was very time-consuming, and we were on a very tight deadlin
 critical bugs and issues first. We held a meeting with the team to determine which issues we should prioritize and got
 to work. In the end, we managed to deliver a functioning product and the client was happy with it.
 
-### <span style="color:green">Do you have any questions for me? (Questions to the employer)</span> [&uarr;](#Articles)
+---
+
+### Do you have any questions for me? (Questions to the employer) [&uarr;](#Articles)
 
 - Why do you like working here?
 - Where do you see this company in 5 years?
@@ -332,7 +374,9 @@ to work. In the end, we managed to deliver a functioning product and the client 
 - How did this job become available?
 - Before you’re able to reach a hiring decision, how many more interviews should I expect to go through and with whom?
 
-### <span style="color:green">Explain how you were able to work effectively under pressure.</span> [&uarr;](#Articles)
+---
+
+### Explain how you were able to work effectively under pressure. [&uarr;](#Articles)
 
 I worked on a crucial project that was supposed to be delivered to the client in twenty (20) days. My manager instructed
 me to get the job ready in ten (10) days without losing time on our other projects. I responded by challenging my staff
@@ -342,7 +386,9 @@ project ready in eight (8) days.
 My ability to effectively allocate the tasks among my already great team of staff I had was largely responsible for the
 success of the project.
 
-### <span style="color:green">discuss an example where you were able to motivate co-workers or employees.</span> [&uarr;](#Articles)
+---
+
+### discuss an example where you were able to motivate co-workers or employees. [&uarr;](#Articles)
 
 I once found myself in a situation where my department management was being controlled by employees who had no
 experience in our department, in a bid to optimize profits above service. A lot of my colleagues resisted the
@@ -359,7 +405,9 @@ So I called a meeting and encouraged the team to embrace the learning opportunit
 We went around the room and listed one positive thing that came from this experience individually. The mood lifted after
 that, and the positive energy translated into better productivity and engagement.
 
-### <span style="color:green">Give me an example of a time you had a conflict with a team member. How did you handle it?</span> [&uarr;](#Articles)
+---
+
+### Give me an example of a time you had a conflict with a team member. How did you handle it? [&uarr;](#Articles)
 
 At CorpX Inc., my team was responsible for a project with a short deadline. I had one view of how it should be
 accomplished, which seemed to have support within the team. However, one person disagreed and was causing tension as a
@@ -369,7 +417,9 @@ to lunch, talked with him one-on-one, and tried to understand his point of view.
 I managed to find a compromise that we could take to the rest of the team. It was not exactly what he wanted, but he
 said he would be OK with it. The team was agreeable, and we worked together to get the project done on time.
 
-### <span style="color:green">Describe a time when you had to do something you weren't trained to do. How did you handle it?</span> [&uarr;](#Articles)
+---
+
+### Describe a time when you had to do something you weren't trained to do. How did you handle it? [&uarr;](#Articles)
 
 I had been at CorpX Software as a PHP developer for four years when the company decided to switch over to using Python.
 Most of my fellow developers had Python or related skills and could easily make the switch. I, however, had only ever
@@ -380,7 +430,9 @@ were very supportive. Plus, CorpX was a small company and did not have the resou
 enrolled in a Python course, bought some books, and before long, I was able to help our team convert our existing code
 base to Python.
 
-### <span style="color:green">What would you do if a manager asked you to perform a task you've never done before?</span> [&uarr;](#Articles)
+---
+
+### What would you do if a manager asked you to perform a task you've never done before? [&uarr;](#Articles)
 
 In my last role as a PHP developer, my manager asked me to build and launch a new Go app, which was something I'd never
 done before. I explained to my manager that I had no experience leading that type of project but volunteered to do all
@@ -388,7 +440,9 @@ the work if someone more experienced could offer guidance. I met with several co
 apps, studied best practices, and successfully launched the app. Thanks to that hands-on learning experience, I became
 the team expert on Go.
 
-### <span style="color:green">What would you do if you made a mistake no one noticed?</span> [&uarr;](#Articles)
+---
+
+### What would you do if you made a mistake no one noticed? [&uarr;](#Articles)
 
 I've always found it's better to take responsibility for your mistakes than to learn from your errors. When I worked as
 a junior PHP developer, a client asked for a fast fix in the project and I accidentally made a bug. While there's a
@@ -396,14 +450,18 @@ chance they may never have known, I knew my error could affect their experience.
 task and apologized to the client for the wait. The client felt satisfied, and my manager thanked me for doing the right
 thing. From that point forward, I paid special attention to fast fixes.
 
-### <span style="color:green">Tell me about a time when you failed. How did you learn from this experience?</span> [&uarr;](#Articles)
+---
+
+### Tell me about a time when you failed. How did you learn from this experience? [&uarr;](#Articles)
 
 In my first month as a PHP developer, I wanted to impress a client and overpromised a project timeline. Unfortunately,
 the team didn't have the resources to deliver by the deadline I'd promised, and we ended up losing the client. I reached
 out to the client and took full responsibility for the loss, and they gave us another chance. Because of this
 experience, I learned the value of setting realistic expectations and never guaranteeing more than I could deliver.
 
-### <span style="color:green">What professional accomplishment are you most proud of and how did you achieve it?</span> [&uarr;](#Articles)
+---
+
+### What professional accomplishment are you most proud of and how did you achieve it? [&uarr;](#Articles)
 
 In my previous work as an IT administrator, during my regular maintenance rounds, I found a security vulnerability.
 Rather than simply patching it, I looked into the network records and discovered a virus had recently compromised
@@ -411,7 +469,9 @@ several files. I notified the rest of the team and we quickly isolated the infec
 which saved the company a lot of money. That experience ignited my passion for preventing cybercrime and drove me to
 apply for this position as a cybersecurity manager.
 
-### <span style="color:green">How do you accomplish tasks when under a tight deadline? Give me an example</span> [&uarr;](#Articles)
+---
+
+### How do you accomplish tasks when under a tight deadline? Give me an example [&uarr;](#Articles)
 
 Well, typically, I try to never commit to a deadline I don’t think I can make. But sometimes, unexpected things happen
 and you’re forced to think on your feet. For example, at my last job, my coworker had to take some time off work because
@@ -428,7 +488,9 @@ Thanks to my teammates and my good time management skills, I managed to finish u
 once my coworker came back to work, I was able to review the whole thing with him before submitting it. For what it’s
 worth, he was thoroughly impressed. And a few months later, I even got promoted based on my performance.
 
-### <span style="color:green">Why Do You Want to Work Here?</span> [&uarr;](#Articles)
+---
+
+### Why Do You Want to Work Here? [&uarr;](#Articles)
 
 I've seen your portfolio, and it's really inspired me to apply! I love working with a team to achieve a common goal, and
 I know my background in production has prepared me for this role. I look forward to becoming a valued contributor to
@@ -454,7 +516,9 @@ vision for the future. I'm genuinely interested in getting more involved in the 
 read that you are growing in that area. As an experienced programmer with an emphasis on technology, I know I can bring
 a lot of value to the team.
 
-#### <span style="color:green">So, DON’T say you want to work a particular job for the following reasons:</span> [&uarr;](#Articles)
+---
+
+#### So, DON’T say you want to work a particular job for the following reasons: [&uarr;](#Articles)
 
 - You like the hefty salary
 - You’re in it for the benefits and perks
@@ -462,7 +526,9 @@ a lot of value to the team.
 - You want to work remotely, no matter the job
 - You’re desperate to get hired anywhere
 
-### <span style="color:green">Tell me about a time you had to deal with a client that was asking the impossible.</span> [&uarr;](#Articles)
+---
+
+### Tell me about a time you had to deal with a client that was asking the impossible. [&uarr;](#Articles)
 
 Clients in the IT industry are very demanding in general, but one of them stands out when I look back. I was a
 programmer at company CorpX at the time and I had a sales meeting with a prospective client. The client demands were
@@ -474,7 +540,9 @@ getting. After our talk, the client seemed to be more understanding and decided 
 That’s still a pretty tight deadline, but we made it work. While the work wasn’t easy, we managed to establish a
 reasonable flow of work with the client for future projects.
 
-### <span style="color:green">Tell me about a time when you successfully delegated tasks to your team.</span> [&uarr;](#Articles)
+---
+
+### Tell me about a time when you successfully delegated tasks to your team. [&uarr;](#Articles)
 
 `Situation`: Well, at my first job as a team lead, I had to really get to know most of my team in order to delegate
 tasks appropriately.
@@ -487,7 +555,9 @@ weaknesses, and distributed tasks based on their personality.
 `Results`: Team members were pretty happy with the tasks they got, and started off their relationship with our company
 on a positive note.
 
-### <span style="color:green">Tell me about your first job in the industry. What did you do to learn the ropes?</span> [&uarr;](#Articles)
+---
+
+### Tell me about your first job in the industry. What did you do to learn the ropes? [&uarr;](#Articles)
 
 `Situation`: Well, my first job in the field was as a junior PHP programmer. While I did have extensive knowledge of the
 field, I didn’t have too much experience doing it.
@@ -500,7 +570,9 @@ I also made sure to talk to my team members and get their input on daily tasks.
 
 `Results`: A few months into the job, I managed to learn the ropes and ended up being a lot more productive.
 
-### <span style="color:green">Can you give me an example of when you had to adapt to a new and sudden change in the workplace? What happened?</span> [&uarr;](#Articles)
+---
+
+### Can you give me an example of when you had to adapt to a new and sudden change in the workplace? What happened? [&uarr;](#Articles)
 
 `Situation`: Sure thing. In my previous position as a programmer at Company CorpX, we had to suddenly change all of our
 CRM software and move all the data to a new tool. The CRM tool we’d been using till now wasn’t fit for a growing team,
@@ -519,7 +591,9 @@ Finally, I sent a new announcement to the entire team about the new software, as
 `Results`: We completed the transfer with 4 days to spare, the team was satisfied with the new CRM, and my daily
 responsibilities as a programmer didn’t suffer.
 
-### <span style="color:green">Describe a long-term project you managed. How did you make sure everything was running smoothly?</span> [&uarr;](#Articles)
+---
+
+### Describe a long-term project you managed. How did you make sure everything was running smoothly? [&uarr;](#Articles)
 
 `Situation`: When I was at Company CorpX, I was managing the web development team in charge of setting up a new website
 for one of our biggest clients at the time. With most projects, we had a process set up and we would get most sites done
@@ -537,7 +611,9 @@ modifications and updates.
 `Results`: In the end, we actually finished the website with all the promised functionalities in just under 3 months.
 The client was very satisfied with the result and eventually ended up recommending partners to our firm.
 
-### <span style="color:green">Tell me about a time you set a personal goal for yourself. How did you ensure you would meet your objectives and what steps did you take?</span> [&uarr;](#Articles)
+---
+
+### Tell me about a time you set a personal goal for yourself. How did you ensure you would meet your objectives and what steps did you take? [&uarr;](#Articles)
 
 `Situation`: I think the most recent, and important, personal goal that comes to mind is that I managed to teach myself
 web development from scratch. You see, I wasn’t very satisfied as an engineer at Heavy Machinery's Plant. My coworkers
@@ -557,7 +633,9 @@ planned out with specific objectives, I surely would have been overwhelmed. Sure
 working 2 jobs and that a lot of the material wasn’t making sense. But I just kept moving forward, and then, I got my
 first real break as a junior web dev at Company CorpY.
 
-### <span style="color:green">Have you ever had to work under someone who wasn’t very good at communicating? What happened?</span> [&uarr;](#Articles)
+---
+
+### Have you ever had to work under someone who wasn’t very good at communicating? What happened? [&uarr;](#Articles)
 
 `Situation`: Yes, at my last job as a tech recruiter the hiring manager I was working directly with was somewhat more
 difficult to communicate with. He had very strict and precise requirements on the type of candidates he wanted to invite
@@ -574,7 +652,9 @@ the hiring manager.
 
 `Results`: The hiring manager did, indeed, end up liking the candidate and calling them in for an interview.
 
-### <span style="color:green">Tell me about a time when you successfully explained a technical problem to a colleague or a customer who didn’t have a tech background?</span> [&uarr;](#Articles)
+---
+
+### Tell me about a time when you successfully explained a technical problem to a colleague or a customer who didn’t have a tech background? [&uarr;](#Articles)
 
 `Situation`: I’ve worked as a tech support specialist before, so I really excel at this. I’ve had to explain complex
 concepts to customers on a regular basis, but to give you one single example, I’ve had to explain to clients with next
@@ -590,7 +670,9 @@ connect with their computer, and then I explained to them what, exactly, I did.
 
 `Results`: The customer was very happy with my work, and we managed to fix the issue with their computer.
 
-### <span style="color:green">Tell me about a time when you had to work with someone completely different from you. How did you adapt to collaborate better?</span> [&uarr;](#Articles)
+---
+
+### Tell me about a time when you had to work with someone completely different from you. How did you adapt to collaborate better? [&uarr;](#Articles)
 
 `Situation`: Sure, I always enjoy working with new and different people. Usually, because they bring something new to
 the
@@ -614,7 +696,9 @@ routine in less than a week, while most of our new hires needed at least up to 2
 multitasking and time-management from him. The whole thing was a win-win situation, and it was all smooth sailing the
 next time we worked together (which was quite often).
 
-### <span style="color:green">What do you do when your team member refuses to, or just can’t complete their part of the work? Give me an example.</span> [&uarr;](#Articles)
+---
+
+### What do you do when your team member refuses to, or just can’t complete their part of the work? Give me an example. [&uarr;](#Articles)
 
 `Situation`: There was one co-worker at Company X who was notorious for being bad at deadlines. But she would always end
 up delivering exceptional work, just a few hours (or worse - days) late. For some reason, the company was ok with this
@@ -634,7 +718,9 @@ efficiently.
 particularly like me too much once we were finished with the work. We even managed to submit the final version of the
 presentation 2 days before the deadline.
 
-### <span style="color:green">Clients can be difficult to work with sometimes. Can you describe a situation when a client was wrong and you had to correct them?</span> [&uarr;](#Articles)
+---
+
+### Clients can be difficult to work with sometimes. Can you describe a situation when a client was wrong and you had to correct them? [&uarr;](#Articles)
 
 `Situation`: Absolutely. One of our past clients at Agency CorpX came to us because his Facebook advertising strategy
 wasn’t
