@@ -60,17 +60,17 @@
 
 ### <span style="color:green">Tell me about yourself</span> [&uarr;](#Articles)
 
-> Sure, so, my name is Alexander, and I am 31 years old.
+Sure, so, my name is Alexander, and I am 31 years old.
 
-> I am a PHP developer with over 6 years of experience. In my most recent job, I was involved in a number of commerce
+I am a PHP developer with over 6 years of experience. In my most recent job, I was involved in a number of commerce
 projects where I was in charge of implementing web design solutions as well as maintaining the database.
 
-> I have some background in engineering science, with a Master's degree from Donbass State Engineering Academy (DSEA).
+I have some background in engineering science, with a Master's degree from Donbass State Engineering Academy (DSEA).
 
-> I started out as a back-end developer but soon started taking on database and server management tasks. I have a strong
+I started out as a back-end developer but soon started taking on database and server management tasks. I have a strong
 background in PHP as well as MySQL and MongoDB. I am proficient in Laravel, PHP, Go, and Python.
 
-> I am also skilled at using Git. I’m always working towards updating my skills and keeping up with the industry. This is
+I am also skilled at using Git. I’m always working towards updating my skills and keeping up with the industry. This is
 why I’ve recently started taking AngularJS courses. So far, I love the experience.
 
 ---
@@ -97,6 +97,8 @@ specialists alike.
 
 My salary expectation is between $*** and $***, which is the average salary for a candidate with my level of experience
 in this city.
+
+---
 
 ### <span style="color:green">Tell me more about yourself</span> [&uarr;](#Articles)
 
@@ -126,6 +128,8 @@ very drawn to the mission and values that this company stands for.
 
 As for my hobbies, they are bicycling and swimming.
 
+---
+
 ### <span style="color:green">What are your biggest strengths and weaknesses?</span> [&uarr;](#Articles)
 
 I’ve always considered myself an organized and result-driven person. I make sure that the tools and approaches we choose
@@ -146,6 +150,8 @@ However, it is something I am working on at the moment. I’ve been attending En
 feel like I’m getting over my fear of talking in meetings. I am still working on writing good emails, and I think I’m
 making progress.
 
+---
+
 ### <span style="color:green">Why Should We Hire You?</span> [&uarr;](#Articles)
 
 I believe that my experience with technology, specifically in the programming space, makes me the best match for this
@@ -153,6 +159,8 @@ position. In my previous job, I was responsible for maintaining and updating our
 employee profiles updated and continuously posting information regarding upcoming events. I truly enjoyed what I was
 doing, which is what drew me to apply for this position. I would love to bring the coding skills I learned there to this
 new and more challenging role.
+
+---
 
 ### <span style="color:green">Which skills would you say are critical for working with a team?</span> [&uarr;](#Articles)
 
@@ -341,7 +349,7 @@ experience in our department, in a bid to optimize profits above service. A lot 
 spontaneous changes that took place, but when I identified a few benefits we stood to gain, I had to make a U-turn and
 motivate my co-workers to give a new idea an opportunity to succeed.
 
-===============================================================
+---
 
 We went through a merger at CorpX, Inc. last year that lowered morale for some teams. Our group had new management that
 gave us responsibilities with which we had little experience. I noticed a dip in our overall productivity and felt I had
