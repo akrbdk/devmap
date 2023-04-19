@@ -6,7 +6,7 @@
 Половина кандидатов не знают что такое many-to-many и не могут решить что лучше — хранить author_id в таблице books или book_id в таблице authors.
 Если со структурой всё ок, я прошу вытащить список книг, которые написаны 3-мя со-авторами. То есть получить отчет «книга — количество соавторов» и отфильтровать те, у которых со-авторов меньше 3х.
 
-
+``` sql
 CREATE TABLE book (
     book_id INT PRIMARY KEY AUTO_INCREMENT,
     book_name VARCHAR(255) DEFAULT NULL
@@ -36,7 +36,7 @@ FROM book_author
 JOIN book USING (book_id)
 GROUP BY book_id
 HAVING cnt >= 3;
-
+```
 
 ### 2
 
@@ -55,6 +55,7 @@ HAVING cnt >= 3;
 Есть таблица, в которой записаны 9 не повторяющихся чисел от 1 до 10. Нужно написать скрипт, который вернет недостающее число.
 Подсказка: можно написать, как это можно сделать с помощью создания таблицы (что создать, с какими данными и как написать итоговый селект).
 
+``` sql
 CREATE TABLE test (
   id INT NOT NULL PRIMARY KEY
 );
@@ -75,34 +76,8 @@ FROM (
   LEFT JOIN test t2 ON t2.id = t1.id + 1
 ) query_in
 WHERE id1 IS NOT NULL AND id2 IS NULL AND id3 IS NOT NULL
+```
 
-
-
-### 4
-
-Нужно написать скрипт, который вернет id заявки и фио (ID) клиентов, которым на момент обращения в банк (то есть заведения заявки) было менее 18 лет.
-
-Есть 2 таблицы:
-
-Applications:
-app_id — номер заявки,
-app_dt — дата заведения заявки,
-status,
-client_id — id клиента,
-empl_id — id сотрудника,
-credit_id — id договора (если он был оформлен, иначе — пусто).
-
-Clients:
-Client_id,
-Surname,
-Firstname,
-Middlename,
-Birth_dt,
-Passport
-Pass_dt
-Update_dt – дата занесения записи.
-
-Подсказка: использовать функции с данными.
 
 
 ### 5
@@ -111,25 +86,31 @@ Update_dt – дата занесения записи.
 
 1 запрос: вывести список сотрудников, получающих максимальную зарплату в своём отделе. 
 
+``` sql
 SELECT name_employee
 FROM employees
 GROUP BY department_id
 HAVING salary = MAX(salary);
+```
 
 2 запрос: вывести список отделов, содержащих как минимум 5 сотрудников.
 
+``` sql
 SELECT department_id
 FROM employees
 GROUP BY department_id
 HAVING COUNT(name_employee) >= 5;
+```
 
 3 запрос: вывести список дубликатов значений поля salary и их количество. Написать SQL запрос.
 
+``` sql
 SELECT salary, 
 COUNT(*) AS count 
 FROM employees 
 GROUP BY salary 
 HAVING COUNT(*) > 1
+```
 
 
 ### 6
@@ -141,27 +122,33 @@ orders (order_id, user_id, status)
 
 - выбрать всех пользователей из таблицы users у которых ВСЕ записи в таблице orders имеют статус = 0
 
+``` sql
 SELECT name
 FROM users
 INNER JOIN orders ON orders.user_id = users.user_id
 WHERE status = 0;
+```
 
 - выбрать всех пользователей из таблицы users у которых больше 5 записей в таблице orders имеют статус = 1
 
+``` sql
 SELECT name
 FROM users
 INNER JOIN oreders USING(user_id)
 WHERE status = 1
 GROUP BY order_id
 HAVING COUNT(*) > 5;
+```
 
 ### 7
 
 Есть таблица one, к ней нужно добавить таблицу two, которая содержит такие же поля (id, name, seller, price). Как это сделать?
 
+``` sql
 INSERT INTO one(id, name, seller, price)
 SELECT id, name, seller, price
 FROM two;
+```
 
 ### 8
 
@@ -169,10 +156,12 @@ FROM two;
 
 Вывести последню опубликованную книгу каждого автора
 
+``` sql
 SELECT name
 FROM book
 GROUP BY publish_date
 HAVING publish_date = MAX(publish_date);
+```
 
 ### 9
 
