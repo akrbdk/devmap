@@ -183,10 +183,9 @@ FROM two;
 Вывести последню опубликованную книгу каждого автора
 
 ``` sql
-SELECT name
+SELECT author,  MAX(publish_date)
 FROM book
-GROUP BY publish_date
-HAVING publish_date = MAX(publish_date);
+GROUP BY author;
 ```
 
 ### 9
