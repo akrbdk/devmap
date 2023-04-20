@@ -367,12 +367,16 @@ There are several ways to profile the performance of a database:
 - Извлечь строки из других таблиц при выполнении объединений.
 - Найти величины `MAX()` или `MIN()` для заданного индексированного столбца. Эта операция оптимизируется препроцессором, который проверяет, не используете ли вы WHERE key_part_4 = константа, по всем частям составного ключа < N. В этом случае MySQL сделает один просмотр ключа и заменит выражение константой MIN(). Если все выражения заменяются константой, запрос моментально вернет результат:
 
-    `SELECT MIN(key_part2),MAX(key_part2) FROM table_name where key_part1=10`
+```sql
+SELECT MIN(key_part2),MAX(key_part2) FROM table_name where key_part1=10
+```
 
 - Производить сортировку или группирование в таблице, если эти операции делаются на крайнем слева префиксе используемого ключа (например ORDER BY key_part_1,key_part_2). Если за всеми частями ключа следует DESC, то данный ключ читается в обратном порядке (see section 5.2.7 Как MySQL оптимизирует ORDER BY).
 - В некоторых случаях запрос можно оптимизировать для извлечения величин без обращения к файлу данных. Если все используемые столбцы в некоторой таблице являются числовыми и образуют крайний слева префикс для некоторого ключа, то чтобы обеспечить большую скорость, искомые величины могут быть извлечены непосредственно из индексного дерева:
-
-    `SELECT key_part3 FROM table_name WHERE key_part1=1`
+- 
+```sql
+SELECT key_part3 FROM table_name WHERE key_part1=1
+```
 
 Типы MySql индексов:
 
@@ -384,46 +388,64 @@ There are several ways to profile the performance of a database:
 
 1. Назначение индекса с помощью запроса:
 
-    ALTER TABLE `Наименование_таблицы` ADD INDEX [Наименование_индекса] (`Наименование_колонки`,`или_колонок_через_запятую`...)
+```sql
+ALTER TABLE `Наименование_таблицы` ADD INDEX [Наименование_индекса] (`Наименование_колонки`,`или_колонок_через_запятую`...)
+```
 
 Пример. Добавление индекса к таблице users на колонку age. Наименование индекса - NEWINDEX.
 
-    ALTER TABLE `users` ADD INDEX NEWINDEX (`age`);
+```sql
+ALTER TABLE `users` ADD INDEX NEWINDEX (`age`);
+```
 
 
 2. Назначение уникального индекса с помощью запроса:
 
-    ALTER TABLE `Наименование_таблицы` ADD UNIQUE(`Наименование_колонки`);
+```sql
+ALTER TABLE `Наименование_таблицы` ADD UNIQUE(`Наименование_колонки`);
+```
 
 
 Пример. Назначение уникального индекса к таблице users на колонку age.
 
-    ALTER TABLE `users` ADD UNIQUE(`age`);
+```sql
+ALTER TABLE `users` ADD UNIQUE(`age`);
+```
 
 
 3. Назначение составного индекса с помощью запроса:
 
-    ALTER TABLE `Наименование_таблицы` ADD INDEX `Наименование_индекса` (`Наименование_колонки_n`, `Наименование_колонки_n+1`);
+```sql
+ALTER TABLE `Наименование_таблицы` ADD INDEX `Наименование_индекса` (`Наименование_колонки_n`, `Наименование_колонки_n+1`);
+```
 
 
 Пример. Добавление составного индекса к таблице users на колонку lastname и age. Наименование индекса - TEST.
 
-    ALTER TABLE `users` ADD INDEX `TEST` (`lastname`, `age`);
+```sql
+ALTER TABLE `users` ADD INDEX `TEST` (`lastname`, `age`);
+```
 
 4. Удаление индекса с помощью запроса:
 
-    ALTER TABLE ``Наименование_таблицы`` DROP INDEX ``Наименование_колонки``;
+```sql
+ALTER TABLE ``Наименование_таблицы`` DROP INDEX ``Наименование_колонки``;
+```
 
 
 Пример. Удаление индекса с колонки age, таблицы users.
 
-    ALTER TABLE ``users`` DROP INDEX ``age``;
+```sql
+ALTER TABLE ``users`` DROP INDEX ``age``;
+```
 
 #### Использование EXPLAIN для анализа индексов
 
 Инструкция EXPLAIN покажет данные об использовании индексов для конкретного запроса. Например:
 
-    mysql> EXPLAIN SELECT * FROM users WHERE email = 'test@gmail.com';
+```sql
+EXPLAIN SELECT * FROM users WHERE email = 'test@gmail.com';
+```
 
 ![Screenshot-2021-03-19-at-11.29.00-1000x108.png](images%2FScreenshot-2021-03-19-at-11.29.00-1000x108.png)
 
@@ -431,7 +453,9 @@ There are several ways to profile the performance of a database:
 
 Как видим, в примере не используется ни один индекс. После создания индекса:
 
-    mysql> EXPLAIN SELECT * FROM users WHERE email = 'test@gmail.com';
+```sql
+EXPLAIN SELECT * FROM users WHERE email = 'test@gmail.com';
+```
 
 ![Screenshot-2021-03-19-at-11.34.22-1000x92.png](images%2FScreenshot-2021-03-19-at-11.34.22-1000x92.png)
 
@@ -443,7 +467,9 @@ There are several ways to profile the performance of a database:
 
 Создавайте только необходимые индексы, чтобы не расходовать зря ресурсы сервера. Контролируйте размеры индексов для Ваших таблиц:
 
-    mysql> show table status;
+```sql
+show table status;
+```
 
 #### Когда создавать индексы?
 
@@ -537,6 +563,7 @@ There are several ways to profile the performance of a database:
 
 Рассмотрим на примере таблицы:
 
+```sql
     CREATE TABLE employees (
         id INT NOT NULL,
         fname VARCHAR(30),
@@ -546,6 +573,7 @@ There are several ways to profile the performance of a database:
         job_code INT NOT NULL,
         store_id INT NOT NULL
     )
+```
 
 4 типа партиционирования:
 
@@ -553,12 +581,14 @@ There are several ways to profile the performance of a database:
 
 Каждая партиция содержит данные принадлежащие указанному диапазону значений колонки.
 
+```sql
     PARTITION BY RANGE (store_id) (
         PARTITION p0 VALUES LESS THAN (6),
         PARTITION p1 VALUES LESS THAN (11),
         PARTITION p2 VALUES LESS THAN (16),
         PARTITION p3 VALUES LESS THAN (21)
     );
+```
 
 В партицию p0 попадут все строки в которых store_id<6.
 
@@ -566,12 +596,14 @@ There are several ways to profile the performance of a database:
 
 Каждая партиция содержит данные содержащие определенное значение в колонке.
 
+```sql
     PARTITION BY LIST(store_id) (
         PARTITION pNorth VALUES IN (3,5,6,9,17),
         PARTITION pEast VALUES IN (1,2,10,11,19,20),
         PARTITION pWest VALUES IN (4,12,13,14,18),
         PARTITION pCentral VALUES IN (7,8,15,16)
     );
+```
 
 Например в партицию pNorth попадут все строки в которых store_id=3, 5, 6, 9, 17.
 
@@ -1357,28 +1389,38 @@ MySQL поддерживает два самых популярных движк
 
 1. Фильтрация по нескольким колонкам
 
-        SELECT * FROM table WHERE date = '2020-10-10' AND name = 'Den'
+```sql
+SELECT * FROM table WHERE date = '2020-10-10' AND name = 'Den'
+```
 
 Наиболее эффективный индекс будет таким:
 
-        CREATE INDEX date_name ON table(date, name)
+```sql
+CREATE INDEX date_name ON table(date, name)
+```
 
 2. Фильтрация и сортировка
 
-        SELECT * FROM table WHERE name = 'Den' ORDER BY date
+```sql
+SELECT * FROM table WHERE name = 'Den' ORDER BY date
+```
 
 Наиболее эффективный индекс будет таким:
 
-        CREATE INDEX date_name ON table(name, date)
+```sql
+CREATE INDEX date_name ON table(name, date)
+```
 
 Первой должна идти колонка, по которой фильтруем
 
 Количество колонок в индексе может быть любое:
 
+```sql
     SELECT * FROM table
     WHERE date = '2020-10-10' AND type = 2 AND name = 'Den'
     ORDER BY amount DESC
     CREATE INDEX date_name ON table(date, type, name, amount)
+```
 
 
 #### Уязвимости бд, варианты взлома, шифрование паролей - Пару вопросов про безопасность, как защититься от CSRF, от SQL-Injection. Как вы сохраняете пароли в своих проектах.
