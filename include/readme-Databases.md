@@ -1,61 +1,48 @@
 #### Список ссылок
 
 - [Doctrine](https://ru.wikipedia.org/wiki/Doctrine)
-
-
+<hr />
 - [ACID](https://ru.wikipedia.org/wiki/ACID)
 - [Race condition в веб-приложениях](https://habr.com/ru/post/460339/)
 - [Транзакции и автоматическая фиксация изменений](https://www.php.net/manual/ru/pdo.transactions.php)
-
-
+<hr />
 - [Решение проблемы N+1 запроса без увеличения потребления памяти в Laravel](https://habr.com/ru/post/508544/)
 - [Проблема с N+1 запросами](https://habr.com/ru/company/otus/blog/529692/)
-
-
+<hr />
 - [Нормализация баз данных простыми словами](https://info-comp.ru/database-normalization)
 - [Первая нормальная форма (1NF) базы данных](https://info-comp.ru/first-normal-form)
 - [Вторая нормальная форма (2NF) базы данных](https://info-comp.ru/second-normal-form)
 - [Третья нормальная форма (3NF) базы данных](https://info-comp.ru/third-normal-form)
-
-
+<hr />
 - [Использование индексов в MySQL](http://www.mysql.ru/docs/man/MySQL_indexes.html)
 - [Индексы в MySQL](https://highload.today/indeksy-v-mysql/)
 - [MySql. Что такое индексы? Как создать или удалить индекс?](https://pacificsky.ru/recepty/sql/mysql/163-mysql-chto-takoe-indeksy-kak-sozdat-ili-udalit-indeks.html)
-
-
+<hr />
 - [Стратегии масштабирования MySQL](http://www.phphighload.com/2012/10/mysql-scaling-strategies.html)
 - [Репликация баз данных MySQL](https://habr.com/ru/post/532216/)
-
-
+<hr />
 - [Теорема CAP](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_CAP)
 - [CAP](https://www.bigdataschool.ru/wiki/cap)
-
-
+<hr />
 - [Что такое документная база данных?](https://wiki.merionet.ru/servernye-resheniya/100/chto-takoe-dokumentnaya-baza-dannyh/)
 - [MySQL и MongoDB — когда и что лучше использовать](https://habr.com/ru/post/322532/)
-
-
+<hr />
 - [Что такое базы данных временных рядов](https://wiki.merionet.ru/servernye-resheniya/110/chto-takoe-bazy-dannyh-vremennyh-ryadov/)
-
-
+<hr />
 - [Топ 5 Баз Данных Реального Времени](https://blog.back4app.com/ru/%D1%82%D0%BE%D0%BF-5-%D0%B1%D0%B0%D0%B7-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8/)
-
-
+<hr />
 - [Cassandra](https://www.bigdataschool.ru/wiki/cassandra)
 - [HBase](https://www.bigdataschool.ru/wiki/hbase)
-
-
+<hr />
 - [Разбираемся с Redis](https://habr.com/ru/company/wunderfund/blog/685894/)
 - [NoSQL: как моделировать базу данных на примере DynamoDB](https://highload.today/blogs/nosql-kak-modelirovat-bazu-dannyh-na-primere-dynamodb/)
-
-
+<hr />
 - [База данных Oracle. Структура и основные понятия СУБД Oracle](https://otus.ru/nest/post/1577/)
-
-
+<hr />
 - [Что такое графовая база данных?](https://wiki.merionet.ru/servernye-resheniya/101/chto-takoe-grafovaya-baza-dannyh/)
 - [Графовая база данных](https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B1%D0%B0%D0%B7%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 - [Neo4j - Графовые базы данных на примере простых запросов](https://habr.com/ru/company/neoflex/blog/654267/)
-
+<hr />
 
 
 ## ORM [&uarr;](#Readme)
