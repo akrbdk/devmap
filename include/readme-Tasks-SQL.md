@@ -1,4 +1,30 @@
-# Readme
+#### Список ссылок
+
+<hr />
+
+- [Интерактивный тренажер по SQL · Stepik](https://stepik.org/course/63054/syllabus)
+- [Справочник по SQL · Stepik](https://stepik.org/media/attachments/course/63054/SQL.pdf)
+
+<hr />
+
+- [Как изучать SQL в 2023 году](https://habr.com/ru/articles/725166/)
+- [SQLZOO - SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)
+
+<hr />
+
+- [https://habr.com/ru/companies/otus/articles/461067/](https://habr.com/ru/companies/otus/articles/461067/)
+- [27 распространённых вопросов по SQL](https://tproger.ru/articles/sql-interview-questions/)
+- [5 заданий по SQL с реальных собеседований](https://tproger.ru/articles/5-zadanij-po-sql-s-realnyh-sobesedovanij/)
+- [Лучшие вопросы средней сложности по SQL на собеседовании аналитика данных](https://habr.com/ru/company/dcmiran/blog/500360/)
+
+<hr />
+
+- [Памятка/шпаргалка по SQL](https://habr.com/ru/post/564390/)
+- [SQL CHEAT SHEET](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf)
+- [SQL-Cheat-Sheet-Summary-Full](https://websitesetup.org/wp-content/uploads/2020/08/SQL-Cheat-Sheet-Summary-Full.png)
+- [MySQL Cheat Sheet](https://overapi.com/mysql)
+
+<hr />
 
 ### 1
 
