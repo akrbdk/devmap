@@ -14,7 +14,7 @@
 
 ### Composer [&uarr;](#Readme)
 
-Composer — менеджер пакетов для PHP.
+`Composer` — менеджер пакетов для PHP.
 
 Composer, менеджер зависимостей для PHP, был выпущен около 10 лет назад, а недавно опубликовали новую версию, 2.0. За
 эти годы Composer получил множество новых функций и не отставал от стандартов PHP. Вторая версия совместима со старыми
@@ -73,6 +73,15 @@ Composer 2.* дает возможность использовать опцию
 
     Она пропустит требование для PHP или конкретной версии. Если вы собираетесь игнорировать все требования, вам следует использовать команду, уже доступную в предыдущих версиях --ignore-platform-reqs
 
+#### Difference between composer install and composer update
+
+The main difference between composer install and composer update is that composer install installs all the dependencies as specified in the composer.lock file at the version specified, without updating anything, while composer update updates your dependencies as they are specified in the composer.json file.
+
+To go into further detail, composer update will read composer.json, remove installed packages that are no longer required, check the availability of the latest versions of the required packages, install the latest versions of the packages, and update composer.lock to store the installed package versions.
+
+On the other hand, composer install will check if composer.lock file exists; if not, it will run composer update and create it. It will then read composer.lock file and install the packages specified in it.
+
+In terms of use cases, composer update is mostly used in the development phase to upgrade project packages according to what is specified in composer.json. composer install is primarily used in the deploying phase to install the application on a production server or on a testing environment, using the same dependencies stored in the composer.lock file created by composer update.
 
 ### Стандарты написания кода [&uarr;](#Readme)
 
