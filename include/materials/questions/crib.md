@@ -1,45 +1,45 @@
-bool - (логический тип)
-int - (целые числа)
-float - (дробные числа)
-string - (строки)
-array - (массивы)
-object - (объекты)
-callable - (функции)
-mixed - (любой тип)
-resource - (ресурсы)
-null - (отсутствие значения)
+    bool - (логический тип)
+    int - (целые числа)
+    float - (дробные числа)
+    string - (строки)
+    array - (массивы)
+    object - (объекты)
+    callable - (функции)
+    mixed - (любой тип)
+    resource - (ресурсы)
+    null - (отсутствие значения)
 
 ====================================================================================
 
-TCP/IP — Transmission Control Protocol/Internet Protocol
-UDP — User Datagram Protocol
-FTP — File Transfer Protocol
-HTTP — HyperText Transfer Protocol
-TLS (Transport Layer Security)
-SSL (Secure Socket Layer)
-DNS - Domain Name System
-NTP — Network Time Protocol
-SSH — Secure SHell
-IMAP, POP3, SMTP
-PSR (PHP Standards Recommendations)
-REST - REpresentational State Transfer
-SOAP Simple Object Access Protocol 
-JWT - JSON Web Token (JWT)
+    TCP/IP — Transmission Control Protocol/Internet Protocol
+    UDP — User Datagram Protocol
+    FTP — File Transfer Protocol
+    HTTP — HyperText Transfer Protocol
+    TLS (Transport Layer Security)
+    SSL (Secure Socket Layer)
+    DNS - Domain Name System
+    NTP — Network Time Protocol
+    SSH — Secure SHell
+    IMAP, POP3, SMTP
+    PSR (PHP Standards Recommendations)
+    REST - REpresentational State Transfer
+    SOAP Simple Object Access Protocol 
+    JWT - JSON Web Token (JWT)
 
 
-YAGNI You Aren’t Gonna Need It / Вам это не понадобится
-DRY Don’t Repeat Yourself / Не повторяйтесь
-KISS Keep It Simple, Stupid / Будь проще
-BDUF Big Design Up Front Глобальное проектирование прежде всего
-APO Avoid Premature Optimization Избегайте преждевременной оптимизации
+    YAGNI You Aren’t Gonna Need It / Вам это не понадобится
+    DRY Don’t Repeat Yourself / Не повторяйтесь
+    KISS Keep It Simple, Stupid / Будь проще
+    BDUF Big Design Up Front Глобальное проектирование прежде всего
+    APO Avoid Premature Optimization Избегайте преждевременной оптимизации
 
-SOLID
+    SOLID
 
-S - Single Responsibility Principle
-O - Open closed Principle 
-L - Liskov substitution Principle
-I - Interface Segregation Principle
-D - Dependency Inversion Principl
+    S - Single Responsibility Principle
+    O - Open closed Principle 
+    L - Liskov substitution Principle
+    I - Interface Segregation Principle
+    D - Dependency Inversion Principl
 
 ====================================================================================
 
