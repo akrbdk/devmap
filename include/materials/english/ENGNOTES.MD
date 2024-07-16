@@ -1,7 +1,7 @@
 # General Backend Questions
 
 1. [ALL](#ALL)
-2. [JUNIOR](#DIFFERENT)
+2. [JUNIOR](#JUNIOR)
 3. [MIDDLE](#MIDDLE)
 4. [SENIOR](#SENIOR)
 
