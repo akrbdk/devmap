@@ -1,125 +1,16 @@
-ENG NOTES
+# General Backend Questions
 
-## What are the most important PHP Developer interview questions?
+1. [ALL](#ALL)
+2. [JUNIOR](#DIFFERENT)
+3. [MIDDLE](#MIDDLE)
+4. [SENIOR](#SENIOR)
 
-When interviewing PHP engineers, open-ended questions can be used to spark further discussion:
-
-# General Questions/Ice Breaker
-
-1. **Tell us about your most recent project.**
-    - In my most recent project, I developed a web application using PHP and Laravel framework. It involved creating a
-      secure authentication system, integrating third-party APIs for data fetching, and optimizing database queries for
-      better performance.
-
-2. **Do you ever do any coding in your personal time (outside of work)?**
-    - Yes, I enjoy working on personal projects during my spare time. It helps me explore new technologies and improve
-      my skills.
-
-3. **Do you have a GitHub account?**
-    - Yes, I have a GitHub account where I showcase some of my personal projects and contribute to open-source
-      repositories.
-
-4. **If so, what are some examples of repos you follow?**
-    - I follow repositories related to Laravel, Symfony, and various PHP libraries that interest me. I also keep an eye
-      on repositories that focus on best practices and new developments in PHP programming.
-
-5. **Tell us what critical problems you have to handle in your latest projects?**
-    - In my latest projects, handling scalability issues, ensuring data security, and optimizing performance were
-      critical challenges. Implementing efficient caching strategies and designing robust APIs were key solutions.
-
-6. **Why did you get into development?**
-    - I got into development because I have always been fascinated by creating software that solves real-world problems
-      efficiently. It allows me to constantly learn and challenge myself.
-
-7. **How many technical books did you read in the past year?**
-    - I read around three technical books last year, focusing on advanced PHP programming, software architecture, and
-      design patterns.
-
-8. **What was your favorite technical book in the past year? What did you learn from it?**
-    - My favorite technical book was "Clean Code" by Robert C. Martin. It taught me valuable principles on writing
-      maintainable and understandable code, which has significantly influenced my coding practices.
-
-9. **What websites do you read regularly, related to development?**
-    - I regularly read websites like Stack Overflow, Medium (for tech blogs), Laravel News, and GitHub repositories of
-      popular PHP projects.
-
-10. **Do you maintain any open-source projects?**
-    - Yes, I contribute to a few open-source projects on GitHub. I believe in giving back to the community and learning
-      from collaborative development.
-
-11. **Do you code in your spare time?**
-    - Absolutely, coding in my spare time allows me to experiment with new technologies, refine my skills, and work on
-      projects that interest me personally.
-
-12. **Do you love programming, or do you do it for the money?**
-    - I love programming because it challenges me intellectually, allows me to create meaningful solutions, and
-      contributes to technological advancement. Money is a secondary motivation.
-
-13. **Have you accomplished anything important in your career yet? Do you want to?**
-    - Yes, I've successfully led projects that significantly improved performance and user experience. I aspire to
-      continue growing and contributing to impactful projects.
-
-14. **What would make you feel that you have done something important?**
-    - I would feel accomplished knowing that my work has positively impacted users, solved complex problems effectively,
-      and inspired others in the development community.
-
-15. **What's your favorite programming language? Why?**
-    - My favorite programming language is PHP because of its versatility, strong community support, and the vast
-      ecosystem of frameworks and libraries like Laravel that simplify web development.
-
-16. **If you could add one feature to your favorite language, what would it be? Why?**
-    - If I could add one feature to PHP, it would be native support for asynchronous programming. This would greatly
-      improve handling of I/O-bound operations and enhance performance in web applications.
-
-17. **If you could remove one feature from it, what would it be? Why?**
-    - I would consider removing the `mysql_*` functions from PHP due to their deprecated status and security risks
-      associated with SQL injection vulnerabilities. It would encourage developers to adopt modern database access
-      methods.
-
-18. **Suppose you could design your dream job that you'll be starting on Monday. It's at your ideal company with your
-    ideal job title and salary. All you have to do is tell them what you want to do at your job and you can have it.
-    What does your job entail?**
-    - My dream job would involve working as a Senior PHP Developer at a tech-forward company known for innovation and
-      supportive teamwork. I would lead projects, mentor junior developers, and collaborate with cross-functional teams
-      to deliver scalable and secure web applications. Additionally, I would have opportunities for continuous learning,
-      contribute to open-source projects, and participate in shaping technical strategies that drive the company's
-      growth.
-
-# Backend Questions
-
-##ОБЩЕЕ
-
-### What PHP frameworks have you worked with, and what has your experience with each been like?
-
-I have experience with several PHP frameworks, including:
-
-1. **Laravel**: I find Laravel to be robust and developer-friendly. It provides a wide range of features out-of-the-box
-   such as ORM, routing, and authentication, which accelerate development.
-
-2. **Symfony**: Symfony offers great flexibility and follows best practices in software design. It's well-suited for
-   large-scale projects due to its modular architecture and extensive documentation.
-
-### Can you provide an example of a recent PHP project you have contributed to that makes you proud?
-
-Certainly! Recently, I contributed to an e-commerce platform built with Laravel. I was responsible for implementing a
-real-time order tracking feature using Laravel Echo and WebSockets. This feature allowed customers to receive live
-updates on their order status, enhancing their overall shopping experience.
-
-### Which template engines have you used, which do you prefer, and why?
-
-I have used **Twig** extensively in PHP projects due to its clean syntax, strong documentation, and robust feature set.
-Twig’s separation of concerns and its easy-to-read syntax make it my preferred choice. It helps maintain a clear
-distinction between PHP logic and presentation, facilitating collaboration between front-end and back-end developers.
-
-Certainly! Here are the questions and answers formatted in Markdown with English translations:
+## ALL
 
 ### How does the internet work?
 
-The internet is a global network of interconnected computers that communicate via standardized protocols.
-
-### Name types of network protocols.
-
-Some common network protocols include HTTP, FTP, SMTP, and TCP/IP.
+The internet is a global network of interconnected computers that communicate via standardized protocols HTTP, FTP,
+SMTP, and TCP/IP.
 
 ### Tell me about DNS.
 
@@ -135,11 +26,6 @@ control.
 
 HTTPS (Hyper Text Transfer Protocol Secure) encrypts data transmitted over the internet, ensuring secure communication
 between clients and servers.
-
-### Explain the concept of network architecture.
-
-Network architecture refers to the design and structure of a network, including hardware, software, protocols, and
-configurations.
 
 ### Explain gitflow, cherry-pick, revert.
 
@@ -597,9 +483,7 @@ query and accesses tables and indexes.
 
 data type of function parameters or return values to improve code readability and reliability.
 
-# ПО ГРЕЙДАМ
-
-# Junior
+## JUNIOR
 
 ## Общие вопросы
 
@@ -1124,11 +1008,6 @@ Preference for a development environment can vary. Common preferences include:
 
 ## Git
 
-Certainly! Here are the answers to your questions as a PHP developer, translated into English and formatted with
-Markdown:
-
----
-
 **55. How do you add changes in git?**
 
 To add changes to the staging area in git, use the following command:
@@ -1527,10 +1406,15 @@ groups after the GROUP BY clause has been applied. Example:
 
 ```sql
 -- WHERE example
-SELECT * FROM employees WHERE salary > 50000;
+SELECT *
+FROM employees
+WHERE salary > 50000;
 
 -- HAVING example
-SELECT department, AVG(salary) FROM employees GROUP BY department HAVING AVG(salary) > 60000;
+SELECT department, AVG(salary)
+FROM employees
+GROUP BY department
+HAVING AVG(salary) > 60000;
 ```
 
 ### 74. В чем разница между операторами DISTINCT и GROUP BY?
@@ -1779,7 +1663,7 @@ their versions are specified. This tool significantly simplifies dependency mana
 -- SQL Query
 SELECT authors.author_name, COUNT(books.book_id) AS books_written
 FROM authors
-LEFT JOIN books ON authors.author_id = books.author_id
+         LEFT JOIN books ON authors.author_id = books.author_id
 GROUP BY authors.author_id;
 ```
 
@@ -1941,9 +1825,8 @@ class TypeEnforcement {
 
 ## Laravel
 
-Certainly! Here are the questions and answers translated into English with Markdown formatting:
-
 ### 110. Write a method for many-to-many relationship handling. Include a condition for a value stored in the pivot table. For example, consider students and courses they are enrolled in, where a student's enrollment in a course must be approved. Approval status is stored in the pivot table as
+
 `is_approve`. For the student model, there should be a method `approvedCourses`.
 
 To handle a many-to-many relationship with an approval condition in Laravel, you can define the `approvedCourses` method
@@ -1963,7 +1846,9 @@ in the pivot table is true, indicating the student's approval for that course.
 ### 111. Write a query using Query Builder that corresponds to the SQL query:
 
 ```sql
-SELECT * FROM `users` WHERE (`age` > 21 AND (`has_education` = 1 OR `work_experience` > 2))
+SELECT *
+FROM `users`
+WHERE (`age` > 21 AND (`has_education` = 1 OR `work_experience` > 2))
 ```
 
 Using Laravel's Query Builder, you can write the equivalent query:
@@ -2002,7 +1887,7 @@ php artisan cache:clear
 
 This command clears the entire cache for the application, including the cache for routes, configurations, views, etc.
 
-# MIDDLE
+## MIDDLE
 
 ## Общие вопросы
 
@@ -2940,8 +2825,6 @@ used for lazy loading relationships on an already retrieved model instance.
 
 ## Практические задания
 
-Sure, here are the questions and answers translated into English with Markdown formatting:
-
 ### Question 78
 
 **Q: You need to scrape products and their prices from an online store. How would you approach this task and what are
@@ -3004,23 +2887,26 @@ provide a report of "book — number of co-authors".**
 #### Table Structure:
 
 ```sql
-CREATE TABLE books (
-    id INT AUTO_INCREMENT PRIMARY KEY,
+CREATE TABLE books
+(
+    id    INT AUTO_INCREMENT PRIMARY KEY,
     title VARCHAR(255) NOT NULL,
     -- Assuming authors are stored in a separate table for normalization
 );
 
-CREATE TABLE authors (
-    id INT AUTO_INCREMENT PRIMARY KEY,
+CREATE TABLE authors
+(
+    id   INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL
 );
 
-CREATE TABLE book_authors (
-    book_id INT,
+CREATE TABLE book_authors
+(
+    book_id   INT,
     author_id INT,
     PRIMARY KEY (book_id, author_id),
-    FOREIGN KEY (book_id) REFERENCES books(id),
-    FOREIGN KEY (author_id) REFERENCES authors(id)
+    FOREIGN KEY (book_id) REFERENCES books (id),
+    FOREIGN KEY (author_id) REFERENCES authors (id)
 );
 ```
 
@@ -3029,7 +2915,7 @@ CREATE TABLE book_authors (
 ```sql
 SELECT b.title AS book, COUNT(ba.author_id) AS num_coauthors
 FROM books b
-JOIN book_authors ba ON b.id = ba.book_id
+         JOIN book_authors ba ON b.id = ba.book_id
 GROUP BY b.title;
 ```
 
@@ -3099,7 +2985,7 @@ You can then run this command using `php artisan current:time` in the terminal.
 These answers cover a range of topics commonly encountered by PHP developers, from web scraping and database management
 to Laravel scheduling and Artisan commands.
 
-# SENIOR
+## SENIOR
 
 ## Общие вопросы
 

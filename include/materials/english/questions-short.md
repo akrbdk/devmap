@@ -1,40 +1,57 @@
-# Content
+# General Questions/Ice Breaker
 
-- Tell me about yourself
-- Tell me more about yourself
-- What are your biggest strengths and weaknesses?
-- Which skills would you say are critical for working with a team?
-- What is your task prioritization process?
-- What is your approach to handling project delays?
-- How do you make sure you’re constantly improving your skills?
-- How would you describe your communication skills?
-- How do you respond to negative feedback or bad reviews? What is your process?
-- Has there been a time that you gave negative feedback to an employee?
-- How do you motivate other team members?
-- What is your approach to providing accurate estimates for the time you need to complete a task?
-- Which steps do you take to plan your tasks?
-- What is your approach when starting a new task?
-- You receive unclear instructions for a task. What steps do you take to handle it?
-- Tell me about a time when you failed a task. How did you learn from this experience?
-- Which skills do you believe are essential for leadership?
-- Is meeting deadlines or producing quality work more important to you?
-- Tell me about a time you had to acquire new skills within a short period. How did you achieve this?
-- What is your biggest challenge when starting a new role?
-- What Are Your Career Goals
-- Why did you leave your last job? / Why are you leaving your current position / Why do you want to work here?
-- Tell me about the biggest challenge you’ve ever had
-- What would you do if a manager asked you to perform a task you've never done before?
-- What would you do if you made a mistake no one noticed?
-- Tell me about a time you set a personal goal for yourself. How did you ensure you would meet your objectives and what
-  steps did you take?
-- Tell me about your first job in the industry. What did you do to learn the ropes?
-- Why Do You Want to Work Here?
-- So, DON’T say you want to work a particular job for the following reasons:
-- Do you have any questions for me? (Questions to the employer)
+## Table of Contents
+
+1. [Tell me about yourself](#tell-me-about-yourself)
+2. [Tell me more about yourself](#tell-me-more-about-yourself)
+3. [What are your biggest strengths and weaknesses?](#what-are-your-biggest-strengths-and-weaknesses)
+4. [Which skills would you say are critical for working with a team?](#which-skills-would-you-say-are-critical-for-working-with-a-team)
+5. [What is your task prioritization process?](#what-is-your-task-prioritization-process)
+6. [What is your approach to handling project delays?](#what-is-your-approach-to-handling-project-delays)
+7. [How do you make sure you’re constantly improving your skills?](#how-do-you-make-sure-youre-constantly-improving-your-skills)
+8. [How would you describe your communication skills?](#how-would-you-describe-your-communication-skills)
+9. [How do you respond to negative feedback or bad reviews? What is your process?](#how-do-you-respond-to-negative-feedback-or-bad-reviews-what-is-your-process)
+10. [Has there been a time that you gave negative feedback to an employee?](#has-there-been-a-time-that-you-gave-negative-feedback-to-an-employee)
+11. [How do you motivate other team members?](#how-do-you-motivate-other-team-members)
+12. [What is your approach to providing accurate estimates for the time you need to complete a task?](#what-is-your-approach-to-providing-accurate-estimates-for-the-time-you-need-to-complete-a-task)
+13. [Which steps do you take to plan your tasks?](#which-steps-do-you-take-to-plan-your-tasks)
+14. [What is your approach when starting a new task?](#what-is-your-approach-when-starting-a-new-task)
+15. [You receive unclear instructions for a task. What steps do you take to handle it?](#you-receive-unclear-instructions-for-a-task-what-steps-do-you-take-to-handle-it)
+16. [Tell me about a time when you failed a task. How did you learn from this experience?](#tell-me-about-a-time-when-you-failed-a-task-how-did-you-learn-from-this-experience)
+17. [Which skills do you believe are essential for leadership?](#which-skills-do-you-believe-are-essential-for-leadership)
+18. [Is meeting deadlines or producing quality work more important to you?](#is-meeting-deadlines-or-producing-quality-work-more-important-to-you)
+19. [Tell me about a time you had to acquire new skills within a short period. How did you achieve this?](#tell-me-about-a-time-you-had-to-acquire-new-skills-within-a-short-period-how-did-you-achieve-this)
+20. [What is your biggest challenge when starting a new role?](#what-is-your-biggest-challenge-when-starting-a-new-role)
+21. [What Are Your Career Goals](#what-are-your-career-goals)
+22. [Why did you leave your last job? / Why are you leaving your current position / Why do you want to work here?](#why-did-you-leave-your-last-job--why-are-you-leaving-your-current-position--why-do-you-want-to-work-here)
+23. [Tell me about the biggest challenge you’ve ever had](#tell-me-about-the-biggest-challenge-youve-ever-had)
+24. [What would you do if a manager asked you to perform a task you've never done before?](#what-would-you-do-if-a-manager-asked-you-to-perform-a-task-youve-never-done-before)
+25. [What would you do if you made a mistake no one noticed?](#what-would-you-do-if-you-made-a-mistake-no-one-noticed)
+26. [Tell me about a time you set a personal goal for yourself. How did you ensure you would meet your objectives and what steps did you take?](#tell-me-about-a-time-you-set-a-personal-goal-for-yourself-how-did-you-ensure-you-would-meet-your-objectives-and-what-steps-did-you-take)
+27. [Tell me about your first job in the industry. What did you do to learn the ropes?](#tell-me-about-your-first-job-in-the-industry-what-did-you-do-to-learn-the-ropes)
+28. [Why Do You Want to Work Here?](#why-do-you-want-to-work-here)
+29. [Tell us about your most recent project.](#tell-us-about-your-most-recent-project)
+30. [Do you ever do any coding in your personal time (outside of work)?](#do-you-ever-do-any-coding-in-your-personal-time-outside-of-work)
+31. [Do you have a GitHub account?](#do-you-have-a-github-account)
+32. [If so, what are some examples of repos you follow?](#if-so-what-are-some-examples-of-repos-you-follow)
+33. [Tell us what critical problems you have to handle in your latest projects?](#tell-us-what-critical-problems-you-have-to-handle-in-your-latest-projects)
+34. [Why did you get into development?](#why-did-you-get-into-development)
+35. [How many technical books did you read in the past year?](#how-many-technical-books-did-you-read-in-the-past-year)
+36. [What was your favorite technical book in the past year? What did you learn from it?](#what-was-your-favorite-technical-book-in-the-past-year-what-did-you-learn-from-it)
+37. [What websites do you read regularly, related to development?](#what-websites-do-you-read-regularly-related-to-development)
+38. [Do you maintain any open-source projects?](#do-you-maintain-any-open-source-projects)
+39. [Do you code in your spare time?](#do-you-code-in-your-spare-time)
+40. [Do you love programming, or do you do it for the money?](#do-you-love-programming-or-do-you-do-it-for-the-money)
+41. [What's your favorite programming language? Why?](#whats-your-favorite-programming-language-why)
+42. [If you could add one feature to your favorite language, what would it be? Why?](#if-you-could-add-one-feature-to-your-favorite-language-what-would-it-be-why)
+43. [If you could remove one feature from it, what would it be? Why?](#if-you-could-remove-one-feature-from-it-what-would-it-be-why)
+44. [Suppose you could design your dream job that you'll be starting on Monday. What does your job entail?](#suppose-you-could-design-your-dream-job-that-youll-be-starting-on-monday-what-does-your-job-entail)
+45. [What should I not say that I want to work a particular job for the following reasons?](#what-should-i-not-say-that-i-want-to-work-a-particular-job-for-the-following-reasons)
+46. [Do you have any questions for me? (Questions to the employer)](#do-you-have-any-questions-for-me-questions-to-the-employer)
 
 ### Tell me about yourself
 
-Sure, so, my name is Alexander, and I am 31 years old.
+Sure, so, my name is Alexander, and I am 32 years old.
 
 I am a PHP developer with over 6 years of experience. My professional experience includes support and development of web
 services.
@@ -335,6 +352,89 @@ been doing some research in preparation for this discussion, and I need to say t
 vision for the future. As an experienced programmer with an emphasis on technology, I know I can bring
 a lot of value to the team.
 
+### Tell us about your most recent project.**
+
+- In my most recent project, I developed a web application using PHP and Laravel framework. It involved creating a
+  secure authentication system, integrating third-party APIs for data fetching, and optimizing database queries for
+  better performance.
+
+### Do you ever do any coding in your personal time (outside of work)?**
+
+- Yes, I enjoy working on personal projects during my spare time. It helps me explore new technologies and improve
+  my skills.
+
+### Do you have a GitHub account?**
+
+- Yes, I have a GitHub account where I showcase some of my personal projects.
+
+### If so, what are some examples of repos you follow?**
+
+- I follow repositories related to Laravel, and various PHP libraries that interest me. I also keep an eye
+  on repositories that focus on best practices and new developments in PHP programming.
+
+### Tell us what critical problems you have to handle in your latest projects?**
+
+- In my latest projects, handling scalability issues, ensuring data security, and optimizing performance were
+  critical challenges. Implementing efficient caching strategies and designing robust APIs were key solutions.
+
+### Why did you get into development?**
+
+- I got into development because I have always been fascinated by creating software that solves real-world problems
+  efficiently. It allows me to constantly learn and challenge myself.
+
+### How many technical books did you read in the past year?**
+
+- I read around three technical books last year, focusing on advanced PHP programming, software architecture, and
+  design patterns.
+
+### What was your favorite technical book in the past year? What did you learn from it?**
+
+- My favorite technical book was "Clean Code" by Robert C. Martin. It taught me valuable principles on writing
+  maintainable and understandable code, which has significantly influenced my coding practices.
+
+### What websites do you read regularly, related to development?**
+
+- I regularly read websites like Stack Overflow, Medium (for tech blogs), Laravel News, and GitHub repositories of
+  popular PHP projects.
+
+### Do you maintain any open-source projects?**
+
+- No, I dont contribute to a few open-source projects on GitHub.
+
+### Do you code in your spare time?**
+
+- Absolutely, coding in my spare time allows me to experiment with new technologies, refine my skills, and work on
+  projects that interest me personally.
+
+### Do you love programming, or do you do it for the money?**
+
+- I love programming because it challenges me intellectually, allows me to create meaningful solutions, and
+  contributes to technological advancement. Money is a secondary motivation.
+
+### What's your favorite programming language? Why?**
+
+- My favorite programming language is PHP because of its versatility, strong community support, and the vast
+  ecosystem of frameworks and libraries like Laravel that simplify web development.
+
+### If you could add one feature to your favorite language, what would it be? Why?**
+
+- If I could add one feature to PHP, it would be native support for asynchronous programming. This would greatly
+  improve handling of I/O-bound operations and enhance performance in web applications.
+
+### If you could remove one feature from it, what would it be? Why?**
+
+- I would consider removing the `mysql_*` functions from PHP due to their deprecated status and security risks
+  associated with SQL injection vulnerabilities. It would encourage developers to adopt modern database access
+  methods.
+
+### Suppose you could design your dream job that you'll be starting on Monday. What does your job entail?**
+
+- My dream job would involve working as a Senior PHP Developer at a tech-forward company known for innovation and
+  supportive teamwork. I would lead projects, mentor junior developers, and collaborate with cross-functional teams
+  to deliver scalable and secure web applications. Additionally, I would have opportunities for continuous learning,
+  contribute to open-source projects, and participate in shaping technical strategies that drive the company's
+  growth.
+
 ### So, DON’T say you want to work a particular job for the following reasons:
 
 - You like the hefty salary
@@ -359,3 +459,4 @@ a lot of value to the team.
 - How advanced is the hardware and software I will be expected to use?
 - How did this job become available?
 - Before you’re able to reach a hiring decision, how many more interviews should I expect to go through and with whom?
+
