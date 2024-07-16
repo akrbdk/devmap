@@ -43,14 +43,13 @@ abstract class Observer
 class ConcreteSubject extends Subject
 {
     /**
-     * @var []Observer
-     */
-    protected $observers;
-
-    /**
      * @var string
      */
     public $state;
+    /**
+     * @var []Observer
+     */
+    protected $observers;
 
     /**
      * Добавляет подписчика
@@ -67,8 +66,7 @@ class ConcreteSubject extends Subject
      */
     public function notify()
     {
-        foreach ($this->observers as $observer)
-        {
+        foreach ($this->observers as $observer) {
             $observer->update($this->state);
         }
     }

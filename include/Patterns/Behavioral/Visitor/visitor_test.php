@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'visitor.php';
 
-class VisitorTest extends \PHPUnit_Framework_TestCase
+class VisitorTest extends PHPUnit_Framework_TestCase
 {
     public function testVisitor()
     {

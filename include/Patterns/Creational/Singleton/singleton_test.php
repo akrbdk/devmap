@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'singleton.php';
 
-class SingletonTest extends \PHPUnit_Framework_TestCase
+class SingletonTest extends PHPUnit_Framework_TestCase
 {
     public function testSingleton()
     {

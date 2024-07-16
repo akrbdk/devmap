@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'abstract_factory.php';
 
-class AbstractFactoryTest extends \PHPUnit_Framework_TestCase
+class AbstractFactoryTest extends PHPUnit_Framework_TestCase
 {
     public function testAbstractFactory()
     {

@@ -1,13 +1,9 @@
 # Vocabulary
 
-
 ФРАЗОВЫЕ ГЛАГОЛЫ
 
 https://cambridge.ua/blog/20-poleznyh-frazovyh-glagolov-dlya-novichkov-v-it/
 https://puzzle-english.com/directory/phrasal-verbs
-
-
-
 
 - Very good = amazing, awesome, fantastic, top-notch
 - Very bad = awful, terrible, lame (informal)
@@ -24,7 +20,6 @@ https://puzzle-english.com/directory/phrasal-verbs
 - You know...
 - I mean...
 - It’s hard to remember off the top of my head...
-
 
 
 - in charge [] - ответственный

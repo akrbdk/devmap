@@ -4,7 +4,7 @@
  */
 
 namespace Pattern;
- 
+
 /**
  * Абстрактный базовый класс Creater, описывает интерфейс,
  * который должна реализовать конкретная фабрика
@@ -67,8 +67,7 @@ class ConcreteCreator extends Creater
      */
     public function createProduct($action)
     {
-        switch ($action)
-        {
+        switch ($action) {
             case "A":
                 $product = new ConcreteProductA($action);
                 break;

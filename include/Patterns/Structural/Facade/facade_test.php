@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'facade.php';
 
-class FacadeTest extends \PHPUnit_Framework_TestCase
+class FacadeTest extends PHPUnit_Framework_TestCase
 {
     public function testFacade()
     {

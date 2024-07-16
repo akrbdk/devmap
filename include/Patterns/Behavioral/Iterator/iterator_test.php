@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'iterator.php';
 
-class IteratorTest extends \PHPUnit_Framework_TestCase
+class IteratorTest extends PHPUnit_Framework_TestCase
 {
     public function testIterator()
     {

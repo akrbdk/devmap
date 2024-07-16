@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'command.php';
 
-class CommandTest extends \PHPUnit_Framework_TestCase
+class CommandTest extends PHPUnit_Framework_TestCase
 {
     public function testCommand()
     {

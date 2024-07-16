@@ -25,7 +25,8 @@
 - Tell me about the biggest challenge you’ve ever had
 - What would you do if a manager asked you to perform a task you've never done before?
 - What would you do if you made a mistake no one noticed?
-- Tell me about a time you set a personal goal for yourself. How did you ensure you would meet your objectives and what steps did you take?
+- Tell me about a time you set a personal goal for yourself. How did you ensure you would meet your objectives and what
+  steps did you take?
 - Tell me about your first job in the industry. What did you do to learn the ropes?
 - Why Do You Want to Work Here?
 - So, DON’T say you want to work a particular job for the following reasons:
@@ -38,11 +39,13 @@ Sure, so, my name is Alexander, and I am 31 years old.
 I am a PHP developer with over 6 years of experience. My professional experience includes support and development of web
 services.
 
-In my most recent job, I was involved in a number of commerce projects where I was in charge of implementing web design solutions 
-as well as maintaining the database. In my previous job, I was responsible for maintaining and updating our company website. 
+In my most recent job, I was involved in a number of commerce projects where I was in charge of implementing web design
+solutions
+as well as maintaining the database. In my previous job, I was responsible for maintaining and updating our company
+website.
 I truly enjoyed what I was doing, which is what drew me to apply for this position.
 
-I have some background in engineering science. I graduated from the Donbass State Engineering Academy and I have 
+I have some background in engineering science. I graduated from the Donbass State Engineering Academy and I have
 a Master's degree in Mechanical Engineering.
 
 I started out as a back-end developer but soon started taking on database and server management tasks. I have a strong
@@ -59,13 +62,17 @@ My time management skills are excellent. I’m organized and efficient. This ena
 the job. When working on a project, I don’t want just to meet deadlines. I prefer to complete the task well ahead of
 schedule and as a result I always make my managers to be proud of me.
 
-I am looking for a position, in which I can use my experience. I am more interested in a full-time position. My goal right now 
-is to find a position at a company where I can grow and take on new challenges over time. 
+I am looking for a position, in which I can use my experience. I am more interested in a full-time position. My goal
+right now
+is to find a position at a company where I can grow and take on new challenges over time.
 
 Although I love my current role, I feel I’m now ready for a more challenging assignment and this position really excites
-me. I believe that my experience with technology, specifically in the programming space, makes me the best match for this
-position. If you hire me, I will do my best to exceed your highest expectations. I want this job because the role matches what 
-I am looking for the next step in my career growth and also because I am very drawn to the mission and values that this company stands for.
+me. I believe that my experience with technology, specifically in the programming space, makes me the best match for
+this
+position. If you hire me, I will do my best to exceed your highest expectations. I want this job because the role
+matches what
+I am looking for the next step in my career growth and also because I am very drawn to the mission and values that this
+company stands for.
 
 You should hire me because I’m not only qualified for this job due to my experiences, but also because of the positive
 attitudes that I have towards the tasks given to me. You should hire me because I have the ability to develop my skills.
@@ -85,7 +92,8 @@ But it all probably started when I studied at school, and at the age of 16 I fir
 I always loved playing around with code and learning new things. But it wasn’t until that high school where I first had
 my first class about IT that really made me fall in love with the subject.
 
-Throughout my study at school, I’ve noticed that I’ve always been good with numbers and handling data. Since then, I started 
+Throughout my study at school, I’ve noticed that I’ve always been good with numbers and handling data. Since then, I
+started
 learning more about IT and decided to major in IT.
 
 As for my hobbies, they are bicycling and playing computer games.
@@ -134,7 +142,8 @@ reassigning specific tasks, and ask for help from other teams or colleagues.
 One of my goals is to learn about new technology. My approach involves studying and using self-learning behavioral
 approaches to keep up-to-date. I put my technological knowledge into practice by implementing new skills at work.
 
-For example, I enhanced the code quality of my organization’s website with the knowledge I had gained through a self-study course
+For example, I enhanced the code quality of my organization’s website with the knowledge I had gained through a
+self-study course
 in the best practices of refactoring.
 
 ### How would you describe your communication skills?
@@ -178,15 +187,18 @@ achieve each goal.
 
 ### What is your approach when starting a new task?
 
-When starting to work on a new task, I like to be prepared. I use verbal communication and active listening skills to clarify 
-what needs to be done. I then use problem-solving skills to divide the task into easier sub-tasks. And finally, I make 
+When starting to work on a new task, I like to be prepared. I use verbal communication and active listening skills to
+clarify
+what needs to be done. I then use problem-solving skills to divide the task into easier sub-tasks. And finally, I make
 a plan to tackle each sub-task methodically. I welcome feedback to improve and implement any changes that are needed.
 
 ### You receive unclear instructions for a task. What steps do you take to handle it?
 
 Before I proceed with a task, I always make sure I understand the instructions and do the necessary research to figure
-out what I need to do to complete it. If I still don’t understand everything, I approach the team lead or project manager 
-and ask questions to clarify the requirements. I always ask what the result should be and, if unclear, ask for an example.
+out what I need to do to complete it. If I still don’t understand everything, I approach the team lead or project
+manager
+and ask questions to clarify the requirements. I always ask what the result should be and, if unclear, ask for an
+example.
 
 ### Tell me about a time when you failed a task. How did you learn from this experience?
 
@@ -216,7 +228,7 @@ revealed a few errors. I prioritized fixing the errors because quality was more 
 ### Tell me about a time you had to acquire new skills within a short period. How did you achieve this?
 
 When I was about to begin a new role as a middle software engineer, I had to refresh my knowledge of a programming
-language that I hadn’t used in a while. I quickly took a look at a few open-source projects I had produced. I refreshed 
+language that I hadn’t used in a while. I quickly took a look at a few open-source projects I had produced. I refreshed
 my memory and played around with the code and practiced my skills . When I began the role, I felt more confident.
 
 ### What is your biggest challenge when starting a new role?
@@ -227,8 +239,10 @@ principles of the business.
 
 ### What Are Your Career Goals
 
-I know that it’s become more and more helpful to know Python in the context of data science, so I plan on learning it this
-year. It will come in handy when solving portfolio optimization problems. As far as long-term goals, I would like to become 
+I know that it’s become more and more helpful to know Python in the context of data science, so I plan on learning it
+this
+year. It will come in handy when solving portfolio optimization problems. As far as long-term goals, I would like to
+become
 a fullstack-developer.
 
 ### Why did you leave your last job? / Why are you leaving your current position / Why do you want to work here?
@@ -253,7 +267,8 @@ to work. In the end, we managed to deliver a functioning product and the client 
 
 ### What would you do if a manager asked you to perform a task you've never done before?
 
-In my last role as a software engineer, my manager asked me to build and launch a new Go app, which was something I'd never
+In my last role as a software engineer, my manager asked me to build and launch a new Go app, which was something I'd
+never
 done before. I explained to my manager that I had no experience leading that type of project but volunteered to do all
 the work if someone more experienced could offer guidance. I met with several coworkers who had experience running Go
 apps, studied best practices, and successfully launched the app. Thanks to that hands-on learning experience, I became
@@ -286,7 +301,6 @@ In the end, I’m glad I stuck to my plan and continued with my set curriculum. 
 planned out with specific objectives, I surely would have been overwhelmed. Sure, at times, it felt like I was basically
 working 2 jobs and that a lot of the material wasn’t making sense. But I just kept moving forward, and then, I got my
 first real break as a junior web dev at Company CorpY.
-
 
 ### Tell me about your first job in the industry. What did you do to learn the ropes?
 

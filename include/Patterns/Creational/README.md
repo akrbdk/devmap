@@ -1,4 +1,3 @@
-
 ## Порождающие паттерны (Creational)
 
 Порождающие паттерны делятся на два типа:
@@ -16,7 +15,7 @@
 
 * [Абстрактная фабрика (Abstract Factory)](AbstractFactory)
 * [Строитель (Builder)](Builder)
-* [Фабричный метод (Factory Method)](FactoryMethod) 
-* [Прототип (Prototype)](Prototype) 
+* [Фабричный метод (Factory Method)](FactoryMethod)
+* [Прототип (Prototype)](Prototype)
 * [Одиночка (Singleton)](Singleton) 
 

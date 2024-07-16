@@ -2,15 +2,17 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'builder.php';
 
-class BuilderTest extends \PHPUnit_Framework_TestCase
+class BuilderTest extends PHPUnit_Framework_TestCase
 {
     public function testBuilder()
     {
-        $expect = "<header>Header</header>\n"+
-                  "<article>Content</article>\n"+
-                  "<footer>Footer</footer>\n";
+        $expect = "<header>Header</header>\n" +
+            "<article>Content</article>\n" +
+            "<footer>Footer</footer>\n";
 
         $product = new Product();
 

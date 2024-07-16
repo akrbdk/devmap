@@ -2,14 +2,16 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'strategy.php';
 
-class StrategyTest extends \PHPUnit_Framework_TestCase
+class StrategyTest extends PHPUnit_Framework_TestCase
 {
     public function testStrategy()
     {
-        $data1 = [8,2,6,7,1,3,9,5,4];
-        $data2 = [8,2,6,7,1,3,9,5,4];
+        $data1 = [8, 2, 6, 7, 1, 3, 9, 5, 4];
+        $data2 = [8, 2, 6, 7, 1, 3, 9, 5, 4];
 
         $ctx = new Context();
 

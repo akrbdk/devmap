@@ -4,7 +4,7 @@
  */
 
 namespace Pattern;
- 
+
 /**
  * Абстрактный базовый класс Вuilder, описывает интерфейс строителя.
  * Строитель должен ему соответвовать, что бы строить
@@ -137,7 +137,7 @@ class Product
      */
     public function show()
     {
-        $result  = $this->header;
+        $result = $this->header;
         $result += $this->content;
         $result += $this->footer;
         return $result;

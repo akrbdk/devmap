@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'prototype.php';
 
-class PrototypeTest extends \PHPUnit_Framework_TestCase
+class PrototypeTest extends PHPUnit_Framework_TestCase
 {
     public function testPrototype()
     {

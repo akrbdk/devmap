@@ -28,11 +28,11 @@ class BubbleSort extends StrategySort
             return;
         }
         for ($i = 0; $i < $size; $i++) {
-            for ($j = $size-1; $j >= $i+1; $j--) {
-                if ($a[$j] < $a[$j-1]) {
+            for ($j = $size - 1; $j >= $i + 1; $j--) {
+                if ($a[$j] < $a[$j - 1]) {
                     $tmp = $a[$j];
-                    $a[$j] = $a[$j-1];
-                    $a[$j-1] = $tmp;
+                    $a[$j] = $a[$j - 1];
+                    $a[$j - 1] = $tmp;
                 }
             }
         }
@@ -53,13 +53,13 @@ class InsertionSort extends StrategySort
         for ($i = 1; $i < $size; $i++) {
             $j = 0;
             $buff = $a[$i];
-            for ($j = $i-1; $j >= 0; $j--) {
+            for ($j = $i - 1; $j >= 0; $j--) {
                 if ($a[$j] < $buff) {
                     break;
                 }
-                $a[$j+1] = $a[$j];
+                $a[$j + 1] = $a[$j];
             }
-            $a[$j+1] = $buff;
+            $a[$j + 1] = $buff;
         }
     }
 }

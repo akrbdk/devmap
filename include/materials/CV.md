@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/akarabudka/" target="_blank">Alex</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a PHP developer with 6+ years of experience.</h3>
@@ -47,7 +46,6 @@
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ## ✨ About Me
 
 I have a strong background in PHP as well as Go and MySQL and I specialize in web projects.
@@ -72,15 +70,17 @@ always been built from a simple foundation through evolution.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akrbdk&theme=darcula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akrbdk&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akrbdk&theme=darcula)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akrbdk&theme=darcula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akrbdk&theme=darcula)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akrbdk&theme=darcula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akrbdk&theme=darcula)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akrbdk&theme=darcula&utcOffset=8)
 
 ## 🤝 Connect with me
 
-[![akarabudka@gmail.com](https://img.shields.io/badge/akarabudka@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:akarabudka@gmail.com) 
-[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarabudka/) 
-[![twitter](https://img.shields.io/badge/akarabudka%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/alexoff_s) 
+[![akarabudka@gmail.com](https://img.shields.io/badge/akarabudka@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:akarabudka@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarabudka/)
+[![twitter](https://img.shields.io/badge/akarabudka%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/alexoff_s)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexander_s4)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11660447/alexander-krabudka)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a751a9be71f064f5)

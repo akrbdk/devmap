@@ -99,7 +99,8 @@ class Farmer extends Colleague
      *
      * @param int $tomato
      */
-    public function growTomato($tomato) {
+    public function growTomato($tomato)
+    {
         $this->tomato = $tomato;
         $this->money -= 5000;
         $this->mediator->send("Farmer: Tomato complete...");

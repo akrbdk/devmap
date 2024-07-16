@@ -4,7 +4,7 @@
  */
 
 namespace Pattern;
- 
+
 /**
  * Базовый абстрактный класс Handler, описывает интерфейс обработчиков в цепочки
  */
@@ -51,7 +51,8 @@ class ConcreteHandlerA extends Handler
      *
      * @return string
      */
-    public function sendRequest($message) {
+    public function sendRequest($message)
+    {
 
         $result = "";
 
@@ -77,7 +78,8 @@ class ConcreteHandlerB extends Handler
      *
      * @return string
      */
-    public function sendRequest($message) {
+    public function sendRequest($message)
+    {
 
         $result = "";
 
@@ -103,7 +105,8 @@ class ConcreteHandlerC extends Handler
      *
      * @return string
      */
-    public function sendRequest($message) {
+    public function sendRequest($message)
+    {
 
         $result = "";
 

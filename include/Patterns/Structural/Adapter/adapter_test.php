@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'adapter.php';
 
-class AdapterTest extends \PHPUnit_Framework_TestCase
+class AdapterTest extends PHPUnit_Framework_TestCase
 {
     public function testAdapter()
     {

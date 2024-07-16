@@ -11,7 +11,6 @@
 - [Github Actions. Простой пример для уверенного знакомства](https://habr.com/ru/post/711278/)
 - [Quickstart for GitHub Actions](https://docs.github.com/ru/actions/quickstart#creating-your-first-workflow)
 
-
 ### `CI` (`Continuous Integration`) [&uarr;](#devmap)
 
 CI/CD означает «Continuous Integration/Continuous Delivery» — то есть «непрерывная интеграция/непрерывная доставка». Это

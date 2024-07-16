@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'factory_method.php';
 
-class FactoryMethodTest extends \PHPUnit_Framework_TestCase
+class FactoryMethodTest extends PHPUnit_Framework_TestCase
 {
     public function testFactoryMethod()
     {

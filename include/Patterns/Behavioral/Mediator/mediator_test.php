@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'mediator.php';
 
-class MediatorTest extends \PHPUnit_Framework_TestCase
+class MediatorTest extends PHPUnit_Framework_TestCase
 {
     public function testMediator()
     {

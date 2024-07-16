@@ -4,7 +4,7 @@
  */
 
 namespace Pattern;
- 
+
 /**
  * Базовый абстрактный класс Component, описывает интерфейс для ветвей и листьев дерева
  */
@@ -77,6 +77,25 @@ class Directory extends Component
     }
 
     /**
+     * Возвращает листинг дерева
+     *
+     * @param string $prefix - дочерний элемент
+     *
+     * @return string
+     */
+    public function show($prefix)
+    {
+        $result = $prefix . "/" . $this->name() . "\n";
+        $childs = $this->childs();
+
+        foreach ($childs as $child) {
+            $result .= $child->show($prefix . "/" . $this->name());
+        }
+
+        return $result;
+    }
+
+    /**
      * Возвращает имя компонента
      *
      * @return string
@@ -95,25 +114,6 @@ class Directory extends Component
     {
         return $this->childs;
     }
-
-    /**
-     * Возвращает листинг дерева
-     *
-     * @param string $prefix - дочерний элемент
-     *
-     * @return string
-     */
-    public function show($prefix)
-    {
-        $result = $prefix . "/" . $this->name() . "\n";
-        $childs = $this->childs();
-
-        foreach ($childs as $child) {
-            $result .= $child->show($prefix . "/" . $this->name());
-        }
-
-        return $result;
-    }
 }
 
 /**
@@ -129,16 +129,6 @@ class File extends Component
     public function add(Component $child)
     {
         throw new ErrorException();
-    }
-
-    /**
-     * Возвращает имя компонента
-     *
-     * @return string
-     */
-    public function name()
-    {
-        return $this->name;
     }
 
     /**
@@ -161,5 +151,15 @@ class File extends Component
     public function show($prefix)
     {
         return $prefix . "/" . $this->name() . "\n";
+    }
+
+    /**
+     * Возвращает имя компонента
+     *
+     * @return string
+     */
+    public function name()
+    {
+        return $this->name;
     }
 }

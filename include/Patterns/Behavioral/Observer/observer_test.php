@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'observer.php';
 
-class ObserverTest extends \PHPUnit_Framework_TestCase
+class ObserverTest extends PHPUnit_Framework_TestCase
 {
     public function testObserver()
     {

@@ -2,12 +2,11 @@
 
 =====================================
 
-- Simple CRUD application with PHP and JSON 	  https://youtu.be/DWHZSkn5paQ
+- Simple CRUD application with PHP and JSON      https://youtu.be/DWHZSkn5paQ
 - Todo app with PHP                             https://youtu.be/NxeNqHdJFxs
 - PHP Watch files and directories recursively   https://youtu.be/5f4PjQJI-Fc
 - Bulk image resize with PHP                    https://youtu.be/Z99lYtn3quk
 - PHP registration form & validation            https://youtu.be/V5sJ76T3mWg
-
 
 =====================================
 
@@ -16,22 +15,21 @@
 - Create MySql Notes App                                           https://youtu.be/DOsuFRnBqLU
 - How To Create A Login System In PHP For Beginners                https://youtu.be/gCo6JqGMi30
 
-
 =====================================
 
-- Build PHP MVC Framework                 https://www.youtube.com/watch?v=WKy-N0q3WRo&list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1
+- Build PHP MVC
+  Framework                 https://www.youtube.com/watch?v=WKy-N0q3WRo&list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1
 - Create your own PHP Framework           https://symfony.com/doc/current/create_framework/index.html
 
-
 =====================================
 
-- Yii2 E-commerce website - Full Working Process 	16h 30m 	https://youtu.be/eQdDBhQpU9o
-- Build a REST API using Yii2 PHP Framework 	1h 25m 	https://youtu.be/XyHHMvRt6Cw
-- Vue.js & Yii2 REST API notes app 	2h 30m 	https://youtu.be/7vrctmDQYW4
+- Yii2 E-commerce website - Full Working Process 16h 30m    https://youtu.be/eQdDBhQpU9o
+- Build a REST API using Yii2 PHP Framework 1h 25m    https://youtu.be/XyHHMvRt6Cw
+- Vue.js & Yii2 REST API notes app 2h 30m    https://youtu.be/7vrctmDQYW4
 
-- Laravel E-Commerce 	16h 30m 	https://www.youtube.com/watch?v=o5PWIuDTgxg&list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR
-- Laravel Movie App 	1h 25m 	https://www.youtube.com/watch?v=9OKbmMqsREc&list=PLEhEHUEU3x5pYTjZze3fhYMB4Nl_WOHI4
-- a lot of great videos from Laraveller 	collection 	https://www.youtube.com/c/Laraveller/videos
+- Laravel E-Commerce 16h 30m    https://www.youtube.com/watch?v=o5PWIuDTgxg&list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR
+- Laravel Movie App 1h 25m    https://www.youtube.com/watch?v=9OKbmMqsREc&list=PLEhEHUEU3x5pYTjZze3fhYMB4Nl_WOHI4
+- a lot of great videos from Laraveller collection    https://www.youtube.com/c/Laraveller/videos
 
 =====================================
 
@@ -65,7 +63,6 @@
     Оформить в виде CLI-скрипта
     Настройками реализовать возможность парсить не все подряд, а только то, что нужно пользователю
 
-
 Проверка:
 
     корректность CLI-окружения
@@ -76,7 +73,6 @@
     Работа в консольном и интерактивном режиме
     *работа в режиме внешнего сервиса, доступного по HTTP, с поддержкой очередей
 
-
 #### Задание 4. подсчитать количество хитов
 
       Задача: у меня есть banner.php, пусть он выводит статичное изображение, какой-то банер. Мы включаем его на страницу
@@ -86,7 +82,6 @@
       
       Определение количества уникальных посещений действительно лучше сделать с помощью сессий или кукисов.
       А хранить лучше всего это в NoSQL базе данных.
-
 
 #### Задание 5. Разное
 

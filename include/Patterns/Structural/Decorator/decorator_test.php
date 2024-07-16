@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'decorator.php';
 
-class DecoratorTest extends \PHPUnit_Framework_TestCase
+class DecoratorTest extends PHPUnit_Framework_TestCase
 {
     public function testDecorator()
     {

@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'bridge.php';
 
-class BridgeTest extends \PHPUnit_Framework_TestCase
+class BridgeTest extends PHPUnit_Framework_TestCase
 {
     public function testBridge()
     {

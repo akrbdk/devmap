@@ -4,16 +4,24 @@
  */
 
 namespace Pattern;
- 
+
 /*
  * Класс Singleton
  */
+
 class Singleton
 {
     /**
      * @var Singleton
      */
     public static $instance;
+
+    /**
+     * Блокируем создание экземпляра напрямую
+     */
+    private function __construct()
+    {
+    }
 
     /**
      * Получить экзепляр класса
@@ -30,12 +38,9 @@ class Singleton
     }
 
     /**
-     * Блокируем создание экземпляра напрямую
-     */
-    private function __construct() {}
-
-    /**
      * Блокируем клонирование созданого экземпляра
      */
-    private function __clone() {}
+    private function __clone()
+    {
+    }
 }

@@ -64,7 +64,6 @@ class FrenchQuotes extends AbstractQuotes
 }
 
 
-
 /**
  * GermanQuotes, рeализует обрамление строки Немецкими кавычками (Лапками)
  */

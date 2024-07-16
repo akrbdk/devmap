@@ -9,7 +9,6 @@
 
 - [Жадные и ленивые квантификаторы](https://learn.javascript.ru/regexp-greedy-and-lazy)
 
-
 ### Регулярные выражения [&uarr;](#Other-tasks)
 
 ![](images/php-regexp-1.v3.png)

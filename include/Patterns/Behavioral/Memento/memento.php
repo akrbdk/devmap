@@ -8,19 +8,19 @@ namespace Pattern;
 /**
  * Originator, реализует хозяина состояния
  */
-class Originator 
+class Originator
 {
-	/**
+    /**
      * @var string
      */
     public $state;
-    
+
     /**
      * Создает хранилище состояния
      *
      * @return Memento
      */
-    public function createMemento() 
+    public function createMemento()
     {
         return new Memento($this->state);
     }
@@ -30,7 +30,7 @@ class Originator
      *
      * @param Memento $memento
      */
-    public function SetMemento(Memento $memento) 
+    public function SetMemento(Memento $memento)
     {
         $this->state = $memento->getState();
     }
@@ -39,13 +39,13 @@ class Originator
 /**
  * Memento, реализует хранилище для состояния Originator
  */
-class Memento 
+class Memento
 {
-	/**
+    /**
      * @var string
      */
     protected $state;
-    
+
     /**
      * Установить посредника
      *
@@ -55,27 +55,26 @@ class Memento
     {
         $this->state = $state;
     }
-    
+
     /**
      * Получить состояние
      *
      * @return string
      */
-    public function getState() 
+    public function getState()
     {
         return $this->state;
     }
 }
 
 
-
 /**
  * Caretaker, получает и хранит объект-хранитель (Memento),
  * пока он не понадобится хозяину.
  */
-class Caretaker 
+class Caretaker
 {
-	/**
+    /**
      * var Memento
      */
     public $memento;

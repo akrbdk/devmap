@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'composite.php';
 
-class CompositeTest extends \PHPUnit_Framework_TestCase
+class CompositeTest extends PHPUnit_Framework_TestCase
 {
     public function testComposite()
     {

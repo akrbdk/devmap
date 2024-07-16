@@ -2,19 +2,21 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'state.php';
 
-class StateTest extends \PHPUnit_Framework_TestCase
+class StateTest extends PHPUnit_Framework_TestCase
 {
     public function testState()
     {
         $expect = "Vrrr... Brrr... Vrrr..." .
-                  "Vrrr... Brrr... Vrrr..." .
-                  "Белые розы, Белые розы. Беззащитны шипы...";
+            "Vrrr... Brrr... Vrrr..." .
+            "Белые розы, Белые розы. Беззащитны шипы...";
 
         $modile = new ModileAlert(new MobileAlertVibration());
 
-        $result  = $modile->alert();
+        $result = $modile->alert();
         $result .= $modile->alert();
 
         $modile->setState(new MobileAlertSong());

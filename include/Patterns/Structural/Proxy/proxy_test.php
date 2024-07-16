@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'proxy.php';
 
-class ProxyTest extends \PHPUnit_Framework_TestCase
+class ProxyTest extends PHPUnit_Framework_TestCase
 {
     public function testProxy()
     {

@@ -2,9 +2,11 @@
 
 namespace Pattern;
 
+use PHPUnit_Framework_TestCase;
+
 require 'flyweight.php';
 
-class FlyweightTest extends \PHPUnit_Framework_TestCase
+class FlyweightTest extends PHPUnit_Framework_TestCase
 {
     public function testFlyweight()
     {
