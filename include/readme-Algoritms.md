@@ -64,59 +64,136 @@
 
 При частично отсортированном массиве результаты не сильно отличаются, все алгоритмы сортировки показывают время примерно на 2-3 миллисекунды меньше. Однако при сортировке частично отсортированного массива `быстрая сортировка` срабатывает намного быстрее и потребляет меньшее количество памяти.
 
-### Пример пузырьковой сортировки
+Эти примеры показывают основные методы сортировки в PHP, от простых, таких как пузырьковая сортировка, до более эффективных, таких как быстрая сортировка и сортировка слиянием.
 
+### 1. Сортировка пузырьком (Bubble Sort)
 ```php
-<?php
-
-function bubbleSort($coll)
-{
-    $size = count($coll);
-    // do..while цикл. Работает почти идентично while
-    // Разница в проверке. Тут она делается не до выполнения тела, а после.
-    // Такой цикл полезен там, где надо выполнить тело хотя бы раз в любом случае.
-    do {
-        // Объявляем переменную swapped, значение которой показывает был ли
-        // совершен обмен элементов во время перебора массива
-        $swapped = false;
-        // Перебираем массив и меняем местами элементы, если предыдущий
-        // больше, чем следующий
-        for ($i = 0; $size - 1; $i++) {
-            if ($coll[$i] > $coll[$i + 1]) {
-                // temp – временная переменная для хранения текущего элемента
-                $temp = $coll[$i];
-                $coll[$i] = $coll[$i + 1];
-                $coll[$i + 1] = $temp;
-                // Если сработал if и была совершена перестановка,
-                // присваиваем swapped значение true
-                $swapped = true;
+function bubbleSort($array) {
+    $n = count($array);
+    for ($i = 0; $i < $n - 1; $i++) {
+        for ($j = 0; $j < $n - $i - 1; $j++) {
+            if ($array[$j] > $array[$j + 1]) {
+                // Меняем местами элементы
+                $temp = $array[$j];
+                $array[$j] = $array[$j + 1];
+                $array[$j + 1] = $temp;
             }
         }
-        // Уменьшаем счетчик на 1, т.к. самый большой элемент уже находится
-        // в конце массива
-        $size--;
-    } while ($swapped); // продолжаем, пока swapped === true
-
-    return $coll;
+    }
+    return $array;
 }
 
-print_r(bubbleSort([3, 2, 10, -2, 0]));
-// => Array
-// => (
-// =>     [0] => -2
-// =>     [1] => 0
-// =>     [2] => 2
-// =>     [3] => 3
-// =>     [4] => 10
-// => )
-?>
+$array = [64, 34, 25, 12, 22, 11, 90];
+print_r(bubbleSort($array));
+```
+
+### 2. Сортировка выбором (Selection Sort)
+```php
+function selectionSort($array) {
+    $n = count($array);
+    for ($i = 0; $i < $n - 1; $i++) {
+        $minIndex = $i;
+        for ($j = $i + 1; $j < $n; $j++) {
+            if ($array[$j] < $array[$minIndex]) {
+                $minIndex = $j;
+            }
+        }
+        // Меняем местами
+        $temp = $array[$minIndex];
+        $array[$minIndex] = $array[$i];
+        $array[$i] = $temp;
+    }
+    return $array;
+}
+
+$array = [64, 25, 12, 22, 11];
+print_r(selectionSort($array));
+```
+
+### 3. Сортировка вставками (Insertion Sort)
+```php
+function insertionSort($array) {
+    $n = count($array);
+    for ($i = 1; $i < $n; $i++) {
+        $key = $array[$i];
+        $j = $i - 1;
+
+        while ($j >= 0 && $array[$j] > $key) {
+            $array[$j + 1] = $array[$j];
+            $j--;
+        }
+        $array[$j + 1] = $key;
+    }
+    return $array;
+}
+
+$array = [12, 11, 13, 5, 6];
+print_r(insertionSort($array));
+```
+
+### 4. Быстрая сортировка (Quick Sort)
+```php
+function quickSort($array) {
+    if (count($array) < 2) {
+        return $array;
+    }
+    $left = $right = [];
+    $pivot = $array[0];
+    for ($i = 1; $i < count($array); $i++) {
+        if ($array[$i] < $pivot) {
+            $left[] = $array[$i];
+        } else {
+            $right[] = $array[$i];
+        }
+    }
+    return array_merge(quickSort($left), [$pivot], quickSort($right));
+}
+
+$array = [10, 7, 8, 9, 1, 5];
+print_r(quickSort($array));
+```
+
+### 5. Сортировка слиянием (Merge Sort)
+```php
+function mergeSort($array) {
+    if (count($array) <= 1) {
+        return $array;
+    }
+
+    $middle = count($array) / 2;
+    $left = array_slice($array, 0, $middle);
+    $right = array_slice($array, $middle);
+
+    $left = mergeSort($left);
+    $right = mergeSort($right);
+
+    return merge($left, $right);
+}
+
+function merge($left, $right) {
+    $result = [];
+    $i = $j = 0;
+
+    while ($i < count($left) && $j < count($right)) {
+        if ($left[$i] < $right[$j]) {
+            $result[] = $left[$i];
+            $i++;
+        } else {
+            $result[] = $right[$j];
+            $j++;
+        }
+    }
+
+    return array_merge($result, array_slice($left, $i), array_slice($right, $j));
+}
+
+$array = [12, 11, 13, 5, 6, 7];
+print_r(mergeSort($array));
 ```
 
 ## Структуры данных [&uarr;](#ALGORITHMS)
 
-Структуры данных — программная единица, позволяющая хранить и обрабатывать множество однотипных и/или логически связанных данных в вычислительной технике. Данные можно представить по-разному. В зависимости от того, что это за данные и что вы собираетесь с ними делать, одно представление подойд
-
-ёт лучше других.
+Структуры данных — программная единица, позволяющая хранить и обрабатывать множество однотипных и/или логически связанных данных в вычислительной технике. Данные можно представить по-разному. В зависимости от того, что это за данные и что вы собираетесь с ними делать, одно представление подойдёт лучше других.
 
 Рекомендуется ознакомиться с алгоритмами хотя бы на базовом уровне. Так как структуры данных реализованы с помощью алгоритмов, алгоритмы - с помощью структур данных.
 
