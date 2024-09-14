@@ -99,6 +99,271 @@ SOLID - это принципы разработки программного о
   модулей нижнего уровня. И те, и другие должны зависеть от абстракции. Абстракции не должны зависеть от деталей. Детали
   должны зависеть от абстракций.
 
+---
+
+### 1. **Single Responsibility Principle (SRP)**
+**Definition**: A class should have only one reason to change. This means a class should only have one job or responsibility.
+
+#### Example:
+```php
+<?php
+// Bad Example: This class has more than one responsibility (User management and email sending)
+class User {
+    public function createUser($name) {
+        // Create user logic
+    }
+
+    public function sendEmail($email, $message) {
+        // Email sending logic
+    }
+}
+?>
+
+// Good Example: Separate the responsibilities
+<?php
+class User {
+    public function createUser($name) {
+        // Create user logic
+    }
+}
+
+class EmailService {
+    public function sendEmail($email, $message) {
+        // Email sending logic
+    }
+}
+?>
+```
+In the good example, `User` is responsible only for creating a user, and `EmailService` is responsible for sending an email. If the email logic changes, we only need to modify `EmailService`.
+
+---
+
+### 2. **Open/Closed Principle (OCP)**
+**Definition**: A class should be open for extension but closed for modification. This means you should be able to add new functionality without changing the existing code.
+
+#### Example:
+```php
+<?php
+// Bad Example: This class must be modified to add a new payment method
+class Payment {
+    public function pay($paymentType) {
+        if ($paymentType === 'CreditCard') {
+            // Credit card payment logic
+        } elseif ($paymentType === 'PayPal') {
+            // PayPal payment logic
+        }
+    }
+}
+?>
+
+// Good Example: Use polymorphism to extend without modifying
+<?php
+interface PaymentMethod {
+    public function pay();
+}
+
+class CreditCardPayment implements PaymentMethod {
+    public function pay() {
+        // Credit card payment logic
+    }
+}
+
+class PayPalPayment implements PaymentMethod {
+    public function pay() {
+        // PayPal payment logic
+    }
+}
+
+class Payment {
+    public function processPayment(PaymentMethod $paymentMethod) {
+        $paymentMethod->pay();
+    }
+}
+?>
+```
+In the good example, we can add new payment methods (like `BankTransferPayment`) without changing the `Payment` class, making it extensible but not modifiable.
+
+---
+
+### 3. **Liskov Substitution Principle (LSP)**
+**Definition**: Subtypes should be substitutable for their base types. This means that derived classes must be usable through the base class interface without altering the correctness of the program.
+
+#### Example:
+```php
+<?php
+// Bad Example: A subclass changes behavior in a way that violates the base class contract
+class Bird {
+    public function fly() {
+        return "Flying";
+    }
+}
+
+class Penguin extends Bird {
+    public function fly() {
+        throw new Exception("Penguins can't fly");
+    }
+}
+?>
+
+// Good Example: Avoid violating the base class contract
+<?php
+class Bird {
+    public function move() {
+        return "Moving";
+    }
+}
+
+class Sparrow extends Bird {
+    public function move() {
+        return "Flying";
+    }
+}
+
+class Penguin extends Bird {
+    public function move() {
+        return "Swimming";
+    }
+}
+?>
+```
+In the good example, the `move()` method is more generic, so both `Sparrow` and `Penguin` subclasses can have different behaviors without violating the base class's behavior.
+
+---
+
+### 4. **Interface Segregation Principle (ISP)**
+**Definition**: A class should not be forced to implement interfaces it does not use. This means that interfaces should be small and specific to the client.
+
+#### Example:
+```php
+<?php
+// Bad Example: A large interface that forces classes to implement methods they don't need
+interface Worker {
+    public function work();
+    public function eat();
+}
+
+class HumanWorker implements Worker {
+    public function work() {
+        return "Human working";
+    }
+
+    public function eat() {
+        return "Human eating";
+    }
+}
+
+class RobotWorker implements Worker {
+    public function work() {
+        return "Robot working";
+    }
+
+    public function eat() {
+        // Robots don't eat, but must implement this method
+    }
+}
+?>
+
+// Good Example: Split the interface into smaller ones
+<?php
+interface Workable {
+    public function work();
+}
+
+interface Eatable {
+    public function eat();
+}
+
+class HumanWorker implements Workable, Eatable {
+    public function work() {
+        return "Human working";
+    }
+
+    public function eat() {
+        return "Human eating";
+    }
+}
+
+class RobotWorker implements Workable {
+    public function work() {
+        return "Robot working";
+    }
+}
+?>
+```
+In the good example, the `Workable` and `Eatable` interfaces are separated, so the `RobotWorker` class is not forced to implement methods it doesn’t need.
+
+---
+
+### 5. **Dependency Inversion Principle (DIP)**
+**Definition**: High-level modules should not depend on low-level modules. Both should depend on abstractions. Abstractions should not depend on details; details should depend on abstractions.
+
+#### Example:
+```php
+<?php
+// Bad Example: High-level class depends on low-level class
+class LightBulb {
+    public function turnOn() {
+        // Turn the light bulb on
+    }
+}
+
+class Switch {
+    private $lightBulb;
+
+    public function __construct(LightBulb $lightBulb) {
+        $this->lightBulb = $lightBulb;
+    }
+
+    public function operate() {
+        $this->lightBulb->turnOn();
+    }
+}
+?>
+
+// Good Example: High-level class depends on an abstraction (interface)
+<?php
+interface Switchable {
+    public function turnOn();
+}
+
+class LightBulb implements Switchable {
+    public function turnOn() {
+        // Turn the light bulb on
+    }
+}
+
+class Fan implements Switchable {
+    public function turnOn() {
+        // Turn the fan on
+    }
+}
+
+class Switch {
+    private $device;
+
+    public function __construct(Switchable $device) {
+        $this->device = $device;
+    }
+
+    public function operate() {
+        $this->device->turnOn();
+    }
+}
+?>
+```
+In the good example, the `Switch` class depends on the `Switchable` interface (abstraction) rather than the concrete class `LightBulb`. Now `Switch` can work with any `Switchable` device, such as a `Fan`, without modification.
+
+---
+
+### Summary of SOLID Principles:
+1. **S**ingle Responsibility: A class should have one job.
+2. **O**pen/Closed: Extend a class’s behavior without modifying it.
+3. **L**iskov Substitution: Subtypes must be substitutable for their base types.
+4. **I**nterface Segregation: Don’t force a class to implement interfaces it doesn’t use.
+5. **D**ependency Inversion: Depend on abstractions, not concrete classes.
+
+These principles help in designing code that is maintainable, scalable, and flexible to changes.
+
 #### Avoid Premature Optimization Избегайте преждевременной оптимизации
 
 Эта практика побуждает разработчиков оптимизировать код до того, как необходимость этой оптимизации будет доказана.
