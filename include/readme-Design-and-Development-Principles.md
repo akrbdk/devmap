@@ -81,7 +81,7 @@
 планирования. Чем с меньшим количеством ошибок столкнется пользователь, тем лучше будет его опыт. У вас может не быть
 другого шанса справиться с этими ошибками.
 
-#### SOLID
+### SOLID
 
 SOLID - это принципы разработки программного обеспечения, следуя которым Вы получите хороший код, который в дальнейшем
 будет хорошо масштабироваться и поддерживаться в рабочем состоянии.
@@ -101,7 +101,7 @@ SOLID - это принципы разработки программного о
 
 ---
 
-### 1. **Single Responsibility Principle (SRP)**
+#### 1. **Single Responsibility Principle (SRP)**
 **Definition**: A class should have only one reason to change. This means a class should only have one job or responsibility.
 
 #### Example:
@@ -138,7 +138,7 @@ In the good example, `User` is responsible only for creating a user, and `EmailS
 
 ---
 
-### 2. **Open/Closed Principle (OCP)**
+#### 2. **Open/Closed Principle (OCP)**
 **Definition**: A class should be open for extension but closed for modification. This means you should be able to add new functionality without changing the existing code.
 
 #### Example:
@@ -185,7 +185,7 @@ In the good example, we can add new payment methods (like `BankTransferPayment`)
 
 ---
 
-### 3. **Liskov Substitution Principle (LSP)**
+#### 3. **Liskov Substitution Principle (LSP)**
 **Definition**: Subtypes should be substitutable for their base types. This means that derived classes must be usable through the base class interface without altering the correctness of the program.
 
 #### Example:
@@ -230,7 +230,7 @@ In the good example, the `move()` method is more generic, so both `Sparrow` and 
 
 ---
 
-### 4. **Interface Segregation Principle (ISP)**
+#### 4. **Interface Segregation Principle (ISP)**
 **Definition**: A class should not be forced to implement interfaces it does not use. This means that interfaces should be small and specific to the client.
 
 #### Example:
@@ -294,7 +294,7 @@ In the good example, the `Workable` and `Eatable` interfaces are separated, so t
 
 ---
 
-### 5. **Dependency Inversion Principle (DIP)**
+#### 5. **Dependency Inversion Principle (DIP)**
 **Definition**: High-level modules should not depend on low-level modules. Both should depend on abstractions. Abstractions should not depend on details; details should depend on abstractions.
 
 #### Example:
@@ -355,7 +355,7 @@ In the good example, the `Switch` class depends on the `Switchable` interface (a
 
 ---
 
-### Summary of SOLID Principles:
+#### Summary of SOLID Principles:
 1. **S**ingle Responsibility: A class should have one job.
 2. **O**pen/Closed: Extend a class’s behavior without modifying it.
 3. **L**iskov Substitution: Subtypes must be substitutable for their base types.
@@ -363,6 +363,8 @@ In the good example, the `Switch` class depends on the `Switchable` interface (a
 5. **D**ependency Inversion: Depend on abstractions, not concrete classes.
 
 These principles help in designing code that is maintainable, scalable, and flexible to changes.
+
+---
 
 #### Avoid Premature Optimization Избегайте преждевременной оптимизации
 
