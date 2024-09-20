@@ -1,6 +1,6 @@
 ## Just a few tips:
 
-==================================================================================================
+---
 
 Используйте `bullet point approach`, когда готовитесь к собеседованию. Вместо того, чтобы записывать и заучивать целые
 предложения,
@@ -8,16 +8,13 @@
 звучать
 легко и естественно.
 
-==================================================================================================
+---
 
 Не избегайте `small talk`. Покажите, что вы умеете поддерживать непринужденный разговор на различные темы. Будьте готовы
-поговорить
-о том, чем вы занимаетесь помимо работы, ваших любимых книгах, хобби и т. д. Будьте приветливы и на вопрос „How are
-you?”
-отвечайте: „I’m great/very well/doing good. What about yourself?”, а не „Normal” (что, по сути, неправильно) или „Not
-bad.”
+поговорить о том, чем вы занимаетесь помимо работы, ваших любимых книгах, хобби и т. д. Будьте приветливы и на вопрос „How are you?”
+отвечайте: „I’m great/very well/doing good. What about yourself?”, а не „Normal” (что, по сути, неправильно) или „Not bad.”
 
-==================================================================================================
+---
 
 Вас могут попросить рассказать о каких-либо трудностях, с которыми вам пришлось столкнуться. В случаях, когда нужно
 рассказать такую историю из личного опыта, можно применять „STAR technique”. STAR значит:
@@ -27,69 +24,57 @@ bad.”
 - `Action` — что вы сделали, чтобы выполнить эту задачу и решить проблему.
 - `Result` — каков был конечный результат.
 
-==================================================================================================
+---
 
 Поблагодарите интервьюера, отправив `follow-up` имейл после собеседования. Это поможет вам выделиться из толпы
-кандидатов и заодно
-покажет, что вы знакомы с англоязычной культурой общения.
+кандидатов и заодно покажет, что вы знакомы с англоязычной культурой общения.
 
-==================================================================================================
+---
 
 главный показатель вашего уровня на собеседовании — это, во-первых, то, что `вы говорите, а не из вас вытягивают слова`.
-Во-вторых,
-связная речь без запинок, заикания и пауз. Следите за темпом речи. Лучше говорить более медленно, но размеренно, чем
-быстро и
-сбивчиво.
+Во-вторых, связная речь без запинок, заикания и пауз. Следите за темпом речи. Лучше говорить более медленно, но размеренно, чем быстро и сбивчиво.
 
-==================================================================================================
+---
 
 `Старайтесь давать развернутые ответы`, ведь если вы отвечаете на все вопросы односложно, ваш уровень никак не смогут
-оценить.
-Никто не поймет, upper вы или inter, если каждый ваш ответ — это одно слово.
+оценить. Никто не поймет, upper вы или inter, если каждый ваш ответ — это одно слово.
 
-==================================================================================================
+---
 
 Практикуйте `active listening` — слушайте собеседника и реагируйте на его комментарии. Таким образом вы покажете не
-только
-заинтересованность в беседе, но и то, что вы в курсе, как общаются носители языка. То есть никто никогда не припишет вам
+только заинтересованность в беседе, но и то, что вы в курсе, как общаются носители языка. То есть никто никогда не припишет вам
 Pre-Intermediate, даже если вы сказали will после if :)
 
-==================================================================================================
+---
 
 „Повысить” свой уровень в ускоренном режиме и без особых усилий можно с помощью некоторых общих фраз, которые часто
 используют носители языка (но мы часто игнорируем). Например:
 
 ![](images/image1_6CuSF8k.png)
 
-разнообразить свой словарный запас и создать впечатление беглого английского помогают слова, заменяющие выражения с
-„very”:
+---
 
-==================================================================================================
+Кроме этого, разнообразить свой словарный запас и создать впечатление беглого английского помогают слова, заменяющие выражения с „very”:
 
-Кроме этого, разнообразить свой словарный запас и создать впечатление беглого английского помогают слова, заменяющие
-выражения
-с „very”:
-
-- Very good = amazing, awesome, fantastic, top-notch
-- Very bad = awful, terrible, lame (informal)
-- Very interesting = fascinating
-- Very boring = dull
-- Like very much = love
-- Very big = huge
-- Very small = tiny
-- Very important = crucial, critical, key
+	- Very good = amazing, awesome, fantastic, top-notch
+	- Very bad = awful, terrible, lame (informal)
+	- Very interesting = fascinating
+	- Very boring = dull
+	- Like very much = love
+	- Very big = huge
+	- Very small = tiny
+	- Very important = crucial, critical, key
 
 И еще помогают так называемые „filler words”, то есть слова, которые ничего, по большому счету, не значат, но делают
-речь более
-плавной и выигрывают вам дополнительное время подумать над вопросом. Например:
+речь более плавной и выигрывают вам дополнительное время подумать над вопросом. Например:
 
-- I would say that...
-- Let me see...
-- You know...
-- I mean...
-- It’s hard to remember off the top of my head...
+	- I would say that...
+	- Let me see...
+	- You know...
+	- I mean...
+	- It’s hard to remember off the top of my head...
 
-==================================================================================================
+---
 
 В плане грамматики лучше сконцентрироваться на основах и не забивать голову новыми правилами за день до собеседования.
 Из основ вам больше всего понадобятся:
@@ -102,31 +87,26 @@ Pre-Intermediate, даже если вы сказали will после if :)
   abroad”.
 - Также такие темы, как `Gerunds` and `Infinitives`, `First` and `Second Conditionals` и `Prepositions`.
 
-==================================================================================================
+---
 
 `Secret grammar tip`: практически всегда вас спросят: „How long have you been working as ...?” И тут многие проваливают
-тест на
-английский, потому что отвечают не в том времени: „I work/I’m working as a developer for 5 year”. This is wrong! В
-английском все
-просто: `в каком времени вопрос, в таком времени ответ` (зачастую). Плюс у вас есть маркер времени for, поэтому если вы
-не
-используете время Present Perfect Continuous, как было в вопросе, ваш уровень для собеседника едва дотянет до weak
-Intermediate.
+тест на английский, потому что отвечают не в том времени: „I work/I’m working as a developer for 5 year”. This is wrong! В
+английском все просто: `в каком времени вопрос, в таком времени ответ` (зачастую). Плюс у вас есть маркер времени for, поэтому если вы
+не используете время Present Perfect Continuous, как было в вопросе, ваш уровень для собеседника едва дотянет до weak Intermediate.
 
-==================================================================================================
+---
 
 Произношению нужно также определить особое внимание. Проверьте свое произношение самых часто используемых вами слов (
 например, в Google dictionary). Можно начать с этого списка:
 
 ![](images/image2_UE44ucJ.png)
 
-==================================================================================================
+---
 
 `Practice makes perfect!` Всегда репетируйте перед собеседованием. Да, как в фильмах американцы стоят в ванной перед
-зеркалом и повторяют свою речь. Но не заучивайте ничего,
-вы должны говорить максимально непринужденно и естественно.
+зеркалом и повторяют свою речь. Но не заучивайте ничего, вы должны говорить максимально непринужденно и естественно.
 
-==================================================================================================
+---
 
 ### Структура собеседования
 
@@ -136,6 +116,7 @@ Intermediate.
 - Human touch — лёгкая непринуждённость и живое участие в диалоге помогут разбавить сухие технические детали;
 - Closure: signalizing the end of the self-pitch by inviting questions from the interviewer — завершение и «передача микрофона» поможет проявить внимание и уважение к собеседнику, предоставит ему возможность занять активную позицию в беседе.
 
+---
 
 ### ЭТАПЫ ИНТЕРВЬЮ
 
@@ -143,6 +124,7 @@ Intermediate.
 - ТЕХНИЧЕСКОЕ ИНТЕРВЬЮ
 - ИНТЕРВЬЮ С OWNER
 
+---
 
 ### Читаем вакансию и отбираем релевантные навыки
 - В первую очередь изучите вакансию и выделите опорные точки для вашей будущей речи.
@@ -156,6 +138,7 @@ Intermediate.
 - проактивность, навыки решения проблем и ведения дискуссий (“Participate in the improvement of development processes”). 
 - бережная и уважительная коммуникация и прозрачность в межкомандном взаимодействии (“...in an Agile environment”).
 
+---
 
 ### Правильно рассказываем о слабых сторонах
 
@@ -171,25 +154,32 @@ Intermediate.
 
 Ещё убедительнее — добавить информацию о том, что вы владеете другой родственной технологией (языком, фреймворком), которая может вам пригодиться в освоении требуемого навыка.
 
-    I wish I had more experience and expertise related to Kubernetes. However, I have experience working with cloud native tools and I’m pretty good at using Go. 
-    Kubernetes is written in it, so I believe I can make it out quite efficiently. My knowledge and hands-on experience with SpringBoot will be helpful as well.
+    I wish I had more experience and expertise related to Kubernetes. However, 
+    I have experience working with cloud native tools and I’m pretty good at using Go. 
+    
+    Kubernetes is written in it, so I believe I can make it out quite efficiently.
+    My knowledge and hands-on experience with SpringBoot will be helpful as well.
 
-Получается длинновато, но в английском всегда так: чем вежливее надо звучать или чем щекотливее предмет разговора, тем длиннее и витиеватее становятся фразы. 
+Получается длинновато, но в английском всегда так: чем вежливее надо звучать или чем щекотливее предмет разговора, тем длиннее и витиеватее становятся фразы.
+
 В английском языке и международном сообществе не жалуют прямолинейность — обычно предпочитают смягчать и «притушать» резкие высказывания дополнительными оборотами.
 
 Если трюк с родственными технологиями невозможен, попробуйте компенсировать отсутствие того или иного навыка высокой обучаемостью.
 
-    I wish I had more experience and expertise related to Docker, and I’m ready to invest time and effort in grasping it as quickly as possible. In my previous project, I had to apply frameworks that were absolutely new to me, and I was able to learn on the fly. 
-    Мне бы хотелось иметь больше опыта и экспертных знаний, связанных с Docker, и я готов потратить время и постараться освоить его как можно быстрее. В предыдущем проекте мне пришлось применять абсолютно незнакомые фреймворки, и я освоил их на ходу.
+    I wish I had more experience and expertise related to Docker, and I’m ready to invest time 
+    and effort in grasping it as quickly as possible. In my previous project, I had to apply frameworks 
+    that were absolutely new to me, and I was able to learn on the fly. 
 
 Таким образом вы всегда компенсируете недостающие навыки позитивным фактом: знанием родственных технологий или готовностью быстро осваивать новое.
 
+---
+
 ### «I don’t know»?
 
-    - I’ve never done it, but I’m a quick learner.
-    - Here’s what I know… and here’s what I don’t know…
-    - I haven’t dealt with a situation like that before, but I would start by asking these questions…
-    - I see this job as an opportunity to learn more about this topic.
+- I’ve never done it, but I’m a quick learner.
+- Here’s what I know… and here’s what I don’t know…
+- I haven’t dealt with a situation like that before, but I would start by asking these questions…
+- I see this job as an opportunity to learn more about this topic.
 
 
 ### Добавляем человечности и непринуждённости
@@ -200,39 +190,47 @@ Intermediate.
 
     I’m a massive fan of coffee and I never miss a chance to discuss the latest robotics trends over a cup of espresso.
 
-
-
 ### Используйте слова вроде please (пожалуйста), could you (не могли бы вы) и thank you (спасибо). 
 
 ### Слова и фразы вроде you know (знаете) и well (ну) заполняют паузы в речи и дают пару секунд, чтобы подумать над ответом или построить фразу.
 
+---
 
 ## НАПРИМЕР:
 
 Intro
 
-	Hello! My name is Alex. Let me tell you a couple of words about myself. I’ve been a PHP developer for seven years. I’m going to walk you through those of my skills that I feel could make me a good fit for the position.
+	Hello! My name is Alex. Let me tell you a couple of words about myself. 
+ 	I’ve been a PHP developer for seven years. I’m going to walk you through those of
+  	my skills that I feel could make me a good fit for the position.
 
 Main part
 
-	I’ve got experience developing and maintaining PHP services. One of my main responsibilities in the previous job was developing RESTful web services and integrating apps with them. 
+	I’ve got experience developing and maintaining PHP services. One of my main responsibilities
+ 	in the previous job was developing RESTful web services and integrating apps with them. 
 
-	My team and I often had to look for non-standard solutions and select optimal tools for task implementation (for example, considering advantages and drawbacks of Kafka and RabbitMQ) with many factors of perspective usage being considered.
+	My team and I often had to look for non-standard solutions and select optimal tools for task 
+ 	implementation (for example, considering advantages and drawbacks of Kafka and RabbitMQ) with 
+  	many factors of perspective usage being considered.
 
-	I also performed unit testing and conducted code review. I believe code review provides vast opportunities for building rapport with your peers, improving the code and thus, delivering quality product.
+	I also performed unit testing and conducted code review. I believe code review provides vast opportunities 
+ 	for building rapport with your peers, improving the code and thus, delivering quality product.
 
-	My experience of cooperating with all the team including front-enders, devops, designers and business analysts during stand-ups, sprint planning and retrospective meetings help me remember how important it is to always keep a bigger picture in mind for the product's success. 
+	My experience of cooperating with all the team including front-enders, devops, designers and business
+ 	analysts during stand-ups, sprint planning and retrospective meetings help me remember how important it is 
+  	to always keep a bigger picture in mind for the product's success. 
 
 Human touch
 
-	I’m quite a people person and a good team player, so I always choose to spend time with a big company of friends in my downtime. I also vote for team sports such as football and beach volleyball. If I feel down, a good mug of coffee always makes me feel better and full of beans. 
+	I’m quite a people person and a good team player, so I always choose to spend time with a big company of friends
+ 	in my downtime. I also vote for team sports such as football and beach volleyball. If I feel down, a good mug 
+  	of coffee always makes me feel better and full of beans. 
 
 
 Closure: signalizing the end of the self-pitch by inviting questions from the interviewer
 
-	That’s what I was going to share with you to start off. I’m ready to answer your questions if you have any. Would you like me to elaborate on anything in particular?
-
-
+	That’s what I was going to share with you to start off. I’m ready to answer your questions if you have any. 
+ 	Would you like me to elaborate on anything in particular?
 
 What are your strengths?
 
@@ -241,8 +239,9 @@ What are your strengths?
 
 Why did you leave your previous job?
 
-	At some moment, I realized I had to make a choice: to stay with the same company and continue applying my expertise for solving a scope of familiar tasks or to try something new. I believe that I could learn a lot working here as well as bring value to the company with my expertise.
-
+	At some moment, I realized I had to make a choice: to stay with the same company and continue applying 
+ 	my expertise for solving a scope of familiar tasks or to try something new. I believe that I could 
+  	learn a lot working here as well as bring value to the company with my expertise.
 
 ## после окончания интервью необходимо задать два самых важных вопроса:
 
@@ -254,9 +253,11 @@ Why did you leave your previous job?
 
 ## Behavioral part (поведенческое интервью):
 
-1) Нагуглить ценности компании (values)  - это по сути как мини конституция компании. На каждую ценность написать небольшой рассказик - что для тебя значит эта ценность. Это поможет произвести вау эффект.
-2) Проанализировать продукт компании и на интервью задать вопросы по этому продукту.
+1) Нагуглить ценности компании (values)  - это по сути как мини конституция компании.
+2) На каждую ценность написать небольшой рассказик - что для тебя значит эта ценность. Это поможет произвести вау эффект.
+3) Проанализировать продукт компании и на интервью задать вопросы по этому продукту.
 
+---
 
 # SMALL TALK
 
@@ -304,14 +305,11 @@ Why did you leave your previous job?
     Sorry, I have to be in a meeting in 3 min
 
 
-
 To start
 
 	- Well, let’s get started if you don’t mind. Actually, I wanted to …
 	- I appreciate your insights. By the way, are you going to attend the next presentation? 
 	- It’s about to start.
-
-
 
 Weather:
 
@@ -322,11 +320,13 @@ Weather:
 
 Compliments:
 
-	I’m really impressed by the place: very spacious, lots of air! And I’ve noticed a lot of meeting rooms along the way! Cool!
+	I’m really impressed by the place: very spacious, lots of air! And I’ve noticed a lot of
+ 	meeting rooms along the way! Cool!
 
 If you are in stress:
 
-	I’m a bit stressed but excited at the opportunity to talk to you. Overall, I feel I’m ready to walk you through the main highlights of my resume and answer your questions.
+	I’m a bit stressed but excited at the opportunity to talk to you. Overall, I feel 
+ 	I’m ready to walk you through the main highlights of my resume and answer your questions.
 
 Other:
 
@@ -430,6 +430,7 @@ Other:
     Congrats with your promotion!
     Thanks! It will take me some time to adjust to the new role, haha.
 
+---
 
 ### INTERWIEW QUESTIONS
 
@@ -476,6 +477,7 @@ Have at least one answer for each. Have a story, not just data, about something 
 	What is the work life like?
 	How is the work/life balance?
 
+---
 
 ### While searching new contacts
 
@@ -493,8 +495,11 @@ Have at least one answer for each. Have a story, not just data, about something 
 
 	  	Hi [Recruiter name],
 
-		Thank you for your invitation! I just read your article yesterday, and it's super helpful. Thank you so much for sharing your thoughts!! 
-		It would be my pleasure to talk to you, please let me know when you will be available and arrange a call at your convenience.
+		Thank you for your invitation! I just read your article yesterday, and it's super helpful. 
+  		Thank you so much for sharing your thoughts!! 
+    
+		It would be my pleasure to talk to you, please let me know when you will be available and arrange 
+  		a call at your convenience.
 
 		Regards,
 
@@ -515,8 +520,11 @@ Have at least one answer for each. Have a story, not just data, about something 
 
 		Hi [Name],
 
-		I’m a professional in [industry] and wanted to reach out to inquire if you know of any available positions relating to [industry niche]. 
-		I have a strong background in [professional experience] and would love to discuss how my skill set makes me a great fit for positions in [career field]. 
+		I’m a professional in [industry] and wanted to reach out to inquire if you know of any available positions 
+  		relating to [industry niche]. 
+    
+		I have a strong background in [professional experience] and would love to discuss how my skill set 
+  		makes me a great fit for positions in [career field]. 
 
 		Please reach out to schedule a time at your convenience,
 
@@ -526,8 +534,12 @@ Have at least one answer for each. Have a story, not just data, about something 
 
 		Hi [Name],
 
-		I noticed that you’re recruiting for [job position], and wanted to inquire to see if you’d had a chance to review my application. 
-		I believe my background in [professional experience] and expertise in [skills #1 and #2] make me the perfect candidate for this position. 
+		I noticed that you’re recruiting for [job position], and wanted to inquire to see if you’d had a chance 
+  		to review my application. 
+    
+		I believe my background in [professional experience] and expertise in [skills #1 and #2] make me 
+  		the perfect candidate for this position. 
+    
 		I’d love the opportunity to further discuss how I’d make a great addition to [company]. 
 
 		You can reach me at [email address] or [phone number]. I look forward to hearing from you soon.
@@ -536,6 +548,7 @@ Have at least one answer for each. Have a story, not just data, about something 
 
 		[Name]
 
+---
 
 ### 1-10: Greetings and Introductions
 1. **Hi! How are you doing today?**
@@ -657,6 +670,7 @@ Have at least one answer for each. Have a story, not just data, about something 
 99. **Thanks again for your time and have a great rest of your day!**
 100. **It’s been a pleasure talking to you—hope we get the chance to work together!**
 
+---
 
 ## Here are 10 situations simulating conversations between a PHP developer and an HR recruiter during a phone call, along with example dialogues.
 
@@ -751,7 +765,7 @@ Have at least one answer for each. Have a story, not just data, about something 
 
 These situations give a balanced mix of small talk, professional inquiries, and technical discussions commonly found in HR-developer phone conversations.
 
-
+---
 
 ## Here are 15 variations of LinkedIn messages for initiating conversation with an HR professional. They vary in tone and approach depending on your goals (networking, job inquiry, or general connection):
 
@@ -835,7 +849,7 @@ These situations give a balanced mix of small talk, professional inquiries, and 
 These messages are adaptable and can be tailored to the tone you wish to set with the HR professional. Remember to be polite and concise, and personalize each message to increase the chance of a positive response.
 
 
-
+---
 
 ## РАЗНОЕ
 
