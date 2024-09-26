@@ -1054,3 +1054,326 @@ Talk about how well you understand legacy code in record time, or how you’ve s
 
 - DON’T USE real stories.
 - Make something up that’s SIMPLE and REFINED – there was a task where the team lead set a development strategy, code styles, and feature deployment rules, but the manager wanted the task closed quickly. The problem was that they couldn’t agree because both were right. So, I reached out to colleagues – we found a similar task that had been solved before, and we finished the task on time while following all the development rules. In the end, I suggested we create a plan for future situations like this. Meaning, you weren’t part of the conflict but helped solve it! You’re so cool that you never argue with anyone and are tactful in all situations.
+
+## How to email a recruiter
+
+
+	1. Recruiter email to candidate sample
+	2. Thank you email to a recruiter sample
+	3. Reply email to a recruiter sample
+	4. Email to recruitment agency sample
+	5. Sample email to send resume to recruiter
+	6. Sample email to a recruiter for job opportunities
+	7. Sample email to a recruiter for job interest
+	8. Cold email to recruiter sample
+	9. Sample email to recruiter after applying
+	10. Ask a recruiter how to prepare for an interview email sample
+	11. Thank you email to a recruiter after an interview
+	12. Sample email to a recruiter asking for an update
+	13. Sample thank you email to recruiter after getting the job
+	14. Sample email to recruiter after rejection
+
+### 1. Recruiter email to candidate sample
+
+We'll start with an example of an email from a recruiter to a candidate introducing a new opportunity. Given this is what recruiters do every day, having a sample somewhere can save huge amounts of time and effort in creating emails.
+
+We provide an introduction and details of the job opportunity. Then, we list the qualifications needed, ask whether they're interested, and request contact details. Simple!
+
+		Hi (Recipient's name),
+
+		I'm currently recruiting for a new (job title) role and am contacting you to see if you're interested.
+
+		Applicants will need to have (number of years) experience and the following qualifications:
+
+		    List out the qualifications required (or professional memberships, etc.)
+
+		I'm currently preparing CVs for the client and am excited to put you forward. Can you review the information here and let me know if you would like to apply?
+
+		If you would like further information or want to chat about the position, you can contact me at (insert information).
+
+		The deadline for applications is (insert deadline).
+
+		I look forward to hearing from you.
+		(Your name)
+
+### 2. Thank you email to a recruiter sample
+
+Let's say you're a candidate who has received the email above. How would you respond?
+
+This thank you email to a recruiter includes a thank you before getting into the specific details of the interaction. (In this example, we'll assume you're not interested.) Finally, we finish with a professional closing.
+
+		Hi (Recipient's name),
+
+		Thank you for sharing details of the (job title) post. While I appreciate you considering me for the role, it's not one that I am currently interested in applying for.
+
+		Even though this one wasn't suitable, I am open to other opportunities, so stay in touch.
+
+		Kindest regards,
+		(Your name)
+
+### 3. Reply email to a recruiter sample
+
+This example shows you how to respond to a recruiter's email if you're interested in an opportunity. In this response to a request, we say thank you, outline our availability, and suggest some next steps.
+
+		Hi (Recipient's name),
+
+		Thank you for sharing details of the (job title) role. It looks great, and I would love to apply!
+
+		I’ve attached a copy of my CV with this email. You can access my LinkedIn profile here (insert link).
+
+		I'm available for initial interviews and discussions on the following dates and times:
+
+		    Insert dates and times
+
+		Please get in touch with me if you require more information or details on me, my experience, and my qualifications.
+
+		Best regards,
+		(Your name)
+
+### 4. Email to recruitment agency sample
+
+Recruitment agencies are used to dealing with hundreds of emails daily, so yours better stand out to stand a chance! The format here should be familiar, with an introduction, an outline of your relevant qualifications, and a request to discuss suitable opportunities.
+
+You must describe the value you can bring, so be confident (and don't forget your contact details).
+
+		Hi (Recipient's name),
+
+		I'm an experienced (whatever you do), and I am searching for a new role. After several successful years at (company name), it's time to move on, and I would like your help.
+
+		I've attached a copy of my CV to this email, but I have highlighted my qualifications, experience, and key achievements below:
+
+		    Add details!
+		    Explain the value you can bring to any business...
+
+		The type of role I am searching for is (insert details and be specific).
+
+		If you can review the information here and contact me, that would be great. I welcome the chance to chat about any suitable roles you are recruiting for.
+
+		Kind regards,
+		(Your name)
+
+### 5. Sample email to send resume to recruiter
+
+Sometimes a recruiter will request a sample of your resume for an opportunity. Again, we led with an intro and a clarify the position we're applying for.
+
+Before you send the resume email, ensure you've attached your resume and end with a polite thank you.
+
+		Hi (Recipient's name),
+
+		I've seen some of the roles you are advertising online and wanted to get in touch and share my CV with you.
+
+		I have worked as a (insert details of who you are, what you do, etc.)
+
+		You can find details of my qualifications, work history, and key achievements in my CV, which is attached to this email.
+
+		I would love to chat about any opportunities you may have that I could be suitable for. You can contact me at (insert details).
+
+		I will wait to hear from you.
+		(Your name)
+
+### 6. Sample email to a recruiter for job opportunities
+
+If you're struggling with how to send an email to a recruiter to inquire about job opportunities, let us help. Like previous examples, we describe your relevant qualifications and experience and provide an insight into you with information about your interests.
+
+This sample sets out what type of opportunities you're looking for (part-time, hybrid, fully remote, etc.). Again, being specific will ensure you only get sent relevant opportunities.
+
+As always, end with a thank you and keep checking you've added those contact details.
+
+		Hi (Recipient's name),
+
+		My name is (your name), and I am a talented and experienced (programmer, journalist, bricklayer, dog walker, etc.) currently searching for a new role.
+
+		Some of my key skills include (list these out). As a person, I am highly driven and have made a massive personal contribution to the places I have worked, including (list out some examples).
+
+		For more details on my career so far, here's my LinkedIn profile, and I have attached a copy of my CV.
+
+		Do you have any opportunities that suit my skills?
+
+		Please get in touch with me at (insert details), and we can schedule an introductory call.
+
+		Best,
+		(Your name)
+
+### 7. Sample email to a recruiter for job interest
+
+Let's say you've spotted a job opportunity online, and you're enthusiastic; this is a great email to send a recruiter. We explain who we are and the opportunity we're applying for.
+
+We express interest in a position enthusiastically and complete the sample with our contact information.
+
+		Hi (Recipient's name),
+
+		I've seen your advert for the (job title) position and wanted to apply.
+
+		I'm a highly skilled and motivated (whatever you do) with impressive transferable experience. I've attached a copy of my CV with this email, and I believe I meet all the essential criteria for the role.
+
+		Please review my CV, and get in touch if you would like to discuss my application. I am incredibly excited by the role and hope that you will consider taking my application forward.
+
+		Many thanks,
+		(Your name)
+
+### 8. Cold email to recruiter sample
+
+You'll read lots of examples of how to approach a recruiter. Our advice is don't try to be too smart, just keep it simple and provide the basics.
+
+Start by introducing yourself to the recruiter, explaining who you are and the opportunities you're searching for. Then, request details of any opportunities and provide a professional closing.
+
+Short, simple, and suitable for any recruitment situation.
+
+		Hi (Recipient's name),
+
+		We've not spoken before, but my name is (your name). I'm a qualified, skilled, and talented (programmer, nurse, etc.), and I am currently searching for a new role.
+
+		I am searching for opportunities in (outline the industry you want to work in, your working location and pattern, etc.).
+
+		I have attached a copy of my CV for you to review. Some of my career highlights include (it's always good to add some details).
+
+		Once you have reviewed my CV, please contact me at (insert details) to arrange an introductory call.
+
+		I'm excited to work with you and secure a new role that suits my skills and matches my ambitions.
+
+		Best regards,
+		(Your name)
+
+### 9. Sample email to recruiter after applying
+
+This follow-up email to a recruiter is ideal if you've already applied for a job but are waiting for an update. We'll assume the person knows who you are, but we include a short introduction, including the job you've applied for.
+
+The follow-up request is a polite reminder of the next steps in the process, with a request for a reply and a thank you.
+
+		Hi (Recipient's name),
+
+		My name is (your name), and I recently applied for the (role) position with you. I am getting in touch to ask about the progress of my application?
+
+		Please let me know if I have been successful in securing an interview.
+
+		I'm still very excited about the position and would love the chance to secure an interview.
+
+		If you need more information from me or would like to discuss the opportunity in more detail, please contact me at (insert details).
+
+		I look forward to receiving an update.
+		(Your name)
+
+### 10. Ask a recruiter how to prepare for an interview email sample
+
+Recruiters want you to do the best you can at an interview. If you're worried or want some advice, ask! It's a good idea to introduce yourself again and remind them of the job opening you're applying for.
+
+Then, provide some details about your request for information and why you need it for your interview preparation.
+
+If you've got a deadline, say so (and always say thank you!).
+
+		Hi (Recipient's name),
+
+		I'm currently preparing for my interview for the (role title) position, and I would like some more information.
+
+		Please can you provide me with extra details on the following:
+
+		    Bullet points are a good way to add a list...
+
+		This detail will help me to prepare for the interview and deliver my best performance. If it's easier to chat about this on the phone or in person, please let me know, and we can arrange a call.
+
+		Thanks in advance!
+		(Your name)
+
+### 11. Thank you email to a recruiter after an interview
+
+In this sample, we outline what to say in a thank you email to a recruiter after a phone interview. We explain what happened and offer our gratitude for setting it up.
+
+You can add specific details about the interview and (if you want) request feedback. If you're still searching for a new job, ensure you say so and finish like a pro with a professional email closing.
+
+		Hi (Recipient's name),
+
+		I am checking in with you after my interview for the (job title) role at (company name).
+
+		Firstly, thank you for setting it up. It was great to have an opportunity to meet with (company name) and learn a little more about what they do.
+
+		The interview went great. They asked for more information about (whatever they asked for), and I wanted to provide that here.
+
+		I'm excited to learn about the outcome and welcome any feedback. I'm 100% committed to finding a new role, so please share details of any other opportunities I may be suitable for.
+
+		Thanks,
+		(Your name)
+
+### 12. Sample email to a recruiter asking for an update
+
+If you've done an interview but are still waiting for information, here's how to request a status update. Provide details of the job opening, including when you were interviewed.
+
+Request additional information, and conclude with a professional closing.
+
+If you don't hear anything back immediately, don't be disheartened. Recruitment processes can take months, so stick with it!
+
+		Hi (Recipient's name),
+
+		I'm getting in touch to ask for an update on my application for the (job title) role. I was invited to interview on (insert date), and it went well.
+
+		Can you provide me with an update on progress and the next steps in the process?
+
+		I'm currently at work, so I would prefer you to email me at (insert email address) during working hours.
+
+		Many thanks,
+		(Your name)
+
+### 13. Sample thank you email to recruiter after getting the job
+
+You've received the great news you've got the job; now it's time to set out the next steps.
+
+Start by advising the recruiter of your decision (in this case, yes!). It's a good idea to express some enthusiasm for the new role and request details of the next steps in the process.
+
+Sign off with a stylish and professional closing.
+
+Cheers on the new job; you're worth it!
+
+	Hi (Recipient's name),
+
+	Thank you for sharing with me the job offer. I'm delighted to accept it!
+
+	Throughout the process, I've been really excited about this position. It's the right next step for me and my career.
+
+	Thank you for all of your support.
+
+	Can you let me know the next steps in the process? Once I've signed a contract of employment, I can let my current employer know and work out my notice period.
+
+	I can't wait to get started!
+	(Your name)
+
+### 14. Sample email to recruiter after rejection
+
+It's disappointing not to get a role, but you should always email the recruiter back. Why? Because they're probably working on the next position, and we're 100% sure that's right for you.
+
+You'll need to accept the decision gracefully and wish the successful applicant well (even if you don't really mean it). If you want, ask for feedback and stay positive for the future! The right role is out there; you just need to find it.
+
+		Hi (Recipient's name),
+
+		Thank you for letting me know that I was unsuccessful in my application for the (job title) position.
+
+		I thought the interview went well. We developed a good relationship, so I am disappointed I didn't secure the role. However, I understand it has gone to a candidate with more relevant experience.
+
+		I wanted to say thank you for all the support, advice, and guidance you have provided. I also wanted to confirm my commitment to finding a new position. Please continue to share any suitable roles with me.
+
+		Thanks once again,
+		(Your name)
+
+
+### 15. Recruiting email template
+
+The samples here focus on helping you find a job and build a rewarding relationship with a recruiter. However, if they're too basic or not doing the business, you can create your own with our customizable template.
+
+This template uses professional and effective language to convey your point. It's consistent in formatting and tone and easy to adjust for different recruitment scenarios.
+
+You can work your way through, including relevant email for each scenario (and delete anything that doesn't work for you).
+
+		Hi (Recipient's name),
+
+		My name is (your name), and I'm contacting you about the (job title) position.
+
+		I want to apply for the role, and I have attached my CV (provided a LinkedIn profile, portfolio, etc.) to highlight my skills and experience.
+
+		Some of my key achievements include (add details of your key successes).
+
+		Please can you review my information and let me know if you are happy to progress my application?
+
+		You can contact me with details about the role at (insert contact information).
+
+		I look forward to hearing from you.
+
+		Kind regards,
+		(Your name)
