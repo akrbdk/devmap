@@ -1,5 +1,3 @@
-Here's the translation of your text into English:
-
 # Resume Info
 
 ## General Tips
