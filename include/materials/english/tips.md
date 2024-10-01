@@ -263,6 +263,12 @@ Why did you leave your previous job?
 
 Почти все разговоры формата small talk так или иначе начинаются с How are you? и это нормально. Другие формы с тем же смыслом:
 
+When someone asks you how you are, be honest!
+
+	For example: 
+	“I’m great! I’m at an interview for a company I admire,” or “I’m a little nervous. I’m at an interview for my dream job.”
+
+
 	How are you doing? 
 	How are you doing today?
 	How has your day been so far? 
