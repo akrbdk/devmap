@@ -1,9 +1,126 @@
 # General Backend Questions
 
-1. [ALL](#ALL)
-2. [JUNIOR](#JUNIOR)
-3. [MIDDLE](#MIDDLE)
-4. [SENIOR](#SENIOR)
+---
+
+1. [BASE](#BASE)
+2. [ALL](#ALL)
+3. [JUNIOR](#JUNIOR)
+4. [MIDDLE](#MIDDLE)
+5. [SENIOR](#SENIOR)
+
+---
+
+## BASE
+
+### **Data Types in PHP**
+- `bool` - (boolean type)
+- `int` - (integers)
+- `float` - (floating-point numbers)
+- `string` - (strings)
+- `array` - (arrays)
+- `object` - (objects)
+- `callable` - (functions)
+- `mixed` - (any type)
+- `resource` - (resources)
+- `null` - (absence of a value)
+
+---
+
+### **Protocols and Standards**
+- **TCP/IP** — Transmission Control Protocol/Internet Protocol
+- **UDP** — User Datagram Protocol
+- **FTP** — File Transfer Protocol
+- **HTTP** — HyperText Transfer Protocol
+- **TLS** (Transport Layer Security)
+- **SSL** (Secure Socket Layer)
+- **DNS** - Domain Name System
+- **NTP** — Network Time Protocol
+- **SSH** — Secure SHell
+- **IMAP**, **POP3**, **SMTP**
+- **PSR** (PHP Standards Recommendations)
+- **REST** - Representational State Transfer
+- **SOAP** - Simple Object Access Protocol
+- **JWT** - JSON Web Token
+
+---
+
+### **Principles and Acronyms**
+- **YAGNI** — You Aren’t Gonna Need It
+- **DRY** — Don’t Repeat Yourself
+- **KISS** — Keep It Simple, Stupid
+- **BDUF** — Big Design Up Front
+- **APO** — Avoid Premature Optimization
+
+---
+
+### **SOLID Principles**
+- **S** - Single Responsibility Principle
+- **O** - Open/Closed Principle
+- **L** - Liskov Substitution Principle
+- **I** - Interface Segregation Principle
+- **D** - Dependency Inversion Principle
+
+---
+
+### **Programming to an Interface, Not an Implementation**
+Different implementations can be hidden behind a common interface defined in a superclass. As a result, the client code can operate on an object of the superclass without concerning itself with the specific implementation.
+
+---
+
+### **Cohesion**
+Cohesion refers to the degree to which neighboring procedures depend on each other. Ideally, components should have responsibilities that are clearly and distinctly divided. If related procedures are scattered across the codebase, it becomes difficult to maintain them, as finding where changes need to be made requires significant effort.
+
+---
+
+### **Tight Coupling**
+Tight coupling occurs when different parts of a system are closely interconnected, such that changes in one part necessitate changes in others. Tight coupling isn't exclusive to procedural code, but it can lead to complications.
+
+---
+
+### **Code Reusability**
+Reusability is one of the primary goals of object-oriented design. Tight coupling undermines this goal by creating dependencies that make modifications risky. Independent components should be designed to enable changes without unintended side effects, allowing for modular and reusable code.
+
+---
+
+### **Orthogonality**
+Orthogonality is the combination of components with well-defined responsibilities that are independent of the broader system context. This promotes reusability, as components can be integrated into new systems without requiring adjustments. Such components should have clear input and output interfaces.
+
+---
+
+### **Composition vs. Inheritance**
+- **Inheritance**: Efficient for describing changing circumstances or contexts but can reduce flexibility if classes have multiple responsibilities.
+- **Composition**: Offers greater flexibility by allowing objects to be dynamically combined in ways inheritance alone cannot. However, this may make the code harder to read and the relationships between components less predictable.
+
+---
+
+### **Encapsulation**
+Encapsulation is the principle that any class, or part of a system, should be treated as a "black box": users of the class should only see its interface (declared properties and methods) without delving into its internal implementation.
+
+Encapsulation minimizes dependencies between classes and subsystems, simplifying independent implementation and modification.
+
+At a basic level, encapsulation involves declaring properties as `private` or `protected`. By hiding properties from client code, you preserve the interface and prevent accidental data corruption.
+
+If a class directly accesses fields of another class, it creates a dependency on the internal structure of that class. Changes to the internal structure may require changes to dependent classes, undermining reusability.
+
+---
+
+### **Inheritance**
+Inheritance allows creating a new class from an existing one while preserving all properties and methods of the parent class (superclass) and adding new ones if needed.
+
+While inheritance expresses the hierarchy of real-world relationships, excessive use can create tight coupling. It is recommended to build inheritance trees "bottom-up" to minimize levels.
+
+---
+
+### **Polymorphism**
+Polymorphism is the ability to use derived classes in a context meant for the base class.
+
+It supports multiple implementations of a shared interface, often reducing the need for conditional operators (`if` or `switch`). If you notice frequent conditional checks, consider dividing responsibilities into separate classes implementing a common abstract base class.
+
+This approach encapsulates different implementations behind a shared interface, hiding strategies from client code. Changes behind this interface remain transparent to the rest of the system, fostering independence and reducing chain-reaction errors.
+
+Encapsulation, in this context, aims to make each system part as independent as possible, limiting the scope of tasks and dependencies to promote clarity and modularity.
+
+---
 
 ## ALL
 
@@ -3284,9 +3401,6 @@ class URLShortener {
 }
 ?>
 ```
-
-These examples demonstrate foundational approaches to solving the mentioned tasks in PHP.
-
 
 
 

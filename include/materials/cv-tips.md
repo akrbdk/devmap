@@ -1,80 +1,6 @@
 # Resume Info
 
-## General Tips
-
-- **Length**: The ideal resume length is 1 page for experience < 10 years. If you don’t contribute to Open Source, shorten your resume to 1 page. Reduce the number of bullet points (3-4), check the relevance of your experience. It’s recommended to list your skills at the top.
-- **Style**: Your resume should have a consistent style. Avoid mixing italics, bold text, different fonts, sizes, and colors.
-- **Single column**: Do not split your resume into two columns. A second column distracts attention from the more important information.
-- **ATS Parsing**: Try copying the text of your resume and pasting it into a text editor. Is it still readable?
-- **Format**: Use PDF, unless a company requires a different format.
-- **Composition**: Align the text to the left for easier reading.
-- If you are applying for different positions (e.g., DS/DA), create separate resumes for each, tailoring them to the relevant experience.
-- **File name**: Name your file in the format of first name, last name, and CV (e.g., `Alex_Ivanov_CV.pdf`). Avoid names like `_Final`, `_v42`.
-
-## Resume Structure
-
-- **Name**: Your first name should come before your last name (e.g., Alex Ivanov).
-- **Links**: Ensure that your links work and are clickable. Remove any links that lead to empty profiles (e.g., if there are no projects on GitHub, don’t include the link).
-- **Personal Summary**: This section briefly describes your skills, experience, and achievements. Make it short and meaningful. Focus on how you can add value to the company. The summary should not contain bullet points.
-  
-### Skills Section
-
-- This section should appear under the Summary. Split it into categories (e.g., Languages and Frameworks). Don’t list all technologies; prioritize your strengths.
-- Remove technologies like `prettier`, `eslint`, `jira`, `git` — it can indicate a lack of experience.
-- Eliminate categories like APIs, ORMs, management, and architecture from your skill list to avoid appearing unsure.
-
-### Work Experience
-
-- List your experience in reverse chronological order. Include the dates and location of each position. Use active verbs, and shorten the list of tasks to 2-3 points. Add measurable achievements.
-- Focus on your contribution to the company, not just the process of completing tasks.
-- Avoid mentioning duties like "analyzing product and marketing metrics." Instead, highlight specific accomplishments.
-- Remove "Soft skills" from the skills section. Demonstrate these through your interactions and during interviews.
-
-## Cover Letter
-
-- Don’t waste time on a cover letter unless you know the hiring manager’s or recruiter’s contact details. A cover letter should be personalized.
-- Try the "5 with letters and 50 without" approach and compare the effectiveness. Sometimes companies use questionnaires instead of cover letters.
-
-## GitHub
-
-- GitHub represents a developer. Format it as your second resume: work on the `README` on the main page.
-- Don’t include an empty GitHub in your resume.
-
-## American Resume Format
-
-- Remove your photo, gender, age, and marital status from the resume to avoid discrimination.
-- Use the XYZ format: Accomplished [X] as measured by [Y], by doing [Z].
-- Avoid mentioning duties like coding or bug fixing. Focus on specific, measurable achievements.
-
-## German Resume Format
-
-- If your German language skills are weak, don’t write the resume in German.
-- Include a passport-style photo in the top-right corner.
-- Specify your age for a complete profile.
-
-## General Tips for Writing Resumes
-
-- Job descriptions represent a compromise within companies. You don’t need to meet all the requirements.
-- A resume is a landing page that sells you. Its goal is not to guarantee you an offer, but to convert views into an initial screening. Selling isn’t about pushing or deceiving; it’s about highlighting what the company wants and what you can do.
-- A resume is a document that highlights your strengths and downplays your weaknesses.
-- The main goal of any hire is to find a candidate with the highest ROI for the company.
-
-## Additional Tips
-
-- Research the job market through platforms like LinkedIn, Glassdoor, and others to get information about salaries and conditions.
-- Remove "middle" from your resume for the US. In the US, there’s no "middle" role; it’s usually just "Software Engineer."
-- In Germany, teams often work in English, as they hire specialists from around the world.
-- Staying in one job for more than 8 years or demotions (e.g., from team lead to developer) can be seen negatively.
-
-This format helps structure and present information in a more digestible way.
-
----
-
-Инфа по резюме
-
-
 Общие советы
-
 
 - Размер. Идеальный размер резюме 1 страница - для опыта < 10 лет или еслил нет вклада в Open Sorce - есть возможность укоротить резюме до 1 страницы, укороти, уменьши количество буллетпоинтов (имею ввиду пунктов в опыте работы), постарайся сократить их количество до 3-4 если их там у тебя больше, подумай релевантен ли твой опыт в резюме, + рекомендую навыки ставить в начало
 - Стиль. Резюме должно быть в едином стиле - не нужно чтобы в резюме был одновременно курсив, выделение жирным, разный шрифт, размер и цвет.
@@ -118,7 +44,6 @@ This format helps structure and present information in a more digestible way.
 - но сильно никого не заботит гитхаб и код. Главное по воронке проходить, а это резюме и интервью
 
 
-
 АМЕРИКАНСКИЙ формат резюме
 
 - Личная информация. Уберите из резюме фото, пол, возраст, семейный статус, это связано с дискриминацией.
@@ -126,8 +51,6 @@ This format helps structure and present information in a more digestible way.
 - Убрать обязанности из описания. Не надо упомянать, что писал код, правил баги итп. Нужна конкретика
 - Убрать хобби и описание как вы дошли до жизни такой
 - Уровень языка я убрал бы, вы если подаетесь в англоговорящие компании, то подразумеваете что у вас английский достаточный для коммуникации
-
-
 
 НЕМЕЦКИЙ формат резюме
 
@@ -138,8 +61,6 @@ This format helps structure and present information in a more digestible way.
 - You can also include your place of birth, marital status, and number of children (if any).
 - Education: Education should be written in reverse-chronological order, going all the way back to high school. Each entry should include the name of the institution and the area of study.
 
-
-
 Советы всем, кто сам пишет резюме:
 
 - Вакансии, которые вы видитее это компромисс требований внутри компаний. Вы не обязаны на 100% соответствовать всем требованиям.
@@ -147,25 +68,17 @@ This format helps structure and present information in a more digestible way.
 - Резюме - это документ, который вас расхваливает. Подчеркивает ваши достоинства и скрывает недостатки. 
 - Главная цель любого найма: найти кандидата с наивысшим ROI. Компания получает деньги от клиентов. Компания хочет зарабатывать больше, тратить меньше. 
 - Мучайте ИИ. Пусть он вам подсказывает релевантные KPI, OCR, Product, Business, Technical Metrics для конкретной бизнес модели компании в которой вы работаете. Не можете понять откуда у компании бабки: опишите компанию, где работаете и пусть ИИ сам определит, что важно и ценно для бизнеса.
-
 - вся информация доступна\известна - самое сложное это заставить себя готовиться, а этого за тебя никто не сделает.
-
 - На Реддите вопросы про зарплату нормально обсуждаются, очень классно можно получить информацию о том, какие цифры на рынке за что платят.
-
 - Если бы перед переездом в Германию, я бы спросил про "норм ли вот такая моя зарплата для Германии", мне бы пару дней поясняли, что за такую зарплату даже в кофейнях не работают. Ничего, кроме демотивации, к сожалению не получить, поэтому только ресёрчить рынок через linkedin, levels, glassdoor, общение с конкретными знакомыми и тд, и смотреть на стоимость жизни на сайтх вроде numbeo(там частенько данные отстают на год-два, что может слегка помешать пониманию). Ну и сравнивайте с тем, какой сами хотите себе уровень жизни на старте)
-
 - Годы университета я не слышал что прям не следует указывать - Это скорее если опасаешься что могут по возрасту срезать - тогда вот уже иногда рекомендуют не писать
-
 - Я бы все же убрал “middle” - В США, кстати, нет middle - вместо этого пишут просто software engineer.
-
 - т.к. в Германии до сих пор нехватка специалистов, в команды часто берут индусов, португальцев, русских и др. Практически во всех известных мне фирмах внутренний язык это англ., именно внутри dev команды. 
 
-- будет расценено однозначно как минус:
+будет расценено однозначно как минус:
 * перерыв в работе
 * работа на линейной позиции меньше 2 лет
 * работа на руководящей позиции меньше 4 лет
 * понижение в должности (из тимлида в разработчики например)
 * работа на 1 месте более 8 лет
 * отсутствие роста должности при работе > 5 лет
-
-
